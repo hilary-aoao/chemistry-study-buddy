@@ -1,0 +1,1512 @@
+[
+  {
+    "id": "chem_001",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "Which group in the periodic table contains the noble gases, and why are they unreactive?",
+    "plain_answer": "Noble gases are found in Group 18 (sometimes labeled Group 0), the last column on the right of the periodic table. They are mostly unreactive because their outermost electron shell is already full, so they have little tendency to gain, lose, or share electrons with other atoms.",
+    "pidgin_answer": "Ehen make I break am down. Noble gases dey stay for Group 18, di last column for di right side of di periodic table. Dem dey chill like that because dia outer shell don already full, so dem no dey react with anything easily. Na why dem call dem noble, dem too classy to mix anyhow!",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Periodic Table topic"
+  },
+  {
+    "id": "chem_002",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "What are the three main subatomic particles, and what charge does each carry?",
+    "plain_answer": "The three main subatomic particles are protons (positive charge), neutrons (no charge, neutral), and electrons (negative charge). Protons and neutrons are found in the nucleus, while electrons orbit around it in shells.",
+    "pidgin_answer": "No wahala, na three main gang dey inside atom. Proton, e get positive charge. Neutron, e no carry any charge at all, e just dey neutral like that. Electron now, e get negative charge and e dey fly around outside di nucleus for im own shell. Proton and neutron dey stay for di center, di nucleus, dem be like di core team.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Atomic Structure topic"
+  },
+  {
+    "id": "chem_003",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "What is the difference between an ionic bond and a covalent bond?",
+    "plain_answer": "An ionic bond forms when one atom transfers electrons to another, creating oppositely charged ions that attract each other, typically between a metal and a non-metal. A covalent bond forms when two atoms share electrons instead of transferring them, typically between two non-metals.",
+    "pidgin_answer": "Okay make we yarn am simple. Ionic bond na when one atom just give out electron to another atom, so dem become charged, one positive one negative, and dem hold each other like magnet. Na so metal and non-metal dey usually do am. Covalent bond different small, e be like say di two atoms dey share electron together instead of one just dey give am out, and na two non-metals dey mostly do this one.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Chemical Bonding topic"
+  },
+  {
+    "id": "chem_004",
+    "subject": "Chemistry",
+    "topic": "Acids, Bases and Salts",
+    "question": "What happens when an acid reacts with a base?",
+    "plain_answer": "When an acid reacts with a base, they undergo a neutralization reaction, producing a salt and water. For example, hydrochloric acid reacting with sodium hydroxide produces sodium chloride (salt) and water.",
+    "pidgin_answer": "So dis one na one of di sweet reactions for chemistry. When acid meet base, dem dey cancel each other out, dem call am neutralization. Wetin dem produce na salt and water. Like if hydrochloric acid meet sodium hydroxide, dem go turn to sodium chloride, wey be common salt, plus water. Dem just balance each other out finish.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Acids Bases and Salts topic"
+  },
+  {
+    "id": "chem_005",
+    "subject": "Chemistry",
+    "topic": "Mole Concept",
+    "question": "What is Avogadro's number, and what does it represent?",
+    "plain_answer": "Avogadro's number is approximately 6.02 x 10^23. It represents the number of particles (atoms, molecules, or ions) contained in one mole of a substance, and it's the standard link between the microscopic world of atoms and measurable quantities we can weigh in a lab.",
+    "pidgin_answer": "Ah, dis Avogadro number na serious number o, e be like 6.02 wey get 23 zeros follow am, dem write am as 6.02 times 10 to power 23. Wetin e mean simply na di number of small particles, whether atom, molecule, or ion, wey dey inside one mole of anything. Na di bridge wey connect di tiny tiny atoms to di things wey we fit weigh for lab.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Mole Concept topic"
+  },
+  {
+    "id": "chem_006",
+    "subject": "Chemistry",
+    "topic": "Electrolysis",
+    "question": "What is electrolysis, and where does oxidation occur during the process?",
+    "plain_answer": "Electrolysis is the process of using electrical energy to drive a non-spontaneous chemical reaction, typically decomposing an electrolyte into its elements. Oxidation, the loss of electrons, occurs at the anode (the positive electrode).",
+    "pidgin_answer": "Electrolysis na when you use electricity power to force one chemical reaction wey no for happen ordinarily, e go break down di electrolyte to im original elements. Now di oxidation part, wey mean say electrons dey lost, e dey happen for di anode, na di positive electrode. Just remember, anode be positive, and na there oxidation dey occur.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Electrolysis topic"
+  },
+  {
+    "id": "chem_007",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry Basics",
+    "question": "What is the general formula for alkanes, and what makes them 'saturated'?",
+    "plain_answer": "The general formula for alkanes is CnH2n+2. They are called saturated hydrocarbons because all the carbon-carbon bonds are single bonds, meaning each carbon atom is bonded to the maximum possible number of hydrogen atoms.",
+    "pidgin_answer": "Alkane formula na CnH2n+2, just remember am like your house number. Dem dey call am saturated because all di bond wey dey between di carbon atoms na single bond only, no double or triple anywhere. E mean say each carbon done hold as many hydrogen as e fit hold, e don reach im maximum, e no get space again, e don saturate finish like sponge wey don soak full water.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+  },
+  {
+    "id": "chem_008",
+    "subject": "Chemistry",
+    "topic": "Gas Laws",
+    "question": "According to Boyle's Law, what happens to the volume of a gas when its pressure increases at constant temperature?",
+    "plain_answer": "Boyle's Law states that at constant temperature, the volume of a fixed amount of gas is inversely proportional to its pressure. This means if pressure increases, volume decreases, and vice versa, as long as temperature stays the same.",
+    "pidgin_answer": "Boyle's Law simple well well. E dey talk say if temperature no change, pressure and volume dey do see-saw, when one go up, di other one go down. So if you squeeze gas make pressure increase, di volume go shrink, e go pain am make e reduce. If you release di pressure, di volume go expand again. Dem be enemy wey dey balance each other.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Gas Laws topic"
+  },
+  {
+    "id": "chem_009",
+    "subject": "Chemistry",
+    "topic": "Redox Reactions",
+    "question": "What do the terms 'oxidation' and 'reduction' mean in terms of electron transfer?",
+    "plain_answer": "Oxidation is the loss of electrons by a substance, while reduction is the gain of electrons. A helpful way to remember this is the mnemonic OIL RIG: Oxidation Is Loss, Reduction Is Gain.",
+    "pidgin_answer": "Make I give you one correct gist to remember am forever. Oxidation na when substance dey lose electron, e dey commot electron. Reduction na di opposite, di substance dey gain electron, e dey collect am add. Just remember OIL RIG: Oxidation Is Loss, Reduction Is Gain. E go stick for your head like glue.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Redox Reactions topic"
+  },
+  {
+    "id": "chem_010",
+    "subject": "Chemistry",
+    "topic": "Rate of Reaction",
+    "question": "Name three factors that can increase the rate of a chemical reaction.",
+    "plain_answer": "Three factors that increase reaction rate are: increasing temperature (particles move faster and collide more often with more energy), increasing concentration (more particles available to collide), and adding a catalyst (lowers the activation energy needed for the reaction).",
+    "pidgin_answer": "Okay three things wey fit make reaction hurry reach finish line faster. Number one, increase di temperature, di particles go dey run up and down well well, dem go dey knock each other more, and with more energy too. Number two, increase di concentration, e mean say more particles dey available to clash. Number three, add catalyst, e go reduce di energy wey dem need to start di reaction, e be like say e dey give dem shortcut.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Rate of Reaction topic"
+  },
+  {
+    "id": "chem_011",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "How does atomic radius change as you move across a period from left to right?",
+    "plain_answer": "Atomic radius generally decreases as you move across a period from left to right. This happens because the number of protons increases, pulling the electrons closer to the nucleus with a stronger positive charge, even though electrons are being added to the same shell.",
+    "pidgin_answer": "As you dey waka from left go right for one period, di atomic radius dey shrink, e dey become smaller and smaller. Why e dey happen na because di number of proton dey increase, so di nucleus dey pull di electrons close well well with strong force, even though na di same shell electrons dey enter.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Periodic Table topic"
+  },
+  {
+    "id": "chem_012",
+    "subject": "Chemistry",
+    "topic": "Acids, Bases and Salts",
+    "question": "What is the pH scale, and what pH value indicates a neutral solution?",
+    "plain_answer": "The pH scale measures how acidic or basic (alkaline) a solution is, ranging from 0 to 14. A pH of 7 indicates a neutral solution, values below 7 indicate acidity, and values above 7 indicate basicity/alkalinity.",
+    "pidgin_answer": "pH scale na di ruler wey we dey use measure how acidic or how basic one solution be, e dey run from 0 to 14. If pH reach exactly 7, dat one na neutral, e no lean any side. If e dey below 7, e means di thing acidic. If e dey above 7, e means di thing basic or alkaline. Just remember 7 na di middle ground, di peace zone.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Acids Bases and Salts topic"
+  },
+  {
+    "id": "chem_013",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "What is a hydrogen bond, and why is it considered weaker than a covalent bond?",
+    "plain_answer": "A hydrogen bond is a weak attractive force between a hydrogen atom (already bonded to a highly electronegative atom like oxygen, nitrogen, or fluorine) and another electronegative atom nearby. It is considered weaker than a covalent bond because it's an attraction between molecules (or parts of a molecule), not a full sharing or transfer of electrons.",
+    "pidgin_answer": "Hydrogen bond na small weak force wey dey pull hydrogen atom, wey don already bond to strong atom like oxygen, nitrogen, or fluorine, towards another strong atom nearby. E weak pass covalent bond because e no be real sharing of electron like covalent bond, na just small attraction wey dey happen between molecules, e be like say na just dem dey hold hand small, no be say dem don marry finish.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Chemical Bonding topic"
+  },
+  {
+    "id": "chem_014",
+    "subject": "Chemistry",
+    "topic": "Mole Concept",
+    "question": "How do you calculate the number of moles of a substance if you know its mass?",
+    "plain_answer": "The number of moles is calculated by dividing the given mass of the substance by its molar mass: moles = mass (g) / molar mass (g/mol). The molar mass is found by adding up the atomic masses of all atoms in the substance's formula.",
+    "pidgin_answer": "To find how many mole dey inside your substance, just divide di mass wey you get by di molar mass. So di formula na: mole equals mass for gram, divide by molar mass. To find di molar mass, just add up all di atomic mass of di atoms wey dey inside di formula, sum dem all together, and there you get your answer.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Mole Concept topic"
+  },
+  {
+    "id": "chem_015",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry Basics",
+    "question": "What functional group distinguishes an alcohol from other organic compounds?",
+    "plain_answer": "Alcohols are distinguished by the hydroxyl group (-OH) attached to a carbon atom. This functional group is responsible for many of alcohol's characteristic properties, such as its ability to form hydrogen bonds and its relatively higher boiling point compared to similarly sized hydrocarbons.",
+    "pidgin_answer": "Wetin dey mark out alcohol from di rest na di hydroxyl group, di -OH wey dey attach to one carbon atom. Na dis small group dey cause plenty of di things wey alcohol dey do, like why e fit form hydrogen bond, and why im boiling point dey high small pass hydrocarbon wey resemble am for size. Just spot di -OH, na alcohol be dat.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+  },
+  {
+    "id": "chem_016",
+    "subject": "Chemistry",
+    "topic": "Separation Techniques",
+    "question": "What separation technique would you use to separate a mixture of sand and water?",
+    "plain_answer": "Filtration is used to separate an insoluble solid (sand) from a liquid (water). The mixture is poured through filter paper; the sand is retained as residue while the water passes through as filtrate.",
+    "pidgin_answer": "Dis one simple, na filtration you go use. You pour di mixture enter filter paper, di sand go remain on top as residue because e no fit pass through, and di water go drip down pass finish as filtrate. Just like how you dey sieve garri.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Separation Techniques topic"
+  },
+  {
+    "id": "chem_017",
+    "subject": "Chemistry",
+    "topic": "Separation Techniques",
+    "question": "How does fractional distillation separate a mixture of liquids like crude oil?",
+    "plain_answer": "Fractional distillation separates liquids with different boiling points. The mixture is heated in a fractionating column; components with lower boiling points vaporize first and rise higher before condensing, allowing each fraction to be collected separately based on temperature.",
+    "pidgin_answer": "Fractional distillation dey use di fact say different liquid get different boiling point. Dem go heat di mixture inside one tall column, di one wey get lowest boiling point go evaporate first and climb go up before e condense. So step by step, each part go dey collect for different level based on di temperature wey e need to boil.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Separation Techniques topic"
+  },
+  {
+    "id": "chem_018",
+    "subject": "Chemistry",
+    "topic": "Separation Techniques",
+    "question": "What is chromatography used for, and how does it separate substances?",
+    "plain_answer": "Chromatography separates components of a mixture based on how differently they move through a medium (like paper) carried by a solvent. Substances that are more soluble or less attracted to the paper travel further, allowing different components to be identified by their distance traveled.",
+    "pidgin_answer": "Chromatography na wetin dem dey use separate mixture based on how di different substances dey waka through paper as solvent dey carry dem. Di ones wey dissolve well or no like to stick for paper go waka reach far, di ones wey like to hold paper go stay near. Na so you fit take note of where each one land go identify dem.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Separation Techniques topic"
+  },
+  {
+    "id": "chem_019",
+    "subject": "Chemistry",
+    "topic": "Separation Techniques",
+    "question": "When would you use crystallization instead of simple evaporation to obtain a solid from solution?",
+    "plain_answer": "Crystallization is preferred over simple evaporation when the dissolved solid decomposes on strong heating, or when pure, well-formed crystals are desired. The solution is slowly cooled after partial evaporation, allowing crystals to form gradually rather than heating to complete dryness.",
+    "pidgin_answer": "If di solid go spoil or break down if you heat am too much, or if you want clean correct crystals, na crystallization you go use instead of just dey evaporate am reach dryness anyhow. You go evaporate small small, then allow am cool down gently, so di crystals go form nice nice instead of just remaining rough powder.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Separation Techniques topic"
+  },
+  {
+    "id": "chem_020",
+    "subject": "Chemistry",
+    "topic": "Laws of Chemical Combination",
+    "question": "What does the Law of Conservation of Mass state?",
+    "plain_answer": "The Law of Conservation of Mass states that matter cannot be created or destroyed in a chemical reaction. The total mass of the reactants equals the total mass of the products.",
+    "pidgin_answer": "Dis law dey talk say matter no fit just appear from nothing or disappear go nowhere during chemical reaction. Wetin you enter with na wetin go dey there finish, di total mass of everything wey you start with go equal di total mass of everything wey come out. Nothing dey lost, nothing dey added.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Laws of Chemical Combination topic"
+  },
+  {
+    "id": "chem_021",
+    "subject": "Chemistry",
+    "topic": "Laws of Chemical Combination",
+    "question": "What does the Law of Definite Proportions state?",
+    "plain_answer": "The Law of Definite Proportions states that a chemical compound always contains the same elements combined in a fixed proportion by mass, regardless of the amount or source of the compound.",
+    "pidgin_answer": "Dis one dey talk say any particular compound go always get di same elements for di same fixed ratio by mass, e no matter where di compound come from or how plenty e be. Water na water, e go always be two hydrogen to one oxygen by di ratio wey dem dey combine, no negotiation.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Laws of Chemical Combination topic"
+  },
+  {
+    "id": "chem_022",
+    "subject": "Chemistry",
+    "topic": "Laws of Chemical Combination",
+    "question": "What does the Law of Multiple Proportions illustrate, using an example like carbon and oxygen?",
+    "plain_answer": "The Law of Multiple Proportions states that when two elements combine to form more than one compound, the masses of one element that combine with a fixed mass of the other are in a ratio of small whole numbers. For example, carbon and oxygen form CO and CO2, where the mass of oxygen combining with a fixed mass of carbon is in a simple 1:2 ratio.",
+    "pidgin_answer": "Dis law dey show wetin dey happen when two elements combine make more than one compound. Take carbon and oxygen, dem fit form CO or CO2. If you fix di carbon amount, di oxygen wey dey combine for CO2 go just be double di one for CO, so na simple 1 to 2 ratio, small whole numbers, no complex fraction anywhere.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Laws of Chemical Combination topic"
+  },
+  {
+    "id": "chem_023",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "What are isotopes, and how do they differ from one another?",
+    "plain_answer": "Isotopes are atoms of the same element that have the same number of protons but different numbers of neutrons, giving them different mass numbers while keeping the same atomic number and chemical properties.",
+    "pidgin_answer": "Isotopes na atoms wey belong to di same element, dem get di same number of proton, but dia neutron number dey different. So dia mass number go dey different, but dia atomic number no go change, and dia chemical behavior go still resemble each other well well.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Atomic Structure topic"
+  },
+  {
+    "id": "chem_024",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "How do you write the electronic configuration of an atom, using sodium (atomic number 11) as an example?",
+    "plain_answer": "Electronic configuration shows how electrons are arranged in shells around the nucleus, filling from the innermost shell outward. For sodium (11 electrons), the configuration is 2, 8, 1: two electrons in the first shell, eight in the second, and one in the third (outermost) shell.",
+    "pidgin_answer": "Electronic configuration na how di electrons dey arrange demselves for shell around di nucleus, dem go dey fill am from inside go outside. For sodium wey get 11 electron, e go be 2, 8, 1: two electron for di first shell, eight for di second shell, and one lonely electron for di outermost shell wey dey hang like say e wan comot.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Atomic Structure topic"
+  },
+  {
+    "id": "chem_025",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "What determines the atomic number and mass number of an atom?",
+    "plain_answer": "The atomic number is the number of protons in an atom's nucleus, and it defines what element the atom is. The mass number is the total number of protons plus neutrons in the nucleus.",
+    "pidgin_answer": "Atomic number na di number of proton wey dey inside di nucleus, na im dey decide which element di atom be, e be like im identity card number. Mass number now na di total when you add proton and neutron together, e go show you how heavy di nucleus be.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Atomic Structure topic"
+  },
+  {
+    "id": "chem_026",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "How does ionization energy change as you move down a group in the periodic table?",
+    "plain_answer": "Ionization energy generally decreases as you move down a group. This happens because the outermost electrons are farther from the nucleus and are shielded by more inner shells, making them easier to remove.",
+    "pidgin_answer": "As you dey waka down one group, ionization energy dey reduce, e dey easier and easier to comot di outer electron. Why? Because di outer electrons dey farther from di nucleus, and plenty inner shell dey shield dem, so di nucleus grip no strong reach again.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Periodic Table topic"
+  },
+  {
+    "id": "chem_027",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "What is electronegativity, and how does it change across a period?",
+    "plain_answer": "Electronegativity is a measure of an atom's ability to attract shared electrons in a chemical bond. It generally increases across a period from left to right, as the increasing nuclear charge pulls bonding electrons more strongly.",
+    "pidgin_answer": "Electronegativity na how strong one atom fit pull shared electron come come near am for inside bond. As you dey waka from left go right for one period, electronegativity dey increase, because di nucleus dey get more charge, so e dey pull di bonding electrons come am with more force.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Periodic Table topic"
+  },
+  {
+    "id": "chem_028",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "How does metallic character change as you move down a group and across a period?",
+    "plain_answer": "Metallic character increases as you move down a group, because atoms get larger and lose electrons more easily. It decreases as you move across a period from left to right, as atoms become smaller and hold their electrons more tightly.",
+    "pidgin_answer": "Metallic character dey increase as you dey waka down one group, because di atoms dey grow bigger and dem dey release electron easy easy. But as you dey waka from left go right for one period, e dey reduce, because di atoms dey shrink and dem dey hold dia electron tight tight, dem no wan gree release am again.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Periodic Table topic"
+  },
+  {
+    "id": "chem_029",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "What is metallic bonding, and why do metals conduct electricity well?",
+    "plain_answer": "Metallic bonding is the electrostatic attraction between positively charged metal ions and a 'sea' of delocalized electrons that move freely throughout the structure. Metals conduct electricity well because these free-moving electrons can carry electric charge through the material.",
+    "pidgin_answer": "Metallic bonding na di attraction wey dey between di positive metal ions and one 'sea' of electrons wey no belong to any particular atom, dem just dey waka anyhow throughout di whole structure. Na because of dis free electrons wey dey roam like that, metal dey conduct electricity well well, dem dey carry di charge pass through di material like say na road.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Chemical Bonding topic"
+  },
+  {
+    "id": "chem_030",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "What are Van der Waals forces, and where are they commonly found?",
+    "plain_answer": "Van der Waals forces are weak attractive forces between molecules, arising from temporary fluctuations in electron distribution. They are commonly found between molecules of noble gases and non-polar molecules like those in simple covalent substances.",
+    "pidgin_answer": "Van der Waals forces na weak weak attraction wey dey happen between molecules, e dey come from small small temporary change for how electron dey distribute for one moment. You go mostly find dis type of force for noble gases and non-polar molecules, like di ones wey dey inside simple covalent substances.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Chemical Bonding topic"
+  },
+  {
+    "id": "chem_031",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "What shape does a methane (CH4) molecule take, and why?",
+    "plain_answer": "Methane (CH4) is tetrahedral in shape, with a bond angle of approximately 109.5 degrees. This shape arises because the four bonding pairs of electrons around the central carbon atom repel each other and arrange themselves as far apart as possible.",
+    "pidgin_answer": "Methane, CH4, dey take tetrahedral shape, di bond angle na around 109.5 degrees. Wetin cause am na di four bonding electron pair wey dey surround di central carbon atom, dem dey push each other away, so dem go arrange demselves as far apart as possible, na so dem land for dat particular shape.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Chemical Bonding topic"
+  },
+  {
+    "id": "chem_032",
+    "subject": "Chemistry",
+    "topic": "Mole Concept",
+    "question": "What is the difference between an empirical formula and a molecular formula?",
+    "plain_answer": "An empirical formula shows the simplest whole-number ratio of atoms in a compound, while a molecular formula shows the actual number of atoms of each element in one molecule. For example, glucose has the empirical formula CH2O but the molecular formula C6H12O6.",
+    "pidgin_answer": "Empirical formula na di simplest ratio of di atoms wey dey inside compound, e no tell you di real number, just di ratio. Molecular formula now na di real real number of each atom wey dey inside one molecule. Take glucose, im empirical formula na CH2O, but im real molecular formula na C6H12O6, na six times bigger.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Mole Concept topic"
+  },
+  {
+    "id": "chem_033",
+    "subject": "Chemistry",
+    "topic": "Mole Concept",
+    "question": "What volume does one mole of any gas occupy at standard temperature and pressure (STP)?",
+    "plain_answer": "One mole of any gas occupies 22.4 liters (22,400 cm3) at standard temperature and pressure (STP), which is 0 degrees Celsius and 1 atmosphere pressure. This is known as the molar volume of a gas.",
+    "pidgin_answer": "Any gas at all, if you get one mole of am at STP, wey be 0 degrees Celsius and 1 atmosphere pressure, e go occupy 22.4 liters, wey be 22,400 cm3. Dis one dem dey call di molar volume, e no matter which gas, na di same volume, gas no dey discriminate.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Mole Concept topic"
+  },
+  {
+    "id": "chem_034",
+    "subject": "Chemistry",
+    "topic": "Mole Concept",
+    "question": "How do you calculate the molarity (concentration) of a solution?",
+    "plain_answer": "Molarity is calculated by dividing the number of moles of solute by the volume of solution in liters: Molarity (mol/L) = moles of solute / volume of solution (L). It expresses how concentrated a solution is.",
+    "pidgin_answer": "To find molarity, na simple division, you go divide di number of mole of solute by di volume of solution for liters. So: Molarity equals mole of solute divide by volume for liters. E just dey show you how strong or how concentrated di solution be.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Mole Concept topic"
+  },
+  {
+    "id": "chem_035",
+    "subject": "Chemistry",
+    "topic": "Mole Concept",
+    "question": "In a balanced chemical equation, how do the mole ratios help predict quantities of products?",
+    "plain_answer": "The coefficients in a balanced chemical equation give the mole ratio in which reactants combine and products form. This ratio allows you to calculate how many moles (and therefore mass or volume) of a product will form from a given amount of reactant, a process called stoichiometry.",
+    "pidgin_answer": "Di numbers wey dey in front of each substance for balanced equation dey show you di mole ratio wey dem dey react or produce. Wit dis ratio, you fit calculate how many mole of product go come out if you get so so mole of reactant, and from there you fit find di mass or volume too. Dem dey call dis whole calculation stoichiometry.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Mole Concept topic"
+  },
+  {
+    "id": "chem_036",
+    "subject": "Chemistry",
+    "topic": "Energy Changes",
+    "question": "What is the difference between an exothermic reaction and an endothermic reaction?",
+    "plain_answer": "An exothermic reaction releases heat energy to the surroundings, causing the temperature to rise, while an endothermic reaction absorbs heat energy from the surroundings, causing the temperature to fall. Combustion is exothermic; dissolving ammonium nitrate in water is endothermic.",
+    "pidgin_answer": "Exothermic reaction na di one wey dey release heat go outside, e go make di surrounding hot small. Endothermic now na di opposite, e dey absorb heat from di surrounding, e go make am cold small. Burning something na exothermic, but if you mix ammonium nitrate with water, e go absorb heat, na endothermic be dat.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Energy Changes topic"
+  },
+  {
+    "id": "chem_037",
+    "subject": "Chemistry",
+    "topic": "Energy Changes",
+    "question": "What is enthalpy change, and what symbol represents it?",
+    "plain_answer": "Enthalpy change (symbol delta H) is the heat energy absorbed or released during a chemical reaction at constant pressure. A negative delta H indicates an exothermic reaction, while a positive delta H indicates an endothermic reaction.",
+    "pidgin_answer": "Enthalpy change, dem dey write am as delta H, na di heat energy wey reaction go release or absorb, dem dey measure am under constant pressure. If delta H negative, e mean say na exothermic, heat dey commot. If e positive, na endothermic, heat dey enter.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Energy Changes topic"
+  },
+  {
+    "id": "chem_038",
+    "subject": "Chemistry",
+    "topic": "Energy Changes",
+    "question": "What does Hess's Law state, and why is it useful?",
+    "plain_answer": "Hess's Law states that the total enthalpy change for a reaction is the same regardless of the route taken, as long as the initial and final conditions are the same. It's useful because it allows chemists to calculate enthalpy changes for reactions that are difficult or impossible to measure directly, by breaking them into steps with known enthalpy values.",
+    "pidgin_answer": "Hess's Law dey talk say di total enthalpy change for reaction go remain di same, no matter di route wey you take, as far as di start and di finish point remain di same. E dey useful well well because e go allow you calculate enthalpy for reactions wey hard to measure directly, you just go break am into small small steps wey you already sabi dia enthalpy.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Energy Changes topic"
+  },
+  {
+    "id": "chem_039",
+    "subject": "Chemistry",
+    "topic": "Energy Changes",
+    "question": "What is activation energy, and how does a catalyst affect it?",
+    "plain_answer": "Activation energy is the minimum energy required for reactant particles to collide successfully and form products. A catalyst lowers the activation energy by providing an alternative reaction pathway, allowing more particles to react successfully without being consumed itself.",
+    "pidgin_answer": "Activation energy na di minimum energy wey di particles need before dem fit clash well and turn to product. Catalyst come in reduce dis energy, e go give di reaction one shortcut path, so plenty more particles go fit react successfully, and catalyst no dey finish or dey used up for di process.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Energy Changes topic"
+  },
+  {
+    "id": "chem_040",
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "question": "What does Le Chatelier's Principle state about a system at equilibrium?",
+    "plain_answer": "Le Chatelier's Principle states that if a system at equilibrium is subjected to a change in conditions (concentration, temperature, or pressure), the equilibrium will shift in the direction that opposes or counteracts that change, to restore a new equilibrium.",
+    "pidgin_answer": "Le Chatelier's Principle dey talk say if you disturb one system wey dey equilibrium, whether na concentration, temperature, or pressure you change, di system go shift go one direction wey go fight back against di change, e go find new balance again. E be like say di system no gree make anyone disturb am anyhow.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Chemical Equilibrium topic"
+  },
+  {
+    "id": "chem_041",
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "question": "What happens to the position of equilibrium if you increase pressure on a gaseous reaction with fewer moles of gas on the product side?",
+    "plain_answer": "Increasing pressure shifts the equilibrium toward the side with fewer moles of gas, since that reduces the total volume/pressure the system experiences. If the product side has fewer gas moles, the equilibrium shifts toward the products.",
+    "pidgin_answer": "If you increase di pressure, di equilibrium go shift go di side wey get fewer mole of gas, because dat side go reduce di total pressure wey di system dey feel. So if di product side get fewer gas mole pass reactant side, di equilibrium go shift go product side, e go favor making more product.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Chemical Equilibrium topic"
+  },
+  {
+    "id": "chem_042",
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "question": "What does a large equilibrium constant (Kc) value tell you about a reaction?",
+    "plain_answer": "A large equilibrium constant (Kc) value indicates that at equilibrium, the concentration of products is much greater than the concentration of reactants, meaning the reaction favors product formation and proceeds nearly to completion.",
+    "pidgin_answer": "If Kc value big well well, e dey tell you say by di time equilibrium reach, plenty product don form pass di reactant wey remain. E mean say di reaction favor to produce product, e almost go finish reach completion, e no wan turn back.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Chemical Equilibrium topic"
+  },
+  {
+    "id": "chem_043",
+    "subject": "Chemistry",
+    "topic": "Acids, Bases and Salts",
+    "question": "What is the key difference between a strong acid and a weak acid?",
+    "plain_answer": "A strong acid ionizes completely in water, releasing all its available hydrogen ions, while a weak acid only partially ionizes, existing mostly as undissociated molecules in solution with only a small fraction releasing hydrogen ions.",
+    "pidgin_answer": "Strong acid go ionize completely inside water, e go release all im hydrogen ion, no be small small. Weak acid now, e go just ionize small small, e no go release all im hydrogen ion, plenty of am go still remain as undissociated molecule inside di solution, e dey lazy small.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Acids Bases and Salts topic"
+  },
+  {
+    "id": "chem_044",
+    "subject": "Chemistry",
+    "topic": "Acids, Bases and Salts",
+    "question": "What color change occurs when litmus paper is dipped into an acidic solution versus a basic solution?",
+    "plain_answer": "In an acidic solution, blue litmus paper turns red. In a basic (alkaline) solution, red litmus paper turns blue. This simple color change makes litmus a useful indicator for identifying acids and bases.",
+    "pidgin_answer": "If you dip blue litmus paper enter acid, e go turn red, straight up. If you dip red litmus paper enter base, e go turn blue. Na dis simple color change dey make litmus paper useful, e dey help you sabi quick quick whether na acid or base you dey deal with.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Acids Bases and Salts topic"
+  },
+  {
+    "id": "chem_045",
+    "subject": "Chemistry",
+    "topic": "Acids, Bases and Salts",
+    "question": "What is a titration used for, and what indicates the endpoint?",
+    "plain_answer": "Titration is used to determine the exact concentration of an acid or base by reacting it with a solution of known concentration until neutralization is complete. The endpoint is indicated by a color change in an added indicator, signaling that the reaction has just reached completion.",
+    "pidgin_answer": "Titration na wetin dem dey use find di exact concentration of acid or base, dem go react am with another solution wey dem already sabi im concentration, until neutralization complete. Wetin go show you say e don reach di endpoint na when di indicator wey dem add change color, e go tell you say e don just finish.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Acids Bases and Salts topic"
+  },
+  {
+    "id": "chem_046",
+    "subject": "Chemistry",
+    "topic": "Acids, Bases and Salts",
+    "question": "Why does a solution of sodium carbonate (a salt) turn litmus paper blue, even though it's a salt and not a base?",
+    "plain_answer": "Sodium carbonate is the salt of a strong base (sodium hydroxide) and a weak acid (carbonic acid). When dissolved in water, it undergoes hydrolysis, reacting with water to produce a slightly basic (alkaline) solution, which is why it turns litmus paper blue.",
+    "pidgin_answer": "Sodium carbonate na salt wey come from strong base, sodium hydroxide, and weak acid, carbonic acid. So when you dissolve am inside water, e go undergo hydrolysis, e go react small small with di water make di solution turn slightly basic. Na so e go turn litmus paper blue, even though na salt e be, no be pure base.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Acids Bases and Salts topic"
+  },
+  {
+    "id": "chem_047",
+    "subject": "Chemistry",
+    "topic": "Electrolysis",
+    "question": "What do Faraday's Laws of Electrolysis relate to?",
+    "plain_answer": "Faraday's Laws of Electrolysis relate the amount of substance deposited or liberated at an electrode to the quantity of electric charge passed through the electrolyte. The first law states this amount is directly proportional to the quantity of charge passed.",
+    "pidgin_answer": "Faraday's Laws of Electrolysis dey connect di amount of substance wey go deposit or comot for electrode to di amount of electric charge wey pass through di electrolyte. Di first law dey talk say dis amount na direct proportion to di charge wey pass, more charge, more substance.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Electrolysis topic"
+  },
+  {
+    "id": "chem_048",
+    "subject": "Chemistry",
+    "topic": "Electrolysis",
+    "question": "How is electrolysis used in electroplating, for example coating a spoon with silver?",
+    "plain_answer": "In electroplating, the object to be plated (the spoon) is made the cathode, and a piece of the plating metal (silver) is made the anode, both dipped in an electrolyte containing silver ions. When current flows, silver ions are reduced and deposited onto the spoon, while the silver anode dissolves to replenish the ions in solution.",
+    "pidgin_answer": "For electroplating, di spoon wey you wan cover na im go be cathode, and silver piece go be anode, both of dem go dip inside electrolyte wey get silver ion inside. Once current dey flow, di silver ion go gain electron, dem go reduce, and dem go deposit demselves on top di spoon. Meanwhile di silver anode go dissolve small small to replace di ions wey don comot for solution.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Electrolysis topic"
+  },
+  {
+    "id": "chem_049",
+    "subject": "Chemistry",
+    "topic": "Redox Reactions",
+    "question": "How do you assign oxidation numbers to determine which species is oxidized or reduced in a reaction?",
+    "plain_answer": "Oxidation numbers are assigned based on rules (e.g. uncombined elements are 0, oxygen is usually -2, hydrogen is usually +1). A species is oxidized if its oxidation number increases during the reaction, and reduced if its oxidation number decreases.",
+    "pidgin_answer": "To assign oxidation number, you go follow small small rules, like say any element wey no combine with anything get 0, oxygen dey mostly carry -2, hydrogen dey mostly carry +1. If one species oxidation number increase for di reaction, e don oxidize. If e decrease, e don reduce.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Redox Reactions topic"
+  },
+  {
+    "id": "chem_050",
+    "subject": "Chemistry",
+    "topic": "Redox Reactions",
+    "question": "In the reaction Zn + CuSO4 -> ZnSO4 + Cu, which substance is oxidized and which is reduced?",
+    "plain_answer": "Zinc (Zn) is oxidized, losing electrons to become Zn2+ (found in ZnSO4). Copper ions (Cu2+, from CuSO4) are reduced, gaining electrons to become solid copper (Cu). Zinc acts as the reducing agent, and copper sulfate acts as the oxidizing agent.",
+    "pidgin_answer": "For dis reaction, Zinc na im dey oxidize, e go lose electron turn to Zn2+ wey dey inside ZnSO4. Di copper ion, Cu2+ wey dey inside CuSO4, na im dey reduce, e go gain electron turn to solid copper. So Zinc be di reducing agent, and copper sulfate be di oxidizing agent, dem dey do exchange.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Redox Reactions topic"
+  },
+  {
+    "id": "chem_051",
+    "subject": "Chemistry",
+    "topic": "Metals",
+    "question": "What is the reactivity series, and how is it used to predict displacement reactions?",
+    "plain_answer": "The reactivity series ranks metals in order of their reactivity, from most to least reactive. A more reactive metal can displace a less reactive metal from its compound in solution; this is used to predict whether a displacement reaction will occur.",
+    "pidgin_answer": "Reactivity series na di list wey dey rank metals from di most reactive to di least reactive. If one metal dey higher for di list, e fit displace another metal wey dey lower from im compound for solution. Na dis list dey help you predict whether displacement reaction go happen or e no go happen at all.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Metals topic"
+  },
+  {
+    "id": "chem_052",
+    "subject": "Chemistry",
+    "topic": "Metals",
+    "question": "Why is iron extracted from its ore using a blast furnace, and what is the reducing agent involved?",
+    "plain_answer": "Iron is extracted in a blast furnace because iron oxide needs to be reduced at high temperatures to obtain the metal. Carbon monoxide, produced from coke (carbon) burning in the furnace, acts as the reducing agent, removing oxygen from the iron oxide to produce molten iron.",
+    "pidgin_answer": "Dem dey use blast furnace extract iron because iron oxide need serious high temperature before e go reduce release di pure metal. Carbon monoxide, wey come from coke wey dey burn inside di furnace, na im dey serve as di reducing agent, e go comot di oxygen from di iron oxide, make molten iron remain.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Metals topic"
+  },
+  {
+    "id": "chem_053",
+    "subject": "Chemistry",
+    "topic": "Metals",
+    "question": "What causes rusting of iron, and what two substances must be present for it to occur?",
+    "plain_answer": "Rusting is the oxidation of iron to form hydrated iron(III) oxide (rust). It requires the presence of both oxygen and water (moisture); without either one, iron will not rust.",
+    "pidgin_answer": "Rusting na when iron dey oxidize turn to hydrated iron(III) oxide, wey be di rust wey we dey see. E need two things must dey present before e go happen, na oxygen and water, moisture. If you comot even one of di two, iron no go rust, dem must dey together.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Metals topic"
+  },
+  {
+    "id": "chem_054",
+    "subject": "Chemistry",
+    "topic": "Metals",
+    "question": "What is an alloy, and why is steel considered an alloy of iron?",
+    "plain_answer": "An alloy is a mixture of a metal with one or more other elements, usually another metal or carbon, designed to improve properties like strength or resistance to corrosion. Steel is an alloy of iron mixed with a small percentage of carbon, which makes it harder and stronger than pure iron.",
+    "pidgin_answer": "Alloy na when you mix metal with one or more other elements, e fit be another metal or carbon, dem dey do am to improve properties like strength or make am resist corrosion better. Steel na alloy of iron, dem go mix am with small carbon percentage, and dat one go make am harder and stronger pass pure iron alone.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Metals topic"
+  },
+  {
+    "id": "chem_055",
+    "subject": "Chemistry",
+    "topic": "Non-metals",
+    "question": "What trend in reactivity is observed among the halogens (Group 17) as you move down the group?",
+    "plain_answer": "Reactivity of halogens decreases as you move down Group 17. This is because the atoms get larger, and the outermost shell (where a new electron would be added) is farther from the nucleus and more shielded, making it harder to attract an extra electron.",
+    "pidgin_answer": "As you dey waka down Group 17, di halogens reactivity dey reduce. Why? Because di atoms dey grow bigger, and di outer shell, wey new electron suppose enter, dey far from di nucleus and plenty shielding dey block am, so e dey harder for am to attract extra electron come am.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Non-metals topic"
+  },
+  {
+    "id": "chem_056",
+    "subject": "Chemistry",
+    "topic": "Non-metals",
+    "question": "What is the industrial process used to manufacture ammonia, and what conditions does it require?",
+    "plain_answer": "Ammonia is manufactured using the Haber Process, which combines nitrogen and hydrogen gases under high pressure (around 200 atmospheres), moderate temperature (about 450 degrees Celsius), and in the presence of an iron catalyst.",
+    "pidgin_answer": "Dem dey use di Haber Process manufacture ammonia, e dey combine nitrogen and hydrogen gas together. Di conditions wey e need na high pressure, around 200 atmosphere, moderate temperature, around 450 degrees Celsius, and iron catalyst must dey present make di reaction hurry small.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Non-metals topic"
+  },
+  {
+    "id": "chem_057",
+    "subject": "Chemistry",
+    "topic": "Non-metals",
+    "question": "What test would you use to confirm the presence of oxygen gas?",
+    "plain_answer": "To test for oxygen gas, insert a glowing splint into the gas. If oxygen is present, the glowing splint will relight and burst back into flame, since oxygen supports combustion.",
+    "pidgin_answer": "To test if oxygen dey present, you go enter one glowing splint, wey no get flame again, enter di gas. If oxygen truly dey there, di splint go relight immediately, e go burst back to flame, because oxygen dey support combustion well well.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Non-metals topic"
+  },
+  {
+    "id": "chem_058",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry Basics",
+    "question": "What is the general formula for alkenes, and what makes them 'unsaturated'?",
+    "plain_answer": "The general formula for alkenes is CnH2n. They are called unsaturated hydrocarbons because they contain at least one carbon-carbon double bond, meaning not every carbon is bonded to the maximum number of hydrogen atoms.",
+    "pidgin_answer": "Alkene formula na CnH2n. Dem dey call dem unsaturated because dem get at least one double bond between two carbon atoms, e mean say no be every carbon don hold maximum hydrogen wey e fit hold, room still dey for more if di double bond break.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+  },
+  {
+    "id": "chem_059",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry Basics",
+    "question": "How can you use bromine water to distinguish between an alkane and an alkene?",
+    "plain_answer": "When bromine water is added to an alkene, it decolorizes rapidly as the double bond reacts with bromine in an addition reaction. Alkanes do not react with bromine water in the same way (without light or a catalyst), so the orange-brown color of bromine water remains unchanged.",
+    "pidgin_answer": "If you add bromine water enter alkene, e go quickly lose im color, di orange-brown go disappear, because di double bond go react with di bromine, addition reaction go happen. But alkane no go react like that, e go just remain di same orange-brown color, unless you bring light or catalyst enter am.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+  },
+  {
+    "id": "chem_060",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry Basics",
+    "question": "What is isomerism, and what are structural isomers?",
+    "plain_answer": "Isomerism occurs when two or more compounds have the same molecular formula but different structural arrangements of atoms. Structural isomers have the same molecular formula but differ in how the atoms are connected, leading to different physical or chemical properties.",
+    "pidgin_answer": "Isomerism na when two or more compounds get di same molecular formula, but dia atoms dey arrange demselves differently. Structural isomers na di ones wey get di same formula, but di way di atoms dey connect to each other dey different, so dia properties, whether physical or chemical, go differ small small.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+  },
+  {
+    "id": "chem_061",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry Basics",
+    "question": "What functional group is present in a carboxylic acid, and what makes it acidic?",
+    "plain_answer": "Carboxylic acids contain the carboxyl functional group (-COOH). They are acidic because this group can release a hydrogen ion (H+) into solution, forming a carboxylate ion, though carboxylic acids are generally weak acids and only partially ionize.",
+    "pidgin_answer": "Carboxylic acid get di carboxyl group, -COOH, na dat one dey mark dem out. Dem acidic because dis group fit release hydrogen ion, H+, enter di solution, e go form carboxylate ion afterward. But make you sabi say carboxylic acids na mostly weak acids, dem no go ionize completely.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+  },
+  {
+    "id": "chem_062",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry Basics",
+    "question": "How is an ester formed, and what is this reaction called?",
+    "plain_answer": "An ester is formed when a carboxylic acid reacts with an alcohol, releasing water as a byproduct. This reaction is called esterification, and it typically requires an acid catalyst (such as concentrated sulfuric acid) and heat.",
+    "pidgin_answer": "Ester dey form when carboxylic acid react with alcohol, water go come out as byproduct. Dem dey call dis reaction esterification, and e go usually need acid catalyst, like concentrated sulfuric acid, plus heat before e go work well.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+  },
+  {
+    "id": "chem_063",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry Basics",
+    "question": "What is a polymer, and what is the difference between addition polymerization and condensation polymerization?",
+    "plain_answer": "A polymer is a large molecule made of many repeating smaller units called monomers. Addition polymerization joins monomers (usually containing a double bond) without losing any atoms, while condensation polymerization joins monomers with the loss of a small molecule, such as water, at each linkage.",
+    "pidgin_answer": "Polymer na big long molecule wey dem form from plenty small repeating units, dem call di small units monomers. Addition polymerization go join di monomers, wey usually get double bond, without losing any atom at all. Condensation polymerization different, e go join di monomers but small molecule, like water, go dey lost each time dem link up.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+  },
+  {
+    "id": "chem_064",
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "What causes acid rain, and what environmental damage can it cause?",
+    "plain_answer": "Acid rain is caused mainly by sulfur dioxide and nitrogen oxides released from burning fossil fuels, which react with water vapor in the atmosphere to form sulfuric acid and nitric acid. Acid rain can damage plants, acidify lakes and rivers (harming aquatic life), and corrode buildings and structures.",
+    "pidgin_answer": "Acid rain dey come mainly from sulfur dioxide and nitrogen oxide, wey dey release when we burn fossil fuel, dem go react with water vapor for atmosphere turn to sulfuric acid and nitric acid. Di damage e dey cause plenty, e fit spoil plants, e go make lake and river acidic wey go harm fish and other creatures for water, and e go even corrode building and structure.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Environmental Chemistry topic"
+  },
+  {
+    "id": "chem_065",
+    "subject": "Chemistry",
+    "topic": "Gas Laws",
+    "question": "According to Charles's Law, what happens to the volume of a gas when temperature increases at constant pressure?",
+    "plain_answer": "Charles's Law states that at constant pressure, the volume of a fixed amount of gas is directly proportional to its absolute temperature (in Kelvin). This means if temperature increases, volume increases proportionally, as long as pressure stays constant.",
+    "pidgin_answer": "Charles's Law dey talk say if pressure no change, volume and temperature dey waka hand in hand. If temperature increase, volume go increase too, dem dey grow together like twins. Just remember make you dey use Kelvin, no be Celsius, for dis calculation.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Gas Laws topic"
+  },
+  {
+    "id": "chem_066",
+    "subject": "Chemistry",
+    "topic": "Gas Laws",
+    "question": "What does the General Gas Equation (PV = nRT) allow you to calculate?",
+    "plain_answer": "The General Gas Equation, PV = nRT, relates pressure (P), volume (V), number of moles (n), the gas constant (R), and temperature (T) for an ideal gas. It allows you to calculate any one of these quantities if the others are known.",
+    "pidgin_answer": "Dis equation, PV = nRT, na di master key for gas calculations. E dey connect pressure, volume, number of mole, di gas constant R, and temperature all together. So if you sabi any three, you fit find di fourth one, e be like puzzle wey you fit solve from any angle.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Gas Laws topic"
+  },
+  {
+    "id": "chem_067",
+    "subject": "Chemistry",
+    "topic": "Gas Laws",
+    "question": "What is Graham's Law of Diffusion, and how does molar mass affect the rate of diffusion?",
+    "plain_answer": "Graham's Law states that the rate of diffusion of a gas is inversely proportional to the square root of its molar mass. This means lighter gases diffuse faster than heavier gases under the same conditions.",
+    "pidgin_answer": "Graham's Law dey talk say di rate wey gas dey diffuse, e dey inversely related to di square root of im molar mass. In simple English, lighter gas go waka faster and spread quick quick, while heavier gas go dey slow and dragga small, same condition for both of dem.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Gas Laws topic"
+  },
+  {
+    "id": "chem_068",
+    "subject": "Chemistry",
+    "topic": "Rate of Reaction",
+    "question": "What does collision theory state about how chemical reactions occur?",
+    "plain_answer": "Collision theory states that for a chemical reaction to occur, reactant particles must collide with sufficient energy (equal to or greater than the activation energy) and in the correct orientation. Not every collision leads to a reaction; only 'successful' collisions do.",
+    "pidgin_answer": "Collision theory dey talk say before reaction go happen, di particles must clash together with enough energy, at least reach di activation energy, and dem must clash for di correct direction too. No be every clash go turn to reaction o, na only di 'successful' ones wey get di right energy and angle.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Rate of Reaction topic"
+  },
+  {
+    "id": "chem_069",
+    "subject": "Chemistry",
+    "topic": "Rate of Reaction",
+    "question": "Why does breaking a solid reactant into smaller pieces increase the rate of reaction?",
+    "plain_answer": "Breaking a solid into smaller pieces increases its total surface area exposed to the other reactant. Since reactions occur at the surface where particles can collide, a larger surface area allows more collisions to happen in the same amount of time, increasing the reaction rate.",
+    "pidgin_answer": "If you break solid to smaller smaller pieces, you dey increase di total surface area wey dey exposed to di other reactant. Since reaction dey happen for di surface where particles fit clash, more surface area mean say more collision go happen for di same time, and dat one go make di reaction hurry pass.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Rate of Reaction topic"
+  },
+  {
+    "id": "chem_070",
+    "subject": "Chemistry",
+    "topic": "Electrolysis",
+    "question": "What products form at the electrodes during the electrolysis of molten sodium chloride?",
+    "plain_answer": "During electrolysis of molten sodium chloride, sodium metal is produced at the cathode (reduction of Na+ ions) and chlorine gas is produced at the anode (oxidation of Cl- ions). This is the industrial method used to extract reactive metals like sodium.",
+    "pidgin_answer": "If you electrolyze molten sodium chloride, sodium metal go form for di cathode, na di Na+ ion dey reduce there. Chlorine gas now go form for di anode, na di Cl- ion dey oxidize there. Na dis method dem dey use for industry extract reactive metal like sodium wey you no fit just extract with normal heat.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Electrolysis topic"
+  },
+  {
+    "id": "chem_071",
+    "subject": "Chemistry",
+    "topic": "Electrolysis",
+    "question": "How does the electrolysis of aqueous sodium chloride (brine) differ from electrolysis of molten sodium chloride?",
+    "plain_answer": "In aqueous sodium chloride (brine), water is also present and competes in the electrolysis. At the cathode, hydrogen gas is produced instead of sodium metal (since water is more easily reduced than Na+), while chlorine gas still forms at the anode. Sodium hydroxide remains in solution.",
+    "pidgin_answer": "If na aqueous sodium chloride, wey be brine, you dey electrolyze, water dey around too and e go compete for di reaction. For di cathode, na hydrogen gas go form instead of sodium metal, because water dey easier to reduce pass Na+. Chlorine gas go still form for anode as usual, and sodium hydroxide go remain inside di solution.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Electrolysis topic"
+  },
+  {
+    "id": "chem_072",
+    "subject": "Chemistry",
+    "topic": "Redox Reactions",
+    "question": "How do you identify the oxidizing agent and reducing agent in a redox reaction?",
+    "plain_answer": "The oxidizing agent is the substance that gets reduced (gains electrons) and causes another substance to be oxidized. The reducing agent is the substance that gets oxidized (loses electrons) and causes another substance to be reduced.",
+    "pidgin_answer": "Di oxidizing agent na di substance wey dey get reduced, e go gain electron, and e go cause another substance to oxidize. Di reducing agent na di opposite, na im dey get oxidized, e go lose electron, and e go cause another substance to reduce. Dem be partners wey dey do exchange business.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Redox Reactions topic"
+  },
+  {
+    "id": "chem_073",
+    "subject": "Chemistry",
+    "topic": "Non-metals",
+    "question": "What is the Contact Process, and what is it used to manufacture?",
+    "plain_answer": "The Contact Process is the industrial method used to manufacture sulfuric acid. Sulfur dioxide is converted to sulfur trioxide using a vanadium(V) oxide catalyst, which is then reacted with water (via oleum) to produce concentrated sulfuric acid.",
+    "pidgin_answer": "Contact Process na di industrial method wey dem dey use manufacture sulfuric acid. Sulfur dioxide go convert to sulfur trioxide, dem go use vanadium(V) oxide as catalyst make am hurry. Afterward, dem go react am with water, through oleum, to produce concentrated sulfuric acid wey plenty industries need.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Non-metals topic"
+  },
+  {
+    "id": "chem_074",
+    "subject": "Chemistry",
+    "topic": "Non-metals",
+    "question": "What test would confirm the presence of carbon dioxide gas?",
+    "plain_answer": "To test for carbon dioxide gas, bubble it through limewater (calcium hydroxide solution). If carbon dioxide is present, the limewater turns milky/cloudy due to the formation of insoluble calcium carbonate.",
+    "pidgin_answer": "To test if carbon dioxide dey present, bubble di gas enter limewater, wey be calcium hydroxide solution. If carbon dioxide truly dey there, di limewater go turn milky or cloudy, because insoluble calcium carbonate go form inside am. Simple test wey dem dey teach for every school.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Non-metals topic"
+  },
+  {
+    "id": "chem_075",
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "What is the greenhouse effect, and which gases are the main contributors?",
+    "plain_answer": "The greenhouse effect is the process by which certain gases in the atmosphere trap heat from the sun, warming the Earth's surface. The main contributing gases include carbon dioxide, methane, and water vapor, largely increased by human activities like burning fossil fuels.",
+    "pidgin_answer": "Greenhouse effect na when some gases for atmosphere dey trap heat wey come from sun, e go make di Earth surface warm up. Di main gases wey dey cause am na carbon dioxide, methane, and water vapor, and human activities like burning fossil fuel don increase dem well well pass before.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Environmental Chemistry topic"
+  },
+  {
+    "id": "chem_076",
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "What causes water pollution from industrial waste, and what is one common effect on aquatic ecosystems?",
+    "plain_answer": "Industrial waste often contains chemicals, heavy metals, or excess nutrients discharged into water bodies. A common effect is eutrophication, where excess nutrients (like phosphates and nitrates) cause excessive algae growth, which depletes oxygen in the water and harms fish and other aquatic life.",
+    "pidgin_answer": "Industrial waste dey carry chemicals, heavy metals, or too much nutrients wey dem dey discharge enter water body. One common effect wey dey happen na eutrophication, where too much nutrients, like phosphate and nitrate, go cause plenty algae to grow reach, and dat one go finish di oxygen for water, e go harm fish and other creatures wey dey inside.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Environmental Chemistry topic"
+  },
+  {
+    "id": "chem_077",
+    "subject": "Chemistry",
+    "topic": "Water and Hardness",
+    "question": "What causes hardness of water, and what is the difference between temporary and permanent hardness?",
+    "plain_answer": "Hardness of water is caused by dissolved calcium and magnesium ions. Temporary hardness is caused by dissolved bicarbonates and can be removed by boiling, which precipitates the ions as carbonates. Permanent hardness is caused by dissolved sulfates and chlorides, and cannot be removed by boiling; it requires methods like ion exchange or adding washing soda.",
+    "pidgin_answer": "Hardness of water dey come from calcium and magnesium ion wey dissolve inside am. Temporary hardness na di one wey bicarbonate dey cause, you fit remove am just by boiling, e go precipitate di ions comot as carbonate. Permanent hardness different, na sulfate and chloride dey cause am, boiling no fit remove am at all, you go need ion exchange or add washing soda instead.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Water and Hardness topic"
+  },
+  {
+    "id": "chem_078",
+    "subject": "Chemistry",
+    "topic": "Water and Hardness",
+    "question": "Why doesn't soap lather well in hard water?",
+    "plain_answer": "Soap reacts with the calcium and magnesium ions in hard water to form an insoluble scum (precipitate) instead of producing a lather. This wastes soap, since the soap must first react with all the dissolved ions before any is left to form suds.",
+    "pidgin_answer": "Soap no dey lather well for hard water because e go react first with di calcium and magnesium ion inside di water, e go form insoluble scum instead of bubbles. So plenty soap go waste, because di soap must first finish reacting with all di dissolved ions before any go remain to form correct suds.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Water and Hardness topic"
+  },
+  {
+    "id": "chem_079",
+    "subject": "Chemistry",
+    "topic": "Nuclear Chemistry",
+    "question": "What is radioactivity, and what are the three main types of radioactive emissions?",
+    "plain_answer": "Radioactivity is the spontaneous emission of particles or energy from an unstable atomic nucleus. The three main types of emissions are alpha particles (helium nuclei, weakly penetrating), beta particles (fast-moving electrons, moderately penetrating), and gamma rays (high-energy electromagnetic radiation, highly penetrating).",
+    "pidgin_answer": "Radioactivity na when unstable nucleus dey spontaneously release particle or energy, e no need anybody push am. Three main types dey: alpha particle, wey be helium nucleus, e no penetrate far. Beta particle, wey be fast electron, e dey penetrate small more. And gamma ray, wey be high energy radiation, e dey penetrate pass any of di two, e strong well well.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Nuclear Chemistry topic"
+  },
+  {
+    "id": "chem_080",
+    "subject": "Chemistry",
+    "topic": "Nuclear Chemistry",
+    "question": "What is meant by the 'half-life' of a radioactive substance?",
+    "plain_answer": "Half-life is the time required for half of the atoms in a radioactive sample to decay. It is constant for a given isotope, regardless of the initial amount present, and is used to determine how quickly a radioactive substance loses its radioactivity over time.",
+    "pidgin_answer": "Half-life na di time wey e go take before half of di atoms inside radioactive sample go decay finish. E dey constant for any particular isotope, e no matter how plenty or how small di sample be at first. Na dis one dem dey use know how fast or how slow one radioactive substance go lose im radioactivity as time dey pass.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Nuclear Chemistry topic"
+  },
+  {
+    "id": "chem_081",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "Why do elements in the same group of the periodic table have similar chemical properties?",
+    "plain_answer": "Elements in the same group have the same number of electrons in their outermost shell (valence electrons). Since chemical properties are largely determined by valence electrons, elements in the same group tend to react in similar ways and form similar types of compounds.",
+    "pidgin_answer": "Elements wey dey for di same group get di same number of electron for dia outermost shell, di valence electron. Since chemical property dey mostly depend on dis valence electron, elements wey dey di same group go react in similar way and dem go form similar type of compound, dem be like family members wey resemble each other.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Periodic Table topic"
+  },
+  {
+    "id": "chem_082",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "What distinguishes transition metals from the main group metals in the periodic table?",
+    "plain_answer": "Transition metals are found in the central block of the periodic table and are characterized by partially filled d-orbitals. This gives them properties like variable oxidation states, formation of colored compounds, and catalytic activity, which main group metals typically do not share.",
+    "pidgin_answer": "Transition metals dey stay for di central block of di periodic table, and dem get partially filled d-orbital, na dat one dey mark dem out. Because of dis, dem fit show variable oxidation state, dem fit form colored compound, and dem sabi work as catalyst, wetin main group metals no dey do like dat normally.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Periodic Table topic"
+  },
+  {
+    "id": "chem_083",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "What is a coordinate (dative) covalent bond, and how does it differ from a normal covalent bond?",
+    "plain_answer": "A coordinate (dative) covalent bond is a type of covalent bond where both shared electrons come from the same atom, rather than one from each atom as in a normal covalent bond. An example is the bond formed when ammonia (NH3) donates its lone pair to H+ to form the ammonium ion (NH4+).",
+    "pidgin_answer": "Coordinate bond, wey dem dey also call dative bond, na special type of covalent bond where both di shared electrons come from di same atom, no be one one from each atom like normal covalent bond. Good example na when ammonia, NH3, give out im lone pair go H+, dem go form ammonium ion, NH4+, together.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Chemical Bonding topic"
+  },
+  {
+    "id": "chem_084",
+    "subject": "Chemistry",
+    "topic": "Acids, Bases and Salts",
+    "question": "What is the difference between a basic salt, an acidic salt, and a normal salt?",
+    "plain_answer": "A normal salt has all the replaceable hydrogen atoms of the parent acid replaced by a metal or ammonium ion (e.g. NaCl). An acidic salt still has some replaceable hydrogen atoms remaining (e.g. NaHSO4). A basic salt contains a hydroxide ion in addition to the normal salt components (e.g. Mg(OH)Cl).",
+    "pidgin_answer": "Normal salt na when all di replaceable hydrogen for di parent acid don change complete to metal or ammonium ion, like NaCl. Acidic salt now still get small hydrogen wey remain, like NaHSO4, e never change complete. Basic salt different small, e go carry hydroxide ion join di normal salt parts, like Mg(OH)Cl.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Acids Bases and Salts topic"
+  },
+  {
+    "id": "chem_085",
+    "subject": "Chemistry",
+    "topic": "Mole Concept",
+    "question": "How do you determine the limiting reagent in a chemical reaction?",
+    "plain_answer": "The limiting reagent is the reactant that is completely used up first, determining how much product can form. To find it, calculate the moles of product each reactant could theoretically produce; whichever reactant produces the least amount of product is the limiting reagent.",
+    "pidgin_answer": "Limiting reagent na di reactant wey go finish first, and e dey decide how much product go fit form. To find am, calculate how much product each reactant fit theoretically produce if e dey alone. Whichever reactant go produce di smallest amount of product, na im be di limiting reagent, di weak link for di chain.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Mole Concept topic"
+  },
+  {
+    "id": "chem_086",
+    "subject": "Chemistry",
+    "topic": "Mole Concept",
+    "question": "What is percentage yield, and why is actual yield often lower than theoretical yield?",
+    "plain_answer": "Percentage yield compares the actual amount of product obtained from a reaction to the theoretical (maximum possible) amount, expressed as a percentage: (actual yield / theoretical yield) x 100. Actual yield is often lower due to incomplete reactions, side reactions, or loss of product during handling and purification.",
+    "pidgin_answer": "Percentage yield dey compare di actual product wey you get for real life to di theoretical, di maximum wey suppose dey possible, dem go express am as percentage: actual yield divide by theoretical yield, times 100. Actual yield dey mostly lower pass theoretical because reaction fit no complete well, side reaction fit happen, or you fit lose product small small as you dey handle or purify am.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Mole Concept topic"
+  },
+  {
+    "id": "chem_087",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry Basics",
+    "question": "What is the difference between primary, secondary, and tertiary alcohols?",
+    "plain_answer": "Primary alcohols have the -OH group attached to a carbon bonded to only one other carbon atom (or none). Secondary alcohols have the -OH carbon bonded to two other carbon atoms. Tertiary alcohols have the -OH carbon bonded to three other carbon atoms.",
+    "pidgin_answer": "Primary alcohol na di one wey im -OH carbon dey attach to just one other carbon, or none at all. Secondary alcohol now, di -OH carbon dey attach to two other carbon. Tertiary alcohol go pass dat one, di -OH carbon go attach to three other carbon entirely, e get plenty company around am.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+  },
+  {
+    "id": "chem_088",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry Basics",
+    "question": "What happens when ethanol undergoes complete combustion?",
+    "plain_answer": "When ethanol (C2H5OH) undergoes complete combustion in excess oxygen, it produces carbon dioxide and water, releasing energy: C2H5OH + 3O2 -> 2CO2 + 3H2O. This is why ethanol is used as a fuel.",
+    "pidgin_answer": "If ethanol undergo complete combustion where plenty oxygen dey available, e go produce carbon dioxide and water, and e go release energy as e dey burn: C2H5OH plus 3O2 go turn to 2CO2 plus 3H2O. Na so ethanol dey work as fuel, e dey burn clean and release good energy.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+  },
+  {
+    "id": "chem_089",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry Basics",
+    "question": "What is fermentation, and what conditions does it require to produce ethanol from glucose?",
+    "plain_answer": "Fermentation is the process by which yeast enzymes convert glucose into ethanol and carbon dioxide, in the absence of oxygen (anaerobic conditions). It requires a warm temperature (around 25-37 degrees Celsius) for the yeast enzymes to work effectively.",
+    "pidgin_answer": "Fermentation na di process where yeast enzymes go convert glucose to ethanol and carbon dioxide, and e go happen where no oxygen dey around, anaerobic condition. E need warm temperature, around 25 to 37 degrees Celsius, before di yeast enzymes go fit work well and do dia job.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+  },
+  {
+    "id": "chem_090",
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "question": "How does adding a catalyst affect the position of equilibrium in a reversible reaction?",
+    "plain_answer": "Adding a catalyst does not shift the position of equilibrium at all. It speeds up both the forward and reverse reactions equally, so equilibrium is reached faster, but the final equilibrium concentrations of reactants and products remain unchanged.",
+    "pidgin_answer": "If you add catalyst, e no go shift di equilibrium position at all, no be im work be dat. Wetin e go do na to speed up both di forward and reverse reaction equally, so equilibrium go reach faster pass before. But di final concentration of reactant and product, dem go remain di same, catalyst no dey favor any side.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Chemical Equilibrium topic"
+  },
+  {
+    "id": "chem_091",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "What is the difference between an atom's mass number and its relative atomic mass?",
+    "plain_answer": "Mass number is a whole number representing the total protons plus neutrons in a specific atom (or isotope). Relative atomic mass is the weighted average mass of all naturally occurring isotopes of an element, compared to 1/12 the mass of a carbon-12 atom, and is often not a whole number.",
+    "pidgin_answer": "Mass number na whole number, e dey show di total proton plus neutron wey dey inside one particular atom or isotope. Relative atomic mass different, na di weighted average mass of all di isotopes wey dey naturally occur for dat element, dem dey compare am to 1/12 of carbon-12 mass, and e no go always be whole number, e fit get decimal.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Atomic Structure topic"
+  },
+  {
+    "id": "chem_092",
+    "subject": "Chemistry",
+    "topic": "Laws of Chemical Combination",
+    "question": "What does Gay-Lussac's Law of Combining Volumes state about gases reacting together?",
+    "plain_answer": "Gay-Lussac's Law of Combining Volumes states that when gases react together at the same temperature and pressure, the volumes of the reacting gases and gaseous products are in a simple ratio of small whole numbers.",
+    "pidgin_answer": "Gay-Lussac's Law dey talk say when gases dey react together, as long as di temperature and pressure remain di same, di volumes of di gases wey react and di gaseous products go dey for simple ratio of small whole numbers, no complex fraction anywhere, just clean numbers.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Laws of Chemical Combination topic"
+  },
+  {
+    "id": "chem_093",
+    "subject": "Chemistry",
+    "topic": "Metals",
+    "question": "Why are sodium and potassium stored under oil rather than exposed to air?",
+    "plain_answer": "Sodium and potassium are highly reactive alkali metals that react vigorously with both oxygen and moisture in the air, forming oxides and reacting further with water vapor. Storing them under oil prevents contact with air and moisture, keeping them stable and safe.",
+    "pidgin_answer": "Sodium and potassium na very reactive alkali metals, dem go react quick quick with both oxygen and moisture wey dey inside air, dem go form oxide and even react further with water vapor. Na why dem dey store dem under oil, e go prevent air and moisture from touching dem, e go keep dem safe and stable.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Metals topic"
+  },
+  {
+    "id": "chem_094",
+    "subject": "Chemistry",
+    "topic": "Metals",
+    "question": "What method is used to prevent rusting of iron through galvanization?",
+    "plain_answer": "Galvanization involves coating iron with a layer of zinc. Zinc is more reactive than iron, so it corrodes preferentially (sacrificial protection), and it also forms a protective oxide layer that physically blocks oxygen and moisture from reaching the iron underneath.",
+    "pidgin_answer": "Galvanization na when dem coat iron with layer of zinc. Zinc reactive pass iron, so e go corrode first instead of di iron, dem dey call am sacrificial protection, e dey sacrifice imself protect di iron. Zinc go also form protective oxide layer wey go physically block oxygen and moisture from reaching di iron wey dey underneath.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Metals topic"
+  },
+  {
+    "id": "chem_095",
+    "subject": "Chemistry",
+    "topic": "Separation Techniques",
+    "question": "How does a separating funnel work to separate two immiscible liquids, like oil and water?",
+    "plain_answer": "A separating funnel separates immiscible liquids based on their different densities. The mixture is left to settle into two distinct layers, with the denser liquid at the bottom. The tap at the bottom is opened carefully to drain the lower layer first, leaving the upper layer behind.",
+    "pidgin_answer": "Separating funnel dey use di fact say di two liquids get different density. You go leave di mixture rest small make e settle enter two clear layers, di one wey heavier go dey down. Then you go open di tap for the bottom gently, make di lower layer drain comot first, and di upper layer go remain for inside.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Separation Techniques topic"
+  },
+  {
+    "id": "chem_096",
+    "subject": "Chemistry",
+    "topic": "Separation Techniques",
+    "question": "What is sublimation, and how can it be used to separate a mixture containing iodine?",
+    "plain_answer": "Sublimation is the direct transition of a substance from solid to gas without passing through a liquid state. Iodine sublimes readily when heated; if mixed with a non-subliming solid (like sand), heating causes the iodine to vaporize and can be collected separately by cooling the vapor back into solid crystals elsewhere.",
+    "pidgin_answer": "Sublimation na when substance dey change straight from solid go gas, without passing through liquid state at all. Iodine sabi sublime easily if you heat am. So if e mix with something wey no fit sublime, like sand, if you heat di mixture, di iodine go vaporize comot, and you fit collect am back as solid crystal for another cool place.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Separation Techniques topic"
+  },
+  {
+    "id": "chem_097",
+    "subject": "Chemistry",
+    "topic": "Energy Changes",
+    "question": "What is bond energy, and how does it relate to whether a reaction is exothermic or endothermic?",
+    "plain_answer": "Bond energy is the energy required to break one mole of a particular covalent bond. A reaction is exothermic if more energy is released forming new bonds in the products than was required to break bonds in the reactants; it's endothermic if the reverse is true.",
+    "pidgin_answer": "Bond energy na di energy wey you need to break one mole of particular covalent bond. If di energy wey dey released when new bond form for di products pass di energy wey you use break di old bonds for di reactants, di reaction na exothermic. If e be di other way round, na endothermic be dat.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Energy Changes topic"
+  },
+  {
+    "id": "chem_098",
+    "subject": "Chemistry",
+    "topic": "Redox Reactions",
+    "question": "How do you balance a simple redox equation using the half-equation method?",
+    "plain_answer": "The half-equation method splits a redox reaction into two half-equations: one for oxidation and one for reduction. Each half-equation is balanced separately for atoms and charge, then the two are combined (multiplying if needed) so that the electrons lost equal the electrons gained.",
+    "pidgin_answer": "Half-equation method go split di redox reaction into two, one for oxidation, one for reduction. You go balance each half-equation separately, both di atoms and di charge, then you go combine di two together, multiply if e need am, so dat di electrons wey dey lost go equal di electrons wey dey gained, everything go balance clean.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Redox Reactions topic"
+  },
+  {
+    "id": "chem_099",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "Why does ice float on water, and what does this reveal about hydrogen bonding?",
+    "plain_answer": "Ice floats on water because it is less dense than liquid water. This is due to the hydrogen bonds in ice forming a rigid, open hexagonal lattice structure that holds molecules farther apart than in liquid water, where molecules can pack more closely together.",
+    "pidgin_answer": "Ice dey float for water because e no dense pass liquid water, e lighter. Wetin dey cause am na di hydrogen bonds wey dey form one rigid, open hexagonal structure for ice, e go hold di molecules far apart from each other, unlike liquid water where di molecules fit pack demselves close together well well.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Chemical Bonding topic"
+  },
+  {
+    "id": "chem_100",
+    "subject": "Chemistry",
+    "topic": "Acids, Bases and Salts",
+    "question": "What is the difference between water of crystallization and an anhydrous salt?",
+    "plain_answer": "Water of crystallization refers to water molecules chemically bonded within the crystal structure of a hydrated salt (e.g. CuSO4.5H2O). An anhydrous salt is one that has had this water removed, usually by heating, leaving only the salt itself (e.g. anhydrous CuSO4, which is white, compared to the blue hydrated form).",
+    "pidgin_answer": "Water of crystallization na water molecules wey dey chemically bond inside di crystal structure of hydrated salt, like CuSO4.5H2O. Anhydrous salt now na when dem don remove dis water, usually by heating am, so na only di pure salt remain, like anhydrous CuSO4 wey be white color, unlike di blue hydrated version wey still get water inside.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Acids Bases and Salts topic"
+  },
+  {
+    "id": "chem_101",
+    "subject": "Chemistry",
+    "topic": "Rate of Reaction",
+    "question": "How does increasing temperature affect the rate of a reaction at the particle level?",
+    "plain_answer": "Increasing temperature gives particles more kinetic energy, so they move faster and collide more frequently. More importantly, a greater proportion of collisions now have enough energy to exceed the activation energy, so a higher fraction of collisions are successful, increasing the reaction rate.",
+    "pidgin_answer": "If you increase temperature, di particles go get more energy, dem go dey run up and down faster, so dem go dey clash more often. Di real gist na say more of dose clashes now get enough energy to cross di activation energy line, so more of dem go succeed, and dat na why di reaction go hurry pass before.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Rate of Reaction topic"
+  },
+  {
+    "id": "chem_102",
+    "subject": "Chemistry",
+    "topic": "Rate of Reaction",
+    "question": "What is a catalyst, and does it get used up during a reaction?",
+    "plain_answer": "A catalyst is a substance that speeds up a chemical reaction by providing an alternative pathway with lower activation energy, without itself being permanently consumed. It can be recovered chemically unchanged at the end of the reaction.",
+    "pidgin_answer": "Catalyst na substance wey dey speed up reaction, e go give di reaction one shortcut path wey need less energy. Di sweet part be say catalyst no dey finish or spoil for di process, by di time reaction complete, you fit still recover am, e go still remain di same as e be before.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Rate of Reaction topic"
+  },
+  {
+    "id": "chem_103",
+    "subject": "Chemistry",
+    "topic": "Rate of Reaction",
+    "question": "How would you use a graph to determine the rate of a reaction at a specific time?",
+    "plain_answer": "On a graph of concentration (or volume of product) against time, the rate at any specific moment is found by drawing a tangent to the curve at that point and calculating the gradient (slope) of that tangent line.",
+    "pidgin_answer": "For di graph wey show concentration or product volume against time, if you wan find di rate for one particular moment, you go draw one tangent line for dat point on di curve, then calculate di gradient, wey be di slope, of dat tangent. Dat gradient na your rate for dat exact moment.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Rate of Reaction topic"
+  },
+  {
+    "id": "chem_104",
+    "subject": "Chemistry",
+    "topic": "Nuclear Chemistry",
+    "question": "What happens to the atomic number and mass number of an atom during alpha decay?",
+    "plain_answer": "During alpha decay, an atom emits an alpha particle (2 protons and 2 neutrons). This decreases the atomic number by 2 and the mass number by 4, transforming the atom into a different element.",
+    "pidgin_answer": "During alpha decay, di atom go release alpha particle, wey get 2 proton and 2 neutron inside. Dat one go reduce di atomic number by 2, and di mass number by 4. By di time e finish, di atom don change to another element entirely, e no be di same element again.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Nuclear Chemistry topic"
+  },
+  {
+    "id": "chem_105",
+    "subject": "Chemistry",
+    "topic": "Nuclear Chemistry",
+    "question": "What is one major peaceful application of radioactivity in medicine?",
+    "plain_answer": "One major peaceful application is radiotherapy, where controlled doses of radiation are used to target and destroy cancerous cells, since rapidly dividing cancer cells are often more sensitive to radiation damage than normal cells.",
+    "pidgin_answer": "One good use of radioactivity for medicine na radiotherapy, dem dey use controlled amount of radiation target and destroy cancer cells. Di reason e dey work well na because cancer cells wey dey divide fast dey more sensitive to radiation damage pass normal cells wey dey around dem.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Nuclear Chemistry topic"
+  },
+  {
+    "id": "chem_106",
+    "subject": "Chemistry",
+    "topic": "Nuclear Chemistry",
+    "question": "If a radioactive isotope has a half-life of 10 years, how much of a 100g sample remains after 30 years?",
+    "plain_answer": "After each half-life, the remaining amount is halved. After 10 years: 50g remains. After 20 years: 25g remains. After 30 years (3 half-lives): 12.5g remains.",
+    "pidgin_answer": "Every time one half-life pass, di amount wey remain go cut to half. So after 10 years, 50g go remain. After 20 years, e go be 25g. By di time 30 years reach, wey be three half-life, na 12.5g go remain, e don reduce well well.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Nuclear Chemistry topic"
+  },
+  {
+    "id": "chem_107",
+    "subject": "Chemistry",
+    "topic": "Water and Hardness",
+    "question": "How does an ion exchange resin remove hardness from water?",
+    "plain_answer": "An ion exchange resin works by replacing the calcium and magnesium ions in hard water with sodium ions, which do not cause hardness. As hard water passes through the resin, the offending ions are trapped and swapped out.",
+    "pidgin_answer": "Ion exchange resin dey work by replacing di calcium and magnesium ion wey dey inside hard water with sodium ion, wey no dey cause hardness at all. As di hard water dey pass through di resin, di troublesome ions go trapped and dem go swap am with sodium instead.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Water and Hardness topic"
+  },
+  {
+    "id": "chem_108",
+    "subject": "Chemistry",
+    "topic": "Water and Hardness",
+    "question": "Why might hard water actually be considered beneficial in some contexts?",
+    "plain_answer": "Hard water contains dissolved calcium and magnesium, minerals that contribute positively to dietary intake and may support bone health. Some studies also suggest hard water may have a protective effect against certain cardiovascular conditions, though soft water is often preferred for domestic and industrial uses due to scaling and soap efficiency issues.",
+    "pidgin_answer": "Hard water sef get im small advantage o. E get calcium and magnesium inside, wey fit contribute to your diet and even help your bone. Some studies dey suggest say e fit protect against some heart-related issues too. But for house and industry use, soft water dey more preferred because of scaling and how e dey affect soap.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Water and Hardness topic"
+  },
+  {
+    "id": "chem_109",
+    "subject": "Chemistry",
+    "topic": "Water and Hardness",
+    "question": "What causes limescale buildup in kettles and pipes, and what danger sign does it indicate?",
+    "plain_answer": "Limescale is calcium carbonate that precipitates out of hard water when it is heated, since heating reduces the solubility of calcium bicarbonate and converts it to insoluble calcium carbonate. Over time, this buildup can reduce heating efficiency and eventually block pipes.",
+    "pidgin_answer": "Limescale na calcium carbonate wey go precipitate comot from hard water anytime you heat am, because heating go reduce how soluble calcium bicarbonate be, e go convert to insoluble calcium carbonate instead. As time dey pass, dis buildup fit reduce how fast your kettle dey heat, and e fit even block pipe finish.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Water and Hardness topic"
+  },
+  {
+    "id": "chem_110",
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "What is eutrophication, and how does it relate to fertilizer runoff?",
+    "plain_answer": "Eutrophication occurs when excess nutrients, particularly nitrates and phosphates from agricultural fertilizer runoff, enter water bodies and cause excessive algae growth. When the algae die and decompose, the process consumes dissolved oxygen, harming fish and other aquatic organisms.",
+    "pidgin_answer": "Eutrophication dey happen when too much nutrients, especially nitrate and phosphate from fertilizer wey run off from farm, enter river or lake, e go cause plenty algae to grow reach. When dis algae die and start to decompose, di process go chop up all di oxygen wey dey inside water, e go harm fish and other creatures wey dey there.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Environmental Chemistry topic"
+  },
+  {
+    "id": "chem_111",
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "How does ozone depletion differ from the greenhouse effect, since both involve atmospheric gases?",
+    "plain_answer": "Ozone depletion involves the breakdown of the ozone layer in the upper atmosphere (stratosphere), mainly by chlorofluorocarbons (CFCs), reducing protection against harmful ultraviolet radiation. The greenhouse effect involves gases like carbon dioxide trapping heat closer to Earth's surface, warming the planet. They are different problems affecting different layers and mechanisms, though both stem from human emissions.",
+    "pidgin_answer": "Ozone depletion na when di ozone layer wey dey up for stratosphere dey break down, mostly because of CFC gases, and dat one go reduce di protection wey we get against harmful UV ray from sun. Greenhouse effect different, na gases like carbon dioxide dey trap heat close to Earth surface, e go make everywhere warm. Na two different wahala entirely, dem just both come from human activities.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Environmental Chemistry topic"
+  },
+  {
+    "id": "chem_112",
+    "subject": "Chemistry",
+    "topic": "Gas Laws",
+    "question": "What does the combined gas law allow you to calculate, and what stays constant in it?",
+    "plain_answer": "The combined gas law merges Boyle's Law, Charles's Law, and Gay-Lussac's Law into one relationship: (P1V1)/T1 = (P2V2)/T2. It allows you to calculate how pressure, volume, and temperature relate when a fixed amount of gas changes from one set of conditions to another, with the amount of gas (moles) held constant.",
+    "pidgin_answer": "Combined gas law na when dem join Boyle's Law, Charles's Law, and Gay-Lussac's Law together, into one relationship: (P1V1)/T1 equals (P2V2)/T2. E go allow you calculate how pressure, volume, and temperature dey relate when fixed amount of gas change from one condition go another. Just remember say di mole, di amount of gas, no dey change throughout.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Gas Laws topic"
+  },
+  {
+    "id": "chem_113",
+    "subject": "Chemistry",
+    "topic": "Gas Laws",
+    "question": "Why do real gases deviate from ideal gas behavior at high pressure and low temperature?",
+    "plain_answer": "The ideal gas model assumes gas particles have no volume and no attractive forces between them. At high pressure, particles are forced close together, so their actual volume becomes significant. At low temperature, particles move slower, allowing intermolecular attractive forces to become noticeable, both effects cause real gases to deviate from ideal behavior.",
+    "pidgin_answer": "Ideal gas model dey assume say gas particles no get volume at all, and no attraction dey between dem. But for high pressure, di particles go squeeze close together, so dia real volume go start to matter. For low temperature now, di particles go slow down, and dat go allow di small attraction wey dey between dem to show face. Both of dis two things na why real gas no dey follow di ideal gas rule exactly.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Gas Laws topic"
+  },
+  {
+    "id": "chem_114",
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "question": "What happens to the position of equilibrium if the concentration of a reactant is increased?",
+    "plain_answer": "According to Le Chatelier's Principle, increasing the concentration of a reactant shifts the equilibrium position toward the products, as the system tries to consume the excess reactant and restore balance.",
+    "pidgin_answer": "Following Le Chatelier's Principle, if you increase di concentration of one reactant, di equilibrium go shift go di product side, because di system go try use up dat excess reactant to bring back balance. E be like say di system dey find work for di extra reactant.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Chemical Equilibrium topic"
+  },
+  {
+    "id": "chem_115",
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "question": "In the Haber process, why is a moderate temperature used instead of a very high one, despite equilibrium favoring lower temperatures?",
+    "plain_answer": "The forward reaction in the Haber process is exothermic, so lower temperatures favor a higher equilibrium yield of ammonia. However, very low temperatures make the reaction rate too slow to be commercially useful. A moderate temperature (around 450 degrees Celsius) is chosen as a practical compromise between a reasonable yield and an acceptable reaction rate.",
+    "pidgin_answer": "Di forward reaction for Haber process na exothermic, so if temperature low, e go favor higher yield of ammonia at equilibrium. But if temperature too low, di reaction go slow reach where e no go useful again for business. So dem go choose moderate temperature, around 450 degrees Celsius, na compromise between correct yield and reaction wey no too slow.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Chemical Equilibrium topic"
+  },
+  {
+    "id": "chem_116",
+    "subject": "Chemistry",
+    "topic": "Laws of Chemical Combination",
+    "question": "How did Dalton's Atomic Theory explain the Law of Conservation of Mass?",
+    "plain_answer": "Dalton's Atomic Theory proposed that matter is made of indivisible atoms that are neither created nor destroyed in chemical reactions, only rearranged. This directly explains why the total mass before and after a reaction remains the same, atoms are simply being reorganized into new combinations.",
+    "pidgin_answer": "Dalton's Atomic Theory come propose say matter dey made of small small atoms wey no fit divide, and dem no dey created or destroyed during chemical reaction, dem just dey rearrange. Na dis one dey explain why di total mass before and after reaction go still remain di same, di atoms just dey reorganize demselves into new combination.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Laws of Chemical Combination topic"
+  },
+  {
+    "id": "chem_117",
+    "subject": "Chemistry",
+    "topic": "Laws of Chemical Combination",
+    "question": "How does Avogadro's Hypothesis relate to the volumes of gases in a chemical reaction?",
+    "plain_answer": "Avogadro's Hypothesis states that equal volumes of gases, at the same temperature and pressure, contain equal numbers of molecules. This connects volume ratios in gas reactions directly to mole ratios, explaining why gas volume ratios in reactions are simple whole numbers.",
+    "pidgin_answer": "Avogadro's Hypothesis dey talk say if you get equal volume of gas, under di same temperature and pressure, dem go contain equal number of molecule inside, no matter di type of gas. Na dis one dey connect volume ratio for gas reaction directly to mole ratio, and e dey explain why di volume ratios for gas reactions dey come out as simple whole numbers.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Laws of Chemical Combination topic"
+  },
+  {
+    "id": "chem_118",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "What is the difference between an atom's ground state and its excited state?",
+    "plain_answer": "In its ground state, an atom's electrons occupy the lowest available energy levels. In an excited state, one or more electrons have absorbed energy and jumped to a higher energy level. The atom is unstable in this state and will eventually release the absorbed energy, often as light, as electrons fall back to the ground state.",
+    "pidgin_answer": "For ground state, di atom electrons dey sit for di lowest energy level wey dey available, dem dey rest well. For excited state now, one or more of di electrons don absorb energy, dem jump go higher energy level. Di atom no go stable for dis state, e go later release di energy e absorb, mostly as light, as di electrons come back down to ground state.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Atomic Structure topic"
+  },
+  {
+    "id": "chem_119",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "How many electrons, protons, and neutrons are in a neutral atom of chlorine-35 (atomic number 17)?",
+    "plain_answer": "Chlorine has an atomic number of 17, meaning it has 17 protons. Since it is neutral, it also has 17 electrons. The mass number is 35, so neutrons = mass number minus atomic number = 35 minus 17 = 18 neutrons.",
+    "pidgin_answer": "Chlorine get atomic number 17, e mean say e get 17 proton. Since e neutral, e go also get 17 electron, dem must balance. Mass number na 35, so to find neutron, you go just do 35 minus 17, wey give you 18 neutron. Simple subtraction be dat.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Atomic Structure topic"
+  },
+  {
+    "id": "chem_120",
+    "subject": "Chemistry",
+    "topic": "Electrolysis",
+    "question": "What determines which ion gets discharged first at an electrode when more than one type of ion is present?",
+    "plain_answer": "When multiple ions are present, discharge is determined by factors including the position of the ion in the reactivity or electrochemical series, its concentration, and the type of electrode used. Generally, less reactive ions are discharged preferentially at the cathode, and less reactive non-metal ions at the anode.",
+    "pidgin_answer": "If plenty type of ion dey present, wetin go decide which one go discharge first na factors like where di ion dey sit for di reactivity or electrochemical series, im concentration, and di type of electrode wey dem dey use. Normally, di ion wey no too reactive go discharge first for cathode, and same thing for non-metal ion for anode side.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Electrolysis topic"
+  },
+  {
+    "id": "chem_121",
+    "subject": "Chemistry",
+    "topic": "Electrolysis",
+    "question": "Why must electrodes used in electrolysis of certain solutions be inert, such as platinum or graphite?",
+    "plain_answer": "Inert electrodes, such as platinum or graphite, do not react with the electrolyte or take part in the electrode reactions themselves. This ensures that only the intended ions in solution are oxidized or reduced, keeping the results predictable and the electrode itself unchanged throughout the process.",
+    "pidgin_answer": "Inert electrode, like platinum or graphite, no dey react with di electrolyte, dem no dey join di electrode reaction at all. Dis one go ensure say na only di ions wey dey inside di solution go oxidize or reduce, e go keep di result predictable, and di electrode itself no go change throughout di whole process.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Electrolysis topic"
+  },
+  {
+    "id": "chem_122",
+    "subject": "Chemistry",
+    "topic": "Energy Changes",
+    "question": "What is meant by the standard enthalpy of combustion?",
+    "plain_answer": "The standard enthalpy of combustion is the energy released when one mole of a substance is completely burned in oxygen under standard conditions (298 K and 1 atmosphere pressure). Combustion reactions are always exothermic, so this value is always negative.",
+    "pidgin_answer": "Standard enthalpy of combustion na di energy wey dey release when one mole of substance burn completely for oxygen, under standard condition, wey be 298 K and 1 atmosphere pressure. Combustion na always exothermic, so dis value go always negative, e no fit be positive.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Energy Changes topic"
+  },
+  {
+    "id": "chem_123",
+    "subject": "Chemistry",
+    "topic": "Energy Changes",
+    "question": "How can you use a simple calorimetry experiment to measure the heat released by a reaction?",
+    "plain_answer": "In simple calorimetry, a known mass of water is heated by the reaction inside an insulated container, and the temperature change is measured. The heat released is calculated using the formula q = mc(delta T), where m is the mass of water, c is the specific heat capacity of water, and delta T is the temperature change.",
+    "pidgin_answer": "For simple calorimetry, you go get known mass of water, and allow di reaction heat am up inside one insulated container, then measure di temperature change. To calculate di heat wey release, you go use di formula q equals mc times delta T, where m na di mass of water, c na di specific heat capacity of water, and delta T na di temperature change wey you measure.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Energy Changes topic"
+  },
+  {
+    "id": "chem_124",
+    "subject": "Chemistry",
+    "topic": "Non-metals",
+    "question": "What is the difference between allotropes of an element, using carbon as an example?",
+    "plain_answer": "Allotropes are different structural forms of the same element in the same physical state. Carbon has several allotropes, including diamond (each carbon bonded to four others in a rigid 3D lattice, very hard) and graphite (carbon atoms arranged in flat layers that slide over each other, making it soft and a good conductor).",
+    "pidgin_answer": "Allotropes na different structural forms of di same element, but dem still dey for di same physical state. Carbon get plenty allotropes, like diamond, where each carbon bond to four other carbon inside one rigid 3D structure, e strong well well. Then graphite, where di carbon atoms dey arrange for flat layers wey fit slide over each other, na why e soft and e sabi conduct electricity.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Non-metals topic"
+  },
+  {
+    "id": "chem_125",
+    "subject": "Chemistry",
+    "topic": "Non-metals",
+    "question": "What test distinguishes ammonia gas from other common gases?",
+    "plain_answer": "Ammonia gas can be identified by its characteristic pungent smell, and by turning damp red litmus paper blue, since ammonia is alkaline when dissolved in the moisture on the paper. It also produces dense white fumes when a glass rod dipped in concentrated hydrochloric acid is held near it.",
+    "pidgin_answer": "Ammonia gas get one sharp pungent smell wey you go easily recognize. E go also turn damp red litmus paper blue, because ammonia dey alkaline once e dissolve for di moisture wey dey di paper. Another good test na to hold glass rod wey you don dip inside concentrated hydrochloric acid near am, e go produce thick white fumes immediately.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Non-metals topic"
+  },
+  {
+    "id": "chem_126",
+    "subject": "Chemistry",
+    "topic": "Metals",
+    "question": "Why is aluminium extracted by electrolysis rather than by reduction with carbon, unlike iron?",
+    "plain_answer": "Aluminium is more reactive than carbon, so carbon cannot reduce aluminium oxide to aluminium metal. Since aluminium is too reactive to be displaced by carbon, electrolysis (passing electricity through molten aluminium oxide) is used instead to force the reduction to occur.",
+    "pidgin_answer": "Aluminium reactive pass carbon, so carbon no fit reduce aluminium oxide come aluminium metal, e no strong reach. Since aluminium too reactive for carbon to displace am, dem go use electrolysis instead, dem go pass electricity through molten aluminium oxide, e go force di reduction make e happen.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Metals topic"
+  },
+  {
+    "id": "chem_127",
+    "subject": "Chemistry",
+    "topic": "Metals",
+    "question": "What role does cryolite play in the extraction of aluminium?",
+    "plain_answer": "Cryolite is mixed with aluminium oxide to lower its melting point significantly, from around 2000 degrees Celsius to about 900 degrees Celsius. This makes the electrolysis process far more energy efficient and economically viable.",
+    "pidgin_answer": "Cryolite dem go mix am with aluminium oxide, e go reduce di melting point well well, from around 2000 degrees Celsius come reach about 900 degrees Celsius. Dis one go make di electrolysis process use less energy, and e go make di whole thing cheaper and more economical for business.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Metals topic"
+  },
+  {
+    "id": "chem_128",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry Basics",
+    "question": "What is the difference between a saturated and unsaturated fat, in terms of their chemical structure?",
+    "plain_answer": "Saturated fats contain only single carbon-carbon bonds, allowing the fatty acid chains to pack tightly, giving them a solid state at room temperature. Unsaturated fats contain one or more carbon-carbon double bonds, which create kinks in the chain, preventing tight packing and keeping them liquid at room temperature.",
+    "pidgin_answer": "Saturated fat get only single bond between di carbon atoms, so di fatty acid chains fit pack demselves tight together, na why dem dey solid for room temperature. Unsaturated fat now get one or more double bond, wey go create bend for di chain, e no go allow dem pack tight, na why dem dey liquid for room temperature instead.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+  },
+  {
+    "id": "chem_129",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry Basics",
+    "question": "What is a homologous series, and what characteristics define one?",
+    "plain_answer": "A homologous series is a family of organic compounds with the same general formula, similar chemical properties, and each member differing from the next by a constant unit, usually CH2. Members show a gradual change in physical properties, such as increasing boiling point, as chain length increases.",
+    "pidgin_answer": "Homologous series na family of organic compounds wey get di same general formula, similar chemical properties, and each member go differ from di next one by constant unit, usually CH2. As di chain dey grow longer, di physical properties, like boiling point, go dey change gradually, e no dey jump anyhow.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+  },
+  {
+    "id": "chem_130",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "What is a galvanic (voltaic) cell, and how does it differ from an electrolytic cell?",
+    "plain_answer": "A galvanic cell converts chemical energy into electrical energy through a spontaneous redox reaction, generating current without an external power source, like a battery. An electrolytic cell does the opposite, it uses an external electrical supply to force a non-spontaneous chemical reaction to occur, as in electrolysis.",
+    "pidgin_answer": "Galvanic cell, wey dem also dey call voltaic cell, dey convert chemical energy come electrical energy, through spontaneous redox reaction, e go generate current without any external power source, like battery for example. Electrolytic cell now dey do di opposite, e go use external electrical supply force one reaction wey no for happen ordinarily to occur, na so electrolysis dey work.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Electrochemistry topic"
+  },
+  {
+    "id": "chem_131",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "What happens at each electrode in a simple zinc-copper galvanic cell?",
+    "plain_answer": "In a zinc-copper cell, zinc is more reactive and acts as the anode, where oxidation occurs (zinc loses electrons to form Zn2+). Copper acts as the cathode, where reduction occurs (Cu2+ ions gain electrons to form solid copper). Electrons flow through the external circuit from the zinc anode to the copper cathode.",
+    "pidgin_answer": "For zinc-copper cell, zinc reactive pass, so e go serve as anode, na there oxidation dey occur, zinc go lose electron turn to Zn2+. Copper na im go be cathode, na there reduction dey happen, Cu2+ ion go gain electron turn to solid copper. Di electrons go flow through di external circuit, from zinc anode go reach copper cathode.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Electrochemistry topic"
+  },
+  {
+    "id": "chem_132",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "What is the function of a salt bridge in a galvanic cell?",
+    "plain_answer": "A salt bridge completes the electrical circuit by allowing ions to flow between the two half-cells, maintaining electrical neutrality as electrons flow through the external wire. Without it, charge would build up in each half-cell and the reaction would quickly stop.",
+    "pidgin_answer": "Salt bridge dey complete di electrical circuit, e go allow ions flow between di two half-cells, e go maintain electrical neutrality as electron dey flow through di external wire. Without di salt bridge, charge go build up for each half-cell, and di whole reaction go quickly stop, e no go fit continue.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Electrochemistry topic"
+  },
+  {
+    "id": "chem_133",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "Why does a more reactive metal have a more negative standard electrode potential?",
+    "plain_answer": "Standard electrode potential measures a species' tendency to be reduced (gain electrons). A more reactive metal loses electrons more readily and resists being reduced, giving it a more negative standard electrode potential, since it more strongly favors oxidation over reduction.",
+    "pidgin_answer": "Standard electrode potential dey measure how much one species wan gain electron, wey be reduction. A metal wey reactive pass go dey release electron easily, and e no like to gain electron, e no like reduction, so e go get more negative standard electrode potential, e favor oxidation well well pass reduction.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Electrochemistry topic"
+  },
+  {
+    "id": "chem_134",
+    "subject": "Chemistry",
+    "topic": "Qualitative Analysis",
+    "question": "How would you test for the presence of a chloride ion in a solution?",
+    "plain_answer": "Add dilute nitric acid followed by silver nitrate solution. A white precipitate (silver chloride) forming confirms the presence of chloride ions. The precipitate is insoluble in dilute nitric acid but dissolves in dilute ammonia solution.",
+    "pidgin_answer": "You go add dilute nitric acid first, then follow am with silver nitrate solution. If white precipitate form, wey be silver chloride, dat one go confirm say chloride ion dey present. Di precipitate no go dissolve for dilute nitric acid, but e go dissolve well if you add dilute ammonia solution.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Qualitative Analysis topic"
+  },
+  {
+    "id": "chem_135",
+    "subject": "Chemistry",
+    "topic": "Qualitative Analysis",
+    "question": "How do you test for the presence of a sulfate ion in solution?",
+    "plain_answer": "Add dilute hydrochloric acid followed by barium chloride solution. A white precipitate (barium sulfate) forming confirms the presence of sulfate ions. This precipitate does not dissolve in excess dilute acid, distinguishing it from other white precipitates like sulfites.",
+    "pidgin_answer": "You go add dilute hydrochloric acid first, then follow am with barium chloride solution. If white precipitate form, wey be barium sulfate, dat one go confirm say sulfate ion dey present. Dis particular precipitate no go dissolve even if you add plenty acid, na so e different from other white precipitate like sulfite.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Qualitative Analysis topic"
+  },
+  {
+    "id": "chem_136",
+    "subject": "Chemistry",
+    "topic": "Qualitative Analysis",
+    "question": "What flame test color would indicate the presence of sodium ions, and how does a flame test work?",
+    "plain_answer": "Sodium ions produce a persistent bright yellow-orange flame. Flame tests work because heat energy excites electrons in the metal ion to higher energy levels; as electrons fall back down, they release energy as light of a specific, characteristic wavelength, seen as a distinct flame color.",
+    "pidgin_answer": "Sodium ion go produce bright yellow-orange flame wey go persist. Flame test dey work because di heat energy go excite di electrons for di metal ion, e go push dem go higher energy level. As di electrons come fall back down, dem go release energy as light, wey get specific wavelength, and dat na di flame color wey you dey see.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Qualitative Analysis topic"
+  },
+  {
+    "id": "chem_137",
+    "subject": "Chemistry",
+    "topic": "Qualitative Analysis",
+    "question": "How would you distinguish between ammonium ions and other cations using sodium hydroxide?",
+    "plain_answer": "Adding sodium hydroxide to a solution containing ammonium ions and gently warming it releases ammonia gas, identifiable by its pungent smell and by turning damp red litmus paper blue. Most other metal cations instead form a colored or white precipitate with sodium hydroxide rather than releasing a gas.",
+    "pidgin_answer": "If you add sodium hydroxide to solution wey get ammonium ion inside, and you warm am small small, e go release ammonia gas, wey you go recognize by di sharp smell, and e go turn damp red litmus paper blue. Most other metal cations no go release gas like that, dem go instead form colored or white precipitate with di sodium hydroxide.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Qualitative Analysis topic"
+  },
+  {
+    "id": "chem_138",
+    "subject": "Chemistry",
+    "topic": "Qualitative Analysis",
+    "question": "What observation would confirm the presence of a carbonate ion when reacted with a dilute acid?",
+    "plain_answer": "Adding a dilute acid to a carbonate produces visible effervescence (bubbling) as carbon dioxide gas is released. This gas can be confirmed by bubbling it through limewater, which turns milky/cloudy due to the formation of insoluble calcium carbonate.",
+    "pidgin_answer": "If you add dilute acid enter carbonate, you go see effervescence, wey be bubbling, as carbon dioxide gas dey release comot. To confirm say na truly carbon dioxide, you go bubble di gas enter limewater, e go turn milky or cloudy, because insoluble calcium carbonate go form inside am.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Qualitative Analysis topic"
+  },
+  {
+    "id": "chem_139",
+    "subject": "Chemistry",
+    "topic": "Solubility and Solutions",
+    "question": "What does it mean for a solution to be saturated, and how does temperature typically affect solubility of solids?",
+    "plain_answer": "A saturated solution contains the maximum amount of solute that can dissolve in a given amount of solvent at a specific temperature, with any excess remaining undissolved. For most solid solutes, solubility increases as temperature increases, since more thermal energy helps break apart the solute's structure and disperse particles into solution.",
+    "pidgin_answer": "Saturated solution na when e don hold di maximum amount of solute wey fit dissolve for dat amount of solvent, under one particular temperature, any extra go just remain undissolved. For most solid solute, if temperature increase, solubility go increase too, because more heat energy go help break di solute structure, e go help di particles spread well inside di solution.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Solubility and Solutions topic"
+  },
+  {
+    "id": "chem_140",
+    "subject": "Chemistry",
+    "topic": "Solubility and Solutions",
+    "question": "Why does the solubility of gases in water generally decrease as temperature increases, unlike most solids?",
+    "plain_answer": "As temperature increases, gas molecules gain kinetic energy and move faster, making it easier for them to escape from the liquid into the surrounding air. This is why warm soft drinks lose their fizz (dissolved carbon dioxide) faster than cold ones.",
+    "pidgin_answer": "As temperature dey increase, di gas molecules go gain more energy, dem go move faster, and dat go make am easier for dem to escape comot from di liquid enter di air around. Na dis one dey explain why warm soft drink go lose im fizz, wey be di dissolved carbon dioxide, faster pass cold one.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Solubility and Solutions topic"
+  },
+  {
+    "id": "chem_141",
+    "subject": "Chemistry",
+    "topic": "Solubility and Solutions",
+    "question": "What is the general rule 'like dissolves like' referring to in terms of solubility?",
+    "plain_answer": "This rule refers to the tendency of polar solvents (like water) to dissolve polar or ionic solutes well, while non-polar solvents dissolve non-polar solutes well. This happens because similar types of intermolecular forces between solute and solvent allow them to interact and mix effectively.",
+    "pidgin_answer": "Dis rule dey talk about how polar solvent, like water, dey dissolve polar or ionic solute well well, while non-polar solvent go dissolve non-polar solute better instead. E dey happen because similar type of force dey between di solute and solvent, so dem fit interact and mix together properly, no wahala.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Solubility and Solutions topic"
+  },
+  {
+    "id": "chem_142",
+    "subject": "Chemistry",
+    "topic": "Solubility and Solutions",
+    "question": "How would you calculate the solubility of a substance from experimental data?",
+    "plain_answer": "Solubility is typically expressed as the mass of solute that dissolves in 100g of solvent at a given temperature to form a saturated solution. It is calculated by measuring the mass of solute dissolved and the mass of solvent used, then scaling the ratio to a per-100g basis.",
+    "pidgin_answer": "Solubility dem dey usually express am as di mass of solute wey dissolve for 100g of solvent, under particular temperature, to form saturated solution. To calculate am, you go measure di mass of solute wey dissolve and di mass of solvent wey you use, then you go scale di ratio make e fit di per-100g basis.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Solubility and Solutions topic"
+  },
+  {
+    "id": "chem_143",
+    "subject": "Chemistry",
+    "topic": "Industrial Chemistry",
+    "question": "What are the main raw materials and conditions used in the Contact Process for manufacturing sulfuric acid?",
+    "plain_answer": "The Contact Process uses sulfur (burned to form sulfur dioxide), oxygen from air, and a vanadium(V) oxide catalyst. Sulfur dioxide is converted to sulfur trioxide at around 450 degrees Celsius and 2 atmospheres pressure, then dissolved to eventually produce concentrated sulfuric acid.",
+    "pidgin_answer": "Contact Process dey use sulfur, wey dem go burn make sulfur dioxide, oxygen from air, and vanadium(V) oxide as catalyst. Di sulfur dioxide go convert to sulfur trioxide, around 450 degrees Celsius and 2 atmosphere pressure, then dem go dissolve am, e go eventually produce concentrated sulfuric acid wey industries need.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Industrial Chemistry topic"
+  },
+  {
+    "id": "chem_144",
+    "subject": "Chemistry",
+    "topic": "Industrial Chemistry",
+    "question": "Why is the Haber process considered a compromise between yield, rate, and cost?",
+    "plain_answer": "High pressure favors higher ammonia yield but is expensive to maintain and has safety risks. Low temperature favors yield but slows the reaction rate excessively. The Haber process settles on moderate pressure (around 200 atmospheres) and moderate temperature (around 450 degrees Celsius) with a catalyst, balancing reasonable yield, acceptable rate, and manageable cost.",
+    "pidgin_answer": "High pressure go favor higher ammonia yield, but e cost plenty money to maintain, and e get safety risk too. Low temperature go favor yield, but e go slow down di reaction rate too much. So di Haber process go settle for moderate pressure, around 200 atmosphere, and moderate temperature, around 450 degrees Celsius, plus catalyst, e go balance correct yield, acceptable rate, and cost wey manageable.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Industrial Chemistry topic"
+  },
+  {
+    "id": "chem_145",
+    "subject": "Chemistry",
+    "topic": "Industrial Chemistry",
+    "question": "What is the main industrial use of ammonia once it is produced?",
+    "plain_answer": "The majority of industrially produced ammonia is used to manufacture nitrogen-based fertilizers, such as ammonium nitrate and ammonium sulfate, which are essential for large-scale agricultural crop production worldwide.",
+    "pidgin_answer": "Most of di ammonia wey dem produce for industry, dem dey use am make nitrogen-based fertilizer, like ammonium nitrate and ammonium sulfate. Dis fertilizers na wetin dey help farmers produce crop for large scale, dem dey important well well for agriculture worldwide.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Industrial Chemistry topic"
+  },
+  {
+    "id": "chem_146",
+    "subject": "Chemistry",
+    "topic": "Industrial Chemistry",
+    "question": "What is fractional distillation of petroleum used to separate, and on what property is the separation based?",
+    "plain_answer": "Fractional distillation separates crude oil into different fractions such as gasoline, kerosene, diesel, and bitumen, based on differences in boiling point. Lighter fractions with smaller molecules and lower boiling points rise higher in the fractionating column, while heavier fractions with larger molecules are collected lower down.",
+    "pidgin_answer": "Fractional distillation dey separate crude oil into different fractions, like gasoline, kerosene, diesel, and bitumen, based on how dia boiling point differ. Di light fractions, wey get small molecule and low boiling point, go climb go up di column, while di heavy fractions, wey get big molecule, go collect for down side instead.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Industrial Chemistry topic"
+  },
+  {
+    "id": "chem_147",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "What determines the shape of a water molecule, and why is it bent rather than linear?",
+    "plain_answer": "Water has two bonding pairs and two lone pairs of electrons around the central oxygen atom. Lone pairs repel more strongly than bonding pairs, pushing the two O-H bonds closer together, resulting in a bent molecular shape with a bond angle of about 104.5 degrees, rather than the straight line you might expect from just the two bonds.",
+    "pidgin_answer": "Water get two bonding pair and two lone pair of electron surrounding di central oxygen atom. Di lone pairs dey push harder pass di bonding pairs, so dem go push di two O-H bonds come closer together, and dat na why di molecule end up bent, around 104.5 degrees bond angle, instead of straight line wey you fit expect from just two bonds.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Chemical Bonding topic"
+  },
+  {
+    "id": "chem_148",
+    "subject": "Chemistry",
+    "topic": "Mole Concept",
+    "question": "How do you convert between the number of particles and the number of moles of a substance?",
+    "plain_answer": "The number of moles is calculated by dividing the number of particles by Avogadro's number (6.02 x 10^23): moles = number of particles / 6.02 x 10^23. Conversely, to find the number of particles from moles, you multiply moles by Avogadro's number.",
+    "pidgin_answer": "To convert particles to mole, you go divide di number of particles by Avogadro's number, wey be 6.02 times 10 to power 23. So: mole equals number of particles divide by 6.02 times 10 to power 23. If you wan go di other way, from mole to particles, you go just multiply di mole by Avogadro's number instead.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Mole Concept topic"
+  },
+  {
+    "id": "chem_149",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "Why do Group 1 metals become more reactive as you move down the group, while Group 17 elements become less reactive?",
+    "plain_answer": "Group 1 metals react by losing their single outer electron, and this becomes easier down the group as atomic size increases and the outer electron is held less tightly. Group 17 elements react by gaining an electron, and this becomes harder down the group as increasing atomic size and shielding make it more difficult to attract an extra electron toward the nucleus.",
+    "pidgin_answer": "Group 1 metals dey react by releasing dia one outer electron, and as you dey go down di group, e dey easier to release am, because di atom dey grow bigger and di electron no dey held tight again. Group 17 elements now dey react by gaining electron instead, and as you go down di group, e dey harder to gain am, because di bigger atom size and more shielding go make am difficult to attract extra electron come di nucleus.",
+    "difficulty": "hard",
+    "source": "JAMB Chemistry syllabus, Periodic Table topic"
+  },
+  {
+    "id": "chem_150",
+    "subject": "Chemistry",
+    "topic": "Redox Reactions",
+    "question": "How can you use color changes to determine whether a reaction is a redox reaction, using potassium permanganate as an example?",
+    "plain_answer": "Potassium permanganate (KMnO4) is a deep purple oxidizing agent. When it oxidizes another substance, it is itself reduced to the pale pink or colorless Mn2+ ion. Observing this purple-to-colorless change during a reaction is a common, visible way to confirm a redox reaction is taking place.",
+    "pidgin_answer": "Potassium permanganate, KMnO4, get deep purple color, and e dey work as oxidizing agent. Anytime e oxidize another substance, e itself go reduce turn to pale pink or colorless Mn2+ ion. If you dey see dis purple to colorless change during reaction, na common, visible way to confirm say redox reaction dey happen for real.",
+    "difficulty": "medium",
+    "source": "JAMB Chemistry syllabus, Redox Reactions topic"
+  },
+  {
+  "id": "chem_151",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What is a hydrocarbon, and what are the main types?",
+  "plain_answer": "A hydrocarbon is any organic compound made up entirely of hydrogen and carbon atoms. The main types are alkanes (single bonds only, saturated), alkenes (containing at least one carbon-carbon double bond), and alkynes (containing at least one carbon-carbon triple bond). Hydrocarbons can also be classified as aliphatic (chain-like) or aromatic (ring-based, like benzene).",
+  "pidgin_answer": "Hydrocarbon na any organic compound wey get only hydrogen and carbon inside am, nothing else. Di main types na alkane, wey get only single bond, dem call am saturated. Alkene, wey get at least one double bond. And alkyne, wey get at least one triple bond. You fit also group dem as aliphatic, wey be chain-like, or aromatic, wey be ring-based like benzene.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+}
+]
