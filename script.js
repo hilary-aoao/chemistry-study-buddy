@@ -4,6 +4,12 @@ const inputBox = document.getElementById("inputBox");
 const sendBtn = document.getElementById("sendBtn");
 const page = document.querySelector(".page");
 
+inputBox.addEventListener("keydown", function (event) {
+  if (event.key === "Enter") {
+    sendBtn.click();
+  }
+});
+
 let dataset = [];
 let lastEntry = null;
 let voiceMode = "plain";
@@ -47,7 +53,9 @@ const STOPWORDS = new Set([
   "the", "is", "a", "an", "of", "to", "in", "and", "for", "on", "with",
   "what", "how", "does", "do", "are", "why", "which", "was", "were",
   "be", "it", "this", "that", "as", "by", "from", "or", "at", "can",
-  "you", "we", "explain", "tell", "me", "about", "will", "state"
+  "you", "we", "explain", "tell", "me", "about", "will", "state",
+  "more", "further", "again", "please", "simple", "simpler", "well",
+  "properly", "clearly", "correctly", "differently", "briefly", "okay", "ok", "now"
 ]);
 
 function tokenize(text) {
@@ -103,6 +111,7 @@ sendBtn.addEventListener("click", async function () {
 
 addMessage("user", question);
 inputBox.value = "";
+
 
 const rawMatch = findBestMatch(question);
 const MIN_SCORE = 1;
