@@ -1658,5 +1658,1105 @@
   "pidgin_answer": "Background radiation na di small level of radiation wey dey naturally dey our environment all di time, even without any nuclear activity near us. E dey come from natural source like cosmic ray from space, radioactive element wey dey inside rock and soil, like radon gas, and even small small radioactive material wey dey naturally inside food and inside human body sef.",
   "difficulty": "easy",
   "source": "JAMB Chemistry syllabus, Nuclear Chemistry topic"
-}
+},
+{
+  "id": "chem_167",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What is benzene, and why is it more stable than a typical molecule with alternating double bonds would suggest?",
+  "plain_answer": "Benzene is a simple aromatic hydrocarbon with the formula C6H6, made of six carbon atoms arranged in a ring, each bonded to one hydrogen atom. Although it is often drawn with alternating single and double bonds, in reality all six carbon-carbon bonds are identical in length, since the electrons are delocalized evenly around the entire ring rather than fixed in specific double bonds. This delocalization gives benzene extra stability, which is why it typically undergoes substitution reactions, replacing a hydrogen atom, rather than the addition reactions typical of normal alkenes.",
+  "pidgin_answer": "Benzene na simple aromatic hydrocarbon, formula na C6H6, e get six carbon atom wey arrange for ring, and each one bond to one hydrogen atom. Even though dem dey draw am with alternating single and double bond, for real life, all six carbon-carbon bond dey equal length, because di electrons dey delocalize evenly round di whole ring instead of dey fixed for specific double bond. Dis delocalization na wetin dey give benzene extra stability, na why e go normally undergo substitution reaction, wey be replacing hydrogen atom, instead of di addition reaction wey normal alkene dey do.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_168",
+  "subject": "Chemistry",
+  "topic": "Separation Techniques",
+  "question": "What is the difference between a pure substance and an impure substance?",
+  "plain_answer": "A pure substance contains only one type of particle, either a single element or a single compound, with no other substances mixed in, and has a fixed, sharp melting and boiling point. An impure substance contains a mixture of two or more different substances, and typically melts or boils over a range of temperatures rather than at one exact point, since the different components affect each other's behavior.",
+  "pidgin_answer": "Pure substance na di one wey get only one type of particle inside, whether na single element or single compound, nothing else mix enter am, and e get fixed, sharp melting and boiling point. Impure substance now na di one wey get mixture of two or more different substance inside, e go normally melt or boil for range of temperature instead of one exact point, because di different components dey affect each other.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Separation of Mixtures topic"
+},
+{
+  "id": "chem_169",
+  "subject": "Chemistry",
+  "topic": "Separation Techniques",
+  "question": "How can boiling point and melting point be used to test the purity of a substance?",
+  "plain_answer": "A pure substance melts and boils at one sharp, fixed temperature, while an impure substance melts over a range of temperatures, usually starting lower than the pure substance's true melting point, and boils over a range too, usually higher than expected. Comparing an observed melting or boiling point, and whether it happens sharply or gradually, against the known value for that pure substance is a standard way chemists check purity.",
+  "pidgin_answer": "Pure substance go melt and boil for one sharp, fixed temperature, but impure substance go melt for range of temperature, e go normally start lower pass di real melting point of di pure substance, and e go boil for range too, usually higher pass wetin dem expect. If you compare di melting or boiling point wey you observe, and whether e happen sharply or gradually, against di known value for dat pure substance, na so chemist dey normally check purity.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Separation of Mixtures topic"
+},
+{
+  "id": "chem_170",
+  "subject": "Chemistry",
+  "topic": "Separation Techniques",
+  "question": "What is the difference between an element, a compound, and a mixture?",
+  "plain_answer": "An element is a pure substance made of only one type of atom, and cannot be broken down further by chemical means, like oxygen or iron. A compound is formed when two or more different elements chemically combine in a fixed ratio, creating a new substance with its own properties, like water or table salt. A mixture is simply two or more substances, elements, compounds, or both, physically combined without any chemical reaction, so each component keeps its own individual properties and can be separated by physical means.",
+  "pidgin_answer": "Element na pure substance wey get only one type of atom inside, you no fit break am down further with chemical method, like oxygen or iron. Compound now na wetin dem form when two or more different elements chemically combine for fixed ratio, e go create new substance wey get im own properties, like water or table salt. Mixture na just two or more substance, whether elements, compounds, or both, wey dem physically combine without any chemical reaction, so each component go still keep im own individual properties, and you fit separate dem with physical method.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Separation of Mixtures topic"
+},
+{
+  "id": "chem_171",
+  "subject": "Chemistry",
+  "topic": "Separation Techniques",
+  "question": "What is the difference between a physical change and a chemical change?",
+  "plain_answer": "A physical change alters the form or appearance of a substance, like its state, shape, or size, without changing its chemical composition, and is usually easy to reverse, such as melting ice or dissolving sugar in water. A chemical change produces one or more entirely new substances with different properties, through breaking and forming chemical bonds, and is usually difficult or impossible to reverse, such as burning wood or rusting iron.",
+  "pidgin_answer": "Physical change na wetin dey alter di form or appearance of substance, like im state, shape, or size, without changing di chemical composition, and e dey normally easy to reverse, like melting ice or dissolving sugar for water. Chemical change now go produce one or more entirely new substance wey get different properties, through breaking and forming chemical bond, and e dey normally hard or impossible to reverse, like when wood dey burn or iron dey rust.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Separation of Mixtures topic"
+},
+{
+  "id": "chem_172",
+  "subject": "Chemistry",
+  "topic": "Separation Techniques",
+  "question": "What is sublimation, and how is it used to separate a mixture?",
+  "plain_answer": "Sublimation is the direct change of a substance from a solid to a gas, without passing through a liquid state. It is used to separate a mixture where one component sublimes and the others do not, for example, separating solid iodine or ammonium chloride from sand, heating the mixture causes the subliming substance to turn directly into vapor, which is then cooled elsewhere to solidify again, leaving the non-subliming component behind.",
+  "pidgin_answer": "Sublimation na when substance dey change direct from solid go gas, without passing through liquid state at all. Dem dey use am separate mixture where one component fit sublime while di others no fit, for example, separating solid iodine or ammonium chloride from sand, if you heat di mixture, di substance wey dey sublime go turn direct to vapor, wey you go later cool for another place make e solidify again, e go leave di one wey no sublime behind.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Separation of Mixtures topic"
+},
+{
+  "id": "chem_173",
+  "subject": "Chemistry",
+  "topic": "Separation Techniques",
+  "question": "What is decantation, and when is it a suitable separation method?",
+  "plain_answer": "Decantation is the process of carefully pouring off a liquid from a mixture, leaving behind a solid that has settled at the bottom, or separating two immiscible liquids where one floats above the other. It is suitable when the solid particles are large enough and heavy enough to settle completely, or when a quick, rough separation is acceptable, though it is generally less precise than filtration.",
+  "pidgin_answer": "Decantation na di process of carefully pouring out liquid from mixture, e go leave di solid wey don settle for down, or e fit separate two immiscible liquid where one dey float on top di other one. E dey suitable when di solid particles big and heavy well enough to settle completely, or when quick, rough separation go still dey acceptable, though e no too precise pass filtration.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Separation of Mixtures topic"
+},
+{
+  "id": "chem_174",
+  "subject": "Chemistry",
+  "topic": "Separation Techniques",
+  "question": "How would magnetization be used to separate a mixture, and what limits its use?",
+  "plain_answer": "Magnetization separates a mixture by using a magnet to attract and remove magnetic components, typically iron or steel, from non-magnetic materials mixed with them, such as separating iron filings from sand. Its major limitation is that it only works for mixtures containing magnetic substances, it cannot separate mixtures where none of the components respond to a magnet.",
+  "pidgin_answer": "Magnetization dey separate mixture by using magnet to attract and remove di magnetic components, wey dey normally be iron or steel, from non-magnetic material wey mix with dem, like separating iron filings from sand. Di major limitation na say e go only work for mixture wey get magnetic substance inside, e no fit separate mixture where none of di components dey respond to magnet at all.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Separation of Mixtures topic"
+},
+{
+  "id": "chem_175",
+  "subject": "Chemistry",
+  "topic": "Separation Techniques",
+  "question": "What is the difference between simple distillation and evaporation for obtaining a pure liquid from a solution?",
+  "plain_answer": "Evaporation involves heating a solution until the liquid solvent turns to vapor and escapes, leaving only the dissolved solid behind, the liquid itself is lost and not collected. Simple distillation also heats the solution to vaporize the liquid, but the vapor is then cooled and condensed back into a liquid in a separate container, allowing the pure liquid solvent itself to be collected, not just the solid left behind.",
+  "pidgin_answer": "Evaporation dey involve heating solution until di liquid solvent turn to vapor and escape comot, e go leave only di dissolved solid behind, di liquid itself go waste, you no go collect am. Simple distillation now go still heat di solution make di liquid vaporize, but dem go cool and condense di vapor back to liquid inside separate container, so you fit collect di pure liquid solvent itself, no be just di solid wey remain.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Separation of Mixtures topic"
+},
+{
+  "id": "chem_176",
+  "subject": "Chemistry",
+  "topic": "Laws of Chemical Combination",
+  "question": "What is relative atomic mass, and why is it based on the carbon-12 standard?",
+  "plain_answer": "Relative atomic mass is the average mass of an atom of an element compared to one twelfth of the mass of a single carbon-12 atom. Carbon-12 was chosen as the international standard because it provides a stable, universally agreed reference point, giving carbon-12 an exact relative atomic mass of 12, against which every other element's mass is measured proportionally.",
+  "pidgin_answer": "Relative atomic mass na di average mass of one atom of element, wey dem compare to one twelfth of di mass of single carbon-12 atom. Dem choose carbon-12 as di international standard because e dey give stable, universally agreed reference point, e go make carbon-12 get exact relative atomic mass of 12, and dem go measure every other element mass proportionally against am.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Chemical Combination topic"
+},
+{
+  "id": "chem_177",
+  "subject": "Chemistry",
+  "topic": "Laws of Chemical Combination",
+  "question": "How do you calculate the relative molecular mass (or formula mass) of a compound from its relative atomic masses?",
+  "plain_answer": "Relative molecular mass is calculated by adding together the relative atomic masses of all the atoms present in one molecule (or formula unit) of the compound, based on its chemical formula. For example, the relative molecular mass of water, H2O, is calculated as (2 times the relative atomic mass of hydrogen) plus (1 times the relative atomic mass of oxygen), giving (2 times 1) plus 16, which equals 18.",
+  "pidgin_answer": "To calculate relative molecular mass, wey dem sef dey call formula mass, you go add together di relative atomic mass of all di atoms wey dey present inside one molecule, based on di chemical formula. For example, relative molecular mass of water, H2O, na (2 times relative atomic mass of hydrogen) plus (1 times relative atomic mass of oxygen), wey be (2 times 1) plus 16, e go give you 18.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Chemical Combination topic"
+},
+{
+  "id": "chem_178",
+  "subject": "Chemistry",
+  "topic": "Laws of Chemical Combination",
+  "question": "How do you write and balance a simple chemical equation, using magnesium burning in oxygen as an example?",
+  "plain_answer": "First, write the correct formulae for reactants and products using known valencies, magnesium (Mg), oxygen gas (O2), and magnesium oxide (MgO). The unbalanced equation is Mg + O2 to MgO. Since there are 2 oxygen atoms on the left but only 1 on the right, balance it by placing a 2 in front of both Mg and MgO, giving 2Mg + O2 to 2MgO, which now has equal numbers of magnesium (2) and oxygen (2) atoms on both sides, satisfying the Law of Conservation of Mass.",
+  "pidgin_answer": "First, you go write di correct formula for reactant and product, using di valency wey you sabi, magnesium (Mg), oxygen gas (O2), and magnesium oxide (MgO). Di unbalanced equation na Mg plus O2 turn to MgO. Since 2 oxygen atom dey for left side but only 1 dey for right side, you go balance am by putting 2 for front of Mg and MgO, e go give you 2Mg plus O2 turn to 2MgO, wey now get equal number of magnesium (2) and oxygen (2) atom for both side, e go satisfy di Law of Conservation of Mass.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Chemical Combination topic"
+},
+{
+  "id": "chem_179",
+  "subject": "Chemistry",
+  "topic": "Laws of Chemical Combination",
+  "question": "How would a graph of the mass of oxygen reacting with a fixed increasing mass of magnesium illustrate the Law of Definite Proportions?",
+  "plain_answer": "If you plot the mass of oxygen that reacts completely against increasing masses of magnesium, the result is a straight line passing through the origin. This constant ratio, the graph never curving or changing slope, visually demonstrates the Law of Definite Proportions, showing that magnesium and oxygen always combine in exactly the same fixed mass ratio to form magnesium oxide, no matter how much of either element you start with.",
+  "pidgin_answer": "If you plot di mass of oxygen wey react completely against increasing mass of magnesium, di result na straight line wey go pass through di origin. Dis constant ratio, since di graph no dey curve or change slope at all, dey visually show di Law of Definite Proportions, e dey show say magnesium and oxygen go always combine for exactly di same fixed mass ratio to form magnesium oxide, no matter how much of either element you start with.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Chemical Combination topic"
+},
+{
+  "id": "chem_180",
+  "subject": "Chemistry",
+  "topic": "Gas Laws",
+  "question": "What does Dalton's Law of Partial Pressures state about a mixture of gases?",
+  "plain_answer": "Dalton's Law of Partial Pressures states that the total pressure exerted by a mixture of gases that do not react with each other equals the sum of the individual pressures each gas would exert if it occupied the container alone. Each gas contributes its own partial pressure independently, proportional to how much of that gas is present in the mixture.",
+  "pidgin_answer": "Dalton's Law of Partial Pressure dey talk say di total pressure wey mixture of gas go release, wey no dey react with each other, go equal to di sum of di individual pressure wey each gas for release if e for dey inside di container alone. Each gas go contribute im own partial pressure independently, e go depend on how much of dat gas dey present inside di mixture.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Gas Laws topic"
+},
+{
+  "id": "chem_181",
+  "subject": "Chemistry",
+  "topic": "Gas Laws",
+  "question": "What is molar volume, and what is atomicity in relation to gases?",
+  "plain_answer": "Molar volume is the volume occupied by one mole of any gas at a specific temperature and pressure, at standard temperature and pressure (STP), this is approximately 22.4 liters for any gas, regardless of its identity. Atomicity refers to the number of atoms present in one molecule of a gas, oxygen gas (O2) and nitrogen gas (N2) are diatomic (atomicity of 2), while noble gases like helium and argon are monatomic (atomicity of 1).",
+  "pidgin_answer": "Molar volume na di volume wey one mole of any gas go occupy, under specific temperature and pressure, for standard temperature and pressure, wey be STP, dis one dey approximately 22.4 litres for any gas, no matter di gas identity. Atomicity now dey refer to di number of atom wey dey present inside one molecule of gas, oxygen gas (O2) and nitrogen gas (N2) na diatomic, wey mean atomicity of 2, while noble gas like helium and argon na monatomic, wey mean atomicity of 1.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Gas Laws topic"
+},
+{
+  "id": "chem_182",
+  "subject": "Chemistry",
+  "topic": "Gas Laws",
+  "question": "How is vapour density related to the relative molecular mass of a gas?",
+  "plain_answer": "Vapour density is defined as half the relative molecular mass of a gas, this relationship comes from comparing the gas to hydrogen, since vapour density is the ratio of the mass of a given volume of gas to the mass of an equal volume of hydrogen under the same conditions. This means relative molecular mass can be calculated as 2 multiplied by the vapour density, a useful way to determine a gas's molecular mass experimentally.",
+  "pidgin_answer": "Vapour density na half of di relative molecular mass of gas, dis relationship dey come from comparing di gas to hydrogen, since vapour density na di ratio of di mass of one particular volume of gas to di mass of equal volume of hydrogen, under di same condition. Dis one mean say you fit calculate relative molecular mass as 2 multiply by di vapour density, na useful way to find gas molecular mass through experiment.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Gas Laws topic"
+},
+{
+  "id": "chem_183",
+  "subject": "Chemistry",
+  "topic": "Kinetic Theory of Matter",
+  "question": "What is the difference between vapourization, condensation, and freezing in terms of particle motion?",
+  "plain_answer": "Vapourization is the change from liquid to gas, occurring when particles gain enough energy to completely escape the forces holding them together, this can happen at the surface at any temperature (evaporation) or throughout the liquid at its boiling point (boiling). Condensation is the reverse, gas particles lose energy, slow down, and come close enough together for attractive forces to pull them into a liquid. Freezing is the change from liquid to solid, particles lose enough energy that they can no longer move past each other, settling into fixed positions.",
+  "pidgin_answer": "Vapourization na di change from liquid go gas, e dey happen when particle gain enough energy make dem escape completely from di force wey dey hold dem together, dis one fit happen for di surface for any temperature, wey dem dey call evaporation, or throughout di liquid for im boiling point, wey be boiling. Condensation na di opposite, gas particle go lose energy, dem go slow down, and come close enough make attractive force pull dem enter liquid. Freezing na di change from liquid go solid, particle go lose enough energy make dem no fit move pass each other again, dem go settle for fixed position.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Kinetic Theory of Matter topic"
+},
+{
+  "id": "chem_184",
+  "subject": "Chemistry",
+  "topic": "Atomic Structure",
+  "question": "What did Dalton, Thomson, Rutherford, and Bohr each contribute to the development of the atomic model?",
+  "plain_answer": "Dalton proposed that matter is made of indivisible, solid atoms. Thomson discovered the electron and proposed the 'plum pudding' model, with negative electrons scattered through a positive sphere. Rutherford's gold foil experiment revealed a small, dense, positively charged nucleus, disproving the plum pudding model. Bohr proposed that electrons orbit the nucleus in fixed energy levels rather than anywhere at all, explaining why atoms emit light at specific wavelengths.",
+  "pidgin_answer": "Dalton propose say matter dey made of small solid atom wey no fit divide again. Thomson discover di electron and propose di 'plum pudding' model, where negative electron dey scatter inside positive sphere. Rutherford own gold foil experiment reveal say small, dense, positively charged nucleus dey there, e disprove di plum pudding model. Bohr now propose say electron dey orbit di nucleus for fixed energy level, no be anywhere anyhow, e go explain why atom dey emit light for specific wavelength.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Atomic Structure topic"
+},
+{
+  "id": "chem_185",
+  "subject": "Chemistry",
+  "topic": "Atomic Structure",
+  "question": "What are s and p orbitals, and how do their shapes differ?",
+  "plain_answer": "An s orbital is spherical in shape, with the nucleus at its center, and can hold a maximum of 2 electrons. A p orbital is dumbbell-shaped, with two lobes on either side of the nucleus, and there are three p orbitals oriented along different axes, each also holding a maximum of 2 electrons, for a total of 6 electrons across all three p orbitals.",
+  "pidgin_answer": "S orbital get shape wey round like ball, di nucleus dey for im center, e fit hold maximum of 2 electron. P orbital now get shape like dumbbell, e get two lobe for each side of di nucleus, and 3 different p orbital dey, dem dey face different direction, each one go still hold maximum of 2 electron, e go give total of 6 electron across all three p orbital.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Atomic Structure topic"
+},
+{
+  "id": "chem_186",
+  "subject": "Chemistry",
+  "topic": "Periodic Table",
+  "question": "What is electron affinity, and how does it generally change across a period?",
+  "plain_answer": "Electron affinity is the amount of energy released when a neutral atom gains an electron to form a negative ion. Electron affinity generally becomes more negative, meaning more energy is released, across a period from left to right, since atoms get smaller and hold onto an added electron more strongly, though noble gases are an exception since they do not readily accept additional electrons at all.",
+  "pidgin_answer": "Electron affinity na di amount of energy wey go release when neutral atom gain electron to form negative ion. Electron affinity go generally become more negative, e mean say more energy go release, as you dey move across period from left to right, because di atom go smaller, e go hold di extra electron tighter, though noble gas na exception, since dem no too like accept extra electron at all.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Periodic Table topic"
+},
+{
+  "id": "chem_187",
+  "subject": "Chemistry",
+  "topic": "Periodic Table",
+  "question": "How does ionic radius compare to atomic radius for a metal cation and a non-metal anion?",
+  "plain_answer": "When a metal atom loses electrons to form a positive ion (cation), the ion becomes smaller than the original atom, since it loses a whole electron shell or the remaining electrons are pulled in closer by the unchanged nuclear charge. When a non-metal atom gains electrons to form a negative ion (anion), the ion becomes larger than the original atom, since the added electrons increase repulsion between electrons, causing the electron cloud to expand.",
+  "pidgin_answer": "When metal atom lose electron to form positive ion, wey be cation, di ion go become smaller pass di original atom, because e go lose whole electron shell, or di remaining electron go pull closer since di nuclear charge no change. When non-metal atom gain electron to form negative ion, wey be anion, di ion go become bigger pass di original atom, because di extra electron go increase repulsion between di electrons, e go make di electron cloud expand.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Periodic Table topic"
+},
+{
+  "id": "chem_188",
+  "subject": "Chemistry",
+  "topic": "Chemical Bonding",
+  "question": "How is a coordinate bond formed in a complex ion like [Cu(NH3)4]2+?",
+  "plain_answer": "A coordinate (dative) bond forms when one atom provides both electrons for the shared pair, rather than each atom contributing one. In [Cu(NH3)4]2+, the copper ion has empty orbitals, and each ammonia (NH3) molecule donates its lone pair of electrons on nitrogen into one of these empty orbitals, forming four coordinate bonds and creating a stable complex ion.",
+  "pidgin_answer": "Coordinate bond, wey dem sef dey call dative bond, dey form when one atom provide both electron for di shared pair, instead of say each atom go contribute one one. For [Cu(NH3)4]2+, di copper ion get empty orbital, and each ammonia, NH3, molecule go donate im lone pair of electron wey dey nitrogen enter one of dis empty orbital, e go form four coordinate bond, e go create stable complex ion.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Chemical Bonding topic"
+},
+{
+  "id": "chem_189",
+  "subject": "Chemistry",
+  "topic": "Chemical Bonding",
+  "question": "Why is carbon dioxide (CO2) a linear molecule, while ammonia (NH3) is pyramidal?",
+  "plain_answer": "Carbon dioxide is linear because the central carbon atom has two double bonds to oxygen and no lone pairs, so the electron pairs arrange themselves as far apart as possible, at 180 degrees, giving a straight line shape. Ammonia is pyramidal because the central nitrogen atom has three bonding pairs (to hydrogen) and one lone pair, the lone pair pushes the three N-H bonds slightly closer together than a perfect tetrahedral angle, resulting in a triangular pyramid shape rather than a flat triangle.",
+  "pidgin_answer": "Carbon dioxide na linear molecule because di central carbon atom get two double bond to oxygen and e no get any lone pair, so di electron pairs go arrange demselves far apart as possible, for 180 degrees, e go give straight line shape. Ammonia now na pyramidal because di central nitrogen atom get three bonding pair, to hydrogen, and one lone pair, di lone pair go push di three N-H bond small closer pass perfect tetrahedral angle, e go result to triangular pyramid shape instead of flat triangle.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Chemical Bonding topic"
+},
+{
+  "id": "chem_190",
+  "subject": "Chemistry",
+  "topic": "Air",
+  "question": "Why is air classified as a mixture rather than a compound?",
+  "plain_answer": "Air is classified as a mixture because its constituent gases, nitrogen, oxygen, carbon dioxide, water vapour, and noble gases, are simply mixed together physically, not chemically combined in a fixed ratio. Each gas keeps its own individual properties, can be separated by physical means like fractional distillation, and the proportions can vary slightly depending on location and conditions, none of which would be true if air were a true chemical compound.",
+  "pidgin_answer": "Dem dey classify air as mixture instead of compound because di gases wey dey inside am, nitrogen, oxygen, carbon dioxide, water vapour, and noble gas, dem just dey mix together physically, dem no dey chemically combine for fixed ratio at all. Each gas go still keep im own individual properties, you fit separate dem with physical method like fractional distillation, and di proportion fit vary small depending on location and condition, none of dis one for dey true if air na real chemical compound.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Air topic"
+},
+{
+  "id": "chem_191",
+  "subject": "Chemistry",
+  "topic": "Air",
+  "question": "Why does the composition of air vary from one environment to another?",
+  "plain_answer": "The composition of air varies because local factors change how much of certain gases are present, industrial areas and heavy traffic increase carbon dioxide, carbon monoxide, and sulfur dioxide levels, forested areas can have slightly higher oxygen due to photosynthesis, humid regions have more water vapour, and higher altitudes generally have lower overall air pressure and slightly different gas proportions due to gravity's effect on gas distribution.",
+  "pidgin_answer": "Di composition of air fit vary from one environment go another because local factors dey change how much of certain gas dey present, industrial area and heavy traffic go increase carbon dioxide, carbon monoxide, and sulfur dioxide level, forested area fit get small extra oxygen because of photosynthesis, humid region go get more water vapour, and higher altitude go normally get lower overall air pressure and small different gas proportion, because of how gravity dey affect gas distribution.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Air topic"
+},
+{
+  "id": "chem_192",
+  "subject": "Chemistry",
+  "topic": "Air",
+  "question": "What are argon and neon used for, and why are noble gases suited to these uses?",
+  "plain_answer": "Argon is commonly used to fill incandescent light bulbs and as a shielding gas in welding, since it is completely unreactive and prevents the hot filament or molten metal from reacting with oxygen. Neon is used in neon signs and lighting, since it glows a distinct reddish-orange color when electricity passes through it. Noble gases are suited to these uses precisely because their full outer electron shells make them almost completely chemically unreactive and stable under a wide range of conditions.",
+  "pidgin_answer": "Argon dem dey commonly use am fill incandescent light bulb and as shielding gas for welding, since e no dey react at all, e go prevent di hot filament or molten metal from reacting with oxygen. Neon now dem dey use am for neon sign and lighting, since e dey glow one particular reddish-orange color anytime electricity pass through am. Noble gas dey suit dis kind use exactly because dia full outer electron shell dey make dem almost completely unreactive and stable under plenty different condition.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Air topic"
+},
+{
+  "id": "chem_193",
+  "subject": "Chemistry",
+  "topic": "Water and Hardness",
+  "question": "How is water formed from the combustion of hydrogen, and what is its composition by volume?",
+  "plain_answer": "Water forms when hydrogen gas burns in oxygen, releasing energy as heat and light: 2H2 + O2 gives 2H2O. By volume, water is composed of hydrogen and oxygen in a 2 to 1 ratio, this can be demonstrated experimentally by passing an electric current through water (electrolysis), which produces exactly twice the volume of hydrogen gas compared to oxygen gas at the electrodes.",
+  "pidgin_answer": "Water dey form when hydrogen gas burn for oxygen, e go release energy as heat and light: 2H2 plus O2 go give 2H2O. By volume, water get hydrogen and oxygen for ratio of 2 to 1, you fit demonstrate dis one through experiment by passing electric current through water, wey be electrolysis, e go produce exactly twice di volume of hydrogen gas compared to oxygen gas for di electrodes.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Water topic"
+},
+{
+  "id": "chem_194",
+  "subject": "Chemistry",
+  "topic": "Water and Hardness",
+  "question": "Why is dissolved oxygen and carbon dioxide in water biologically important?",
+  "plain_answer": "Dissolved oxygen in water is essential for aquatic animals like fish, which extract it through their gills to breathe, without enough dissolved oxygen, aquatic life cannot survive. Dissolved carbon dioxide is essential for aquatic plants and algae, which use it for photosynthesis, the same way land plants use atmospheric carbon dioxide, and this photosynthesis in turn helps replenish the water's dissolved oxygen supply.",
+  "pidgin_answer": "Dissolved oxygen wey dey inside water dey essential for aquatic animal like fish, dem dey extract am through dia gill make dem breathe, if enough dissolved oxygen no dey, aquatic life no fit survive. Dissolved carbon dioxide now dey essential for aquatic plant and algae, dem dey use am for photosynthesis, di same way land plant dey use atmospheric carbon dioxide, and dis photosynthesis go in turn help replenish di water dissolved oxygen supply.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Water topic"
+},
+{
+  "id": "chem_195",
+  "subject": "Chemistry",
+  "topic": "Water and Hardness",
+  "question": "Why does boiling remove temporary hardness but not permanent hardness?",
+  "plain_answer": "Temporary hardness is caused by dissolved calcium and magnesium bicarbonates, which decompose when heated, forming insoluble carbonates that precipitate out as scale, effectively removing them from the water. Permanent hardness is caused by dissolved calcium and magnesium sulfates or chlorides, which do not decompose or precipitate when heated, so boiling has no effect, permanent hardness requires a different method, such as adding washing soda (sodium carbonate) to precipitate the ions out, or using an ion exchange resin.",
+  "pidgin_answer": "Temporary hardness dey caused by dissolved calcium and magnesium bicarbonate, wey go decompose when you heat dem, dem go form insoluble carbonate wey go precipitate out as scale, e go effectively remove dem from di water. Permanent hardness now dey caused by dissolved calcium and magnesium sulfate or chloride, wey no dey decompose or precipitate when you heat dem, so boiling no get any effect, permanent hardness go need different method, like adding washing soda, wey be sodium carbonate, to precipitate di ions out, or using ion exchange resin.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Water topic"
+},
+{
+  "id": "chem_196",
+  "subject": "Chemistry",
+  "topic": "Water and Hardness",
+  "question": "What are the main steps involved in treating water for town supply?",
+  "plain_answer": "Water treatment for town supply typically involves sedimentation, allowing large suspended particles to settle out, followed by filtration through sand and gravel beds to remove finer particles and microorganisms, and finally chlorination, adding a small amount of chlorine to kill remaining harmful bacteria and make the water safe to drink. Some systems also add fluoride for dental health, or adjust pH before final distribution.",
+  "pidgin_answer": "Water treatment for town supply go normally involve sedimentation, wey go allow big suspended particle settle down, follow by filtration through sand and gravel bed to remove finer particle and microorganism, and finally chlorination, wey be adding small amount of chlorine to kill di remaining harmful bacteria and make di water safe to drink. Some system go still add fluoride for dental health, or adjust pH before dem finally distribute am.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Water topic"
+},
+{
+  "id": "chem_197",
+  "subject": "Chemistry",
+  "topic": "Water and Hardness",
+  "question": "What is water of crystallization, and how does hydrated copper sulfate illustrate it?",
+  "plain_answer": "Water of crystallization is a fixed number of water molecules chemically bound within the crystal structure of certain compounds. Hydrated copper sulfate, CuSO4.5H2O, is a clear example, it is a blue crystalline solid containing 5 water molecules per formula unit. When heated, it loses this water and turns into white anhydrous copper sulfate powder, and adding water back to the white powder turns it blue again, a classic test used to detect the presence of water.",
+  "pidgin_answer": "Water of crystallization na fixed number of water molecule wey dey chemically bound inside di crystal structure of certain compound. Hydrated copper sulfate, CuSO4.5H2O, na clear example, e be blue crystalline solid wey get 5 water molecule per formula unit. If you heat am, e go lose dis water, e go turn to white anhydrous copper sulfate powder, and if you add water back enter di white powder, e go turn blue again, na classic test wey dem dey use detect if water dey present.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Water topic"
+},
+{
+  "id": "chem_198",
+  "subject": "Chemistry",
+  "topic": "Water and Hardness",
+  "question": "What is the difference between efflorescence, deliquescence, and hygroscopy?",
+  "plain_answer": "Efflorescence is when a hydrated crystal loses its water of crystallization to the surrounding air, crumbling into a powder, like washing soda (sodium carbonate decahydrate). Deliquescence is when a substance absorbs so much water vapour from the air that it dissolves itself into a liquid solution, like calcium chloride. Hygroscopy is a milder version, a substance absorbs moisture from the air and becomes damp, but does not fully dissolve itself, like common salt left out on a humid day.",
+  "pidgin_answer": "Efflorescence na when hydrated crystal go lose im water of crystallization enter di air around, e go crumble come powder, like washing soda, wey be sodium carbonate decahydrate. Deliquescence na when substance go absorb plenty water vapour from air reach where e go dissolve imself turn liquid solution, like calcium chloride. Hygroscopy na milder version, substance go absorb moisture from air, e go become damp, but e no go fully dissolve imself, like common salt wey you leave out for humid day.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Water topic"
+},
+{
+  "id": "chem_199",
+  "subject": "Chemistry",
+  "topic": "Solubility and Solutions",
+  "question": "What is the difference between an unsaturated, saturated, and supersaturated solution?",
+  "plain_answer": "An unsaturated solution contains less solute than the maximum amount that could dissolve at that temperature, more solute can still be added and will dissolve. A saturated solution has dissolved the maximum amount of solute possible at that temperature, any additional solute added will not dissolve and remains as a solid. A supersaturated solution contains more dissolved solute than should be possible at that temperature, an unstable state usually created by dissolving solute at a higher temperature then carefully cooling the solution, and it will crystallize suddenly if disturbed.",
+  "pidgin_answer": "Unsaturated solution get less solute pass di maximum amount wey fit dissolve under dat temperature, you fit still add more solute and e go still dissolve. Saturated solution now don dissolve di maximum amount of solute wey possible under dat temperature, any extra solute wey you add no go dissolve again, e go remain as solid. Supersaturated solution get more dissolved solute pass wetin suppose possible under dat temperature, na unstable state wey dem dey usually create by dissolving solute for higher temperature then carefully cool di solution, e go crystallize suddenly if you disturb am.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Solubility topic"
+},
+{
+  "id": "chem_200",
+  "subject": "Chemistry",
+  "topic": "Solubility and Solutions",
+  "question": "How do you read and interpret a solubility curve?",
+  "plain_answer": "A solubility curve plots the solubility of a substance, usually in grams per 100g of water, on the vertical axis against temperature on the horizontal axis. Any point exactly on the curve represents a saturated solution at that temperature, points below the curve represent unsaturated solutions, and points above the curve represent supersaturated, unstable solutions. Reading across from a given temperature up to the curve, then across to the solubility axis, tells you exactly how much solute can dissolve at that temperature.",
+  "pidgin_answer": "Solubility curve dey plot di solubility of substance, wey dem dey usually measure for gram per 100g of water, for di vertical axis against temperature for di horizontal axis. Any point wey dey exactly on top di curve dey represent saturated solution under dat temperature, points wey dey below di curve dey represent unsaturated solution, and points wey dey above di curve dey represent supersaturated, unstable solution. If you read across from one particular temperature go reach di curve, then across go di solubility axis, e go tell you exactly how much solute fit dissolve under dat temperature.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Solubility topic"
+},
+{
+  "id": "chem_201",
+  "subject": "Chemistry",
+  "topic": "Solubility and Solutions",
+  "question": "Why are organic solvents like white spirit or turpentine used to remove oil, fat, or paint stains instead of water?",
+  "plain_answer": "Oil, fat, and paint are non-polar substances, and water is polar, so following the 'like dissolves like' principle, water cannot effectively dissolve them. Organic solvents like white spirit and turpentine are non-polar themselves, so they can dissolve non-polar stains effectively, breaking them down and lifting them from fabric or surfaces in a way water alone cannot.",
+  "pidgin_answer": "Oil, fat, and paint na non-polar substance, and water na polar, so following di 'like dissolves like' principle, water no fit effectively dissolve dem. Organic solvent like white spirit and turpentine dem sef na non-polar, so dem fit dissolve non-polar stain well well, e go break dem down and lift dem comot from fabric or surface, wetin water alone no fit do.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Solubility topic"
+},
+{
+  "id": "chem_202",
+  "subject": "Chemistry",
+  "topic": "Solubility and Solutions",
+  "question": "What is the difference between a true solution, a suspension, and a colloid?",
+  "plain_answer": "A true solution has particles so small (at the molecular or ionic level) that they never settle and cannot be seen even under a microscope, like salt dissolved in water. A suspension has larger particles that are visible and will settle out over time if left undisturbed, like Harmattan haze (dust particles suspended in air) or water-based paint before it's stirred. A colloid has particles intermediate in size between a solution and a suspension, small enough to stay evenly dispersed without settling, but large enough to scatter light, examples include milk, fog, aerosol spray, emulsion paint, and rubber solution.",
+  "pidgin_answer": "True solution get particle wey too small, for molecular or ionic level, dem no dey ever settle, you no fit see dem even under microscope, like salt wey dissolve for water. Suspension now get bigger particle wey you fit see, e go settle down with time if you no disturb am, like Harmattan haze, wey be dust particle suspended for air, or water-based paint before dem stir am. Colloid now get particle wey size dey between solution and suspension, e small enough make e stay evenly spread without settling, but e big enough make e fit scatter light, examples na milk, fog, aerosol spray, emulsion paint, and rubber solution.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Solubility topic"
+},
+{
+  "id": "chem_203",
+  "subject": "Chemistry",
+  "topic": "Solubility and Solutions",
+  "question": "How can you tell the difference between a suspension and a colloid using the Tyndall effect?",
+  "plain_answer": "The Tyndall effect is when a beam of light passing through a mixture becomes visible as a scattered beam, rather than passing straight through unnoticed. Both suspensions and colloids show the Tyndall effect, since their particles are large enough to scatter light, but a true solution does not, since its particles are too small to scatter light at all. The key practical difference between suspension and colloid is that a suspension will visibly settle out over time if left undisturbed, while a colloid remains evenly dispersed indefinitely.",
+  "pidgin_answer": "Tyndall effect na when beam of light wey pass through mixture go become visible as scattered beam, instead of just pass through straight without anybody noticing. Both suspension and colloid go show di Tyndall effect, since dia particles big enough to scatter light, but true solution no go show am, since im particle too small to scatter light at all. Di key practical difference between suspension and colloid na say suspension go visibly settle down with time if you no disturb am, while colloid go remain evenly spread forever.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Solubility topic"
+},
+{
+  "id": "chem_204",
+  "subject": "Chemistry",
+  "topic": "Environmental Chemistry",
+  "question": "Where does hydrogen sulfide (H2S) come from as an air pollutant, and what are its effects?",
+  "plain_answer": "Hydrogen sulfide is released from the decay of organic matter lacking oxygen, industrial processes like petroleum refining and paper manufacturing, and natural sources like volcanic gases and sulfur springs. It is recognizable by its rotten egg smell, and at high concentrations it is toxic, irritating the eyes and respiratory system, and can be fatal in enclosed spaces with poor ventilation.",
+  "pidgin_answer": "Hydrogen sulfide dey release from decay of organic matter wey no get oxygen, industrial process like petroleum refining and paper manufacturing, and natural source like volcanic gas and sulfur spring. You go recognize am by im rotten egg smell, and for high concentration, e dey toxic, e go irritate eye and respiratory system, e fit even kill person for enclosed space wey no get good ventilation.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Environmental Pollution topic"
+},
+{
+  "id": "chem_205",
+  "subject": "Chemistry",
+  "topic": "Environmental Chemistry",
+  "question": "How do sewage and oil pollution each harm water bodies, and in what different ways?",
+  "plain_answer": "Sewage pollution introduces organic waste and bacteria into water, and as bacteria break down this waste they consume large amounts of dissolved oxygen, suffocating fish and other aquatic life through a process related to eutrophication. Oil pollution works differently, oil floats on the water's surface, forming a layer that blocks sunlight from reaching aquatic plants and prevents oxygen exchange between air and water, while also physically coating and suffocating birds, fish, and other wildlife that come into contact with it.",
+  "pidgin_answer": "Sewage pollution dey introduce organic waste and bacteria enter water, and as di bacteria dey break down dis waste, dem go consume plenty dissolved oxygen, e go suffocate fish and other aquatic life, similar to how eutrophication dey work. Oil pollution now dey work different way, oil go float for di water surface, e go form layer wey go block sunlight from reaching aquatic plant and e go prevent oxygen exchange between air and water, e go still physically coat and suffocate bird, fish, and other wildlife wey come contact am.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Environmental Pollution topic"
+},
+{
+  "id": "chem_206",
+  "subject": "Chemistry",
+  "topic": "Environmental Chemistry",
+  "question": "How does oil spillage cause soil pollution, and what long-term damage can it do?",
+  "plain_answer": "Oil spillage causes soil pollution when crude oil or refined petroleum products leak or are spilled onto land, coating soil particles and blocking air and water from reaching plant roots and soil organisms. This damages soil fertility, can kill vegetation, and contaminates groundwater as the oil seeps downward, effects that can persist for years since oil breaks down very slowly in soil.",
+  "pidgin_answer": "Oil spillage dey cause soil pollution when crude oil or refined petroleum product leak or spill enter land, e go coat di soil particle, e go block air and water from reaching plant root and soil organism. Dis one go damage soil fertility, e fit kill vegetation, and e go contaminate groundwater as di oil dey seep down, and dis effect fit remain for years since oil dey break down very slowly inside soil.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Environmental Pollution topic"
+},
+{
+  "id": "chem_207",
+  "subject": "Chemistry",
+  "topic": "Environmental Chemistry",
+  "question": "What is the difference between biodegradable and non-biodegradable pollutants?",
+  "plain_answer": "Biodegradable pollutants can be broken down naturally by microorganisms like bacteria and fungi into harmless substances, examples include food waste, paper, and sewage. Non-biodegradable pollutants resist natural breakdown and persist in the environment for a very long time, sometimes hundreds of years, examples include plastics, certain pesticides, and heavy metals, making them a more serious long-term environmental concern.",
+  "pidgin_answer": "Biodegradable pollutant fit break down naturally by microorganism like bacteria and fungi enter harmless substance, examples na food waste, paper, and sewage. Non-biodegradable pollutant now dey resist natural breakdown, e go remain for environment for very long time, sometimes hundreds of years, examples na plastic, certain pesticide, and heavy metal, na why e dey more serious long-term environmental concern.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Environmental Pollution topic"
+},
+{
+  "id": "chem_208",
+  "subject": "Chemistry",
+  "topic": "Acids, Bases and Salts",
+  "question": "How is an acid formally defined in terms of protons, and what is basicity?",
+  "plain_answer": "An acid is formally defined as a substance whose aqueous solution furnishes hydronium ions (H3O+), or more simply, as a substance that donates a proton (H+) in a reaction. Basicity refers to the number of replaceable hydrogen ions (protons) an acid molecule can donate, hydrochloric acid (HCl) is monobasic with one replaceable proton, sulfuric acid (H2SO4) is dibasic with two, and phosphoric acid (H3PO4) is tribasic with three.",
+  "pidgin_answer": "Dem dey formally define acid as substance wey im aqueous solution go furnish hydronium ion, wey be H3O+, or in simple term, substance wey go donate proton, H+, during reaction. Basicity dey refer to di number of replaceable hydrogen ion, wey be proton, wey acid molecule fit donate, hydrochloric acid, HCl, na monobasic since e get one replaceable proton, sulfuric acid, H2SO4, na dibasic since e get two, and phosphoric acid, H3PO4, na tribasic since e get three.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Acids, Bases and Salts topic"
+},
+{
+  "id": "chem_209",
+  "subject": "Chemistry",
+  "topic": "Acids, Bases and Salts",
+  "question": "What are ethanoic, citric, and tartaric acids, and what are alums as an example of a double salt?",
+  "plain_answer": "Ethanoic acid (found in vinegar), citric acid (found in citrus fruits like lemons), and tartaric acid (found in grapes) are naturally occurring organic acids. Alums, such as potassium aluminium sulfate, are examples of double salts, a double salt is formed when two different simple salts crystallize together in a fixed ratio to form a single distinct compound, which behaves as its own substance with its own properties, rather than simply being a mixture of the two original salts.",
+  "pidgin_answer": "Ethanoic acid, wey you go find inside vinegar, citric acid, wey you go find inside citrus fruit like lemon, and tartaric acid, wey you go find inside grape, na naturally occurring organic acid. Alum, like potassium aluminium sulfate, na example of double salt, double salt na wetin dey form when two different simple salt crystallize together for fixed ratio to form one distinct compound, wey go behave as im own substance with im own properties, e no just be mixture of di two original salt.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Acids, Bases and Salts topic"
+},
+{
+  "id": "chem_210",
+  "subject": "Chemistry",
+  "topic": "Acids, Bases and Salts",
+  "question": "How do you calculate the pH of a solution if you know its hydrogen ion concentration?",
+  "plain_answer": "pH is calculated using the formula pH equals negative log base 10 of the hydrogen ion concentration, written as pH = -log[H+]. For example, if a solution has a hydrogen ion concentration of 0.001 mol per dm3 (which is 10 to the power of -3), the pH would be -log(10 to the power of -3), which equals 3, a strongly acidic solution.",
+  "pidgin_answer": "You go calculate pH using di formula, pH equals negative log base 10 of di hydrogen ion concentration, dem dey write am as pH equals negative log of [H+]. For example, if solution get hydrogen ion concentration of 0.001 mol per dm3, wey be 10 to power of negative 3, di pH go be negative log of 10 to power negative 3, wey go equal 3, dat one na strongly acidic solution.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Acids, Bases and Salts topic"
+},
+{
+  "id": "chem_211",
+  "subject": "Chemistry",
+  "topic": "Acids, Bases and Salts",
+  "question": "Why does a strong acid conduct electricity better than a weak acid of the same molar concentration?",
+  "plain_answer": "A strong acid dissociates almost completely in water, releasing a large number of free-moving ions that can carry electric charge, giving high conductance. A weak acid only partially dissociates, most of it remains as intact, undissociated molecules, so far fewer free ions are available to carry charge, resulting in noticeably lower conductance even at the same overall concentration.",
+  "pidgin_answer": "Strong acid dey dissociate almost completely inside water, e go release plenty free-moving ion wey fit carry electric charge, e go give am high conductance. Weak acid now go only partially dissociate, most of am go remain as intact molecule wey no dissociate, so fewer free ion go dey available to carry charge, e go result to noticeably lower conductance even though di overall concentration be di same.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Acids, Bases and Salts topic"
+},
+{
+  "id": "chem_212",
+  "subject": "Chemistry",
+  "topic": "Acids, Bases and Salts",
+  "question": "Why does a solution of ammonium chloride (NH4Cl) turn litmus paper red, while sodium ethanoate (CH3COONa) turns it blue?",
+  "plain_answer": "Ammonium chloride is a salt of a weak base (ammonia) and a strong acid (hydrochloric acid), when it dissolves, the ammonium ion reacts slightly with water to release H+ ions, making the solution mildly acidic, turning litmus red. Sodium ethanoate is a salt of a strong base (sodium hydroxide) and a weak acid (ethanoic acid), the ethanoate ion reacts slightly with water to release OH- ions, making the solution mildly basic, turning litmus blue.",
+  "pidgin_answer": "Ammonium chloride na salt of weak base, wey be ammonia, and strong acid, wey be hydrochloric acid, when e dissolve, di ammonium ion go react small small with water go release H+ ion, e go make di solution mildly acidic, e go turn litmus red. Sodium ethanoate now na salt of strong base, wey be sodium hydroxide, and weak acid, wey be ethanoic acid, di ethanoate ion go react small small with water go release OH- ion, e go make di solution mildly basic, e go turn litmus blue.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Acids, Bases and Salts topic"
+},
+{
+  "id": "chem_213",
+  "subject": "Chemistry",
+  "topic": "Acids, Bases and Salts",
+  "question": "What are the main methods used to prepare salts?",
+  "plain_answer": "Salts can be prepared by neutralization, reacting an acid with a base until the solution is neutral, evaporating the water leaves the salt behind. Precipitation involves mixing two soluble salt solutions so that an insoluble salt forms and settles out, which can be filtered off. Salts can also be prepared by the direct action of an acid on a reactive metal, which displaces hydrogen gas and forms the corresponding salt in solution.",
+  "pidgin_answer": "Dem fit prepare salt through neutralization, wey be reacting acid with base until di solution neutral, if you evaporate di water, di salt go remain. Precipitation dey involve mixing two soluble salt solution together so dat insoluble salt go form and settle down, wey you fit filter comot. Dem fit still prepare salt through direct action of acid on reactive metal, wey go displace hydrogen gas and form di corresponding salt inside di solution.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Acids, Bases and Salts topic"
+},
+{
+  "id": "chem_214",
+  "subject": "Chemistry",
+  "topic": "Redox Reactions",
+  "question": "What are the traditional definitions of oxidation and reduction in terms of oxygen and hydrogen, before electron transfer is considered?",
+  "plain_answer": "Traditionally, oxidation is defined as the addition of oxygen to a substance, or the removal of hydrogen from it, for example, when magnesium reacts with oxygen to form magnesium oxide, magnesium is oxidized. Reduction is the opposite, the removal of oxygen from a substance, or the addition of hydrogen to it, for example, when iron(III) oxide loses oxygen to form iron. These older definitions still hold true today, they are simply a specific case of the broader electron transfer definition, since adding oxygen or removing hydrogen from a substance also involves it losing electrons.",
+  "pidgin_answer": "Traditionally, dem dey define oxidation as di addition of oxygen to substance, or di removal of hydrogen from am, for example, when magnesium react with oxygen come form magnesium oxide, dem don oxidize di magnesium. Reduction na di opposite, na di removal of oxygen from substance, or di addition of hydrogen to am, for example, when iron(III) oxide lose oxygen come form iron. Dis older definition still dey true today, na just specific case of di broader electron transfer definition, since adding oxygen or removing hydrogen from substance go also involve am losing electron.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Oxidation and Reduction topic"
+},
+{
+  "id": "chem_215",
+  "subject": "Chemistry",
+  "topic": "Redox Reactions",
+  "question": "How is oxidation number used in the IUPAC naming of inorganic compounds, using iron chlorides as an example?",
+  "plain_answer": "When an element can form ions with more than one possible oxidation number, IUPAC nomenclature includes the oxidation number in Roman numerals in brackets after the element's name to avoid confusion. Iron can form Fe2+ or Fe3+ ions, so iron(II) chloride refers specifically to FeCl2, where iron has an oxidation number of +2, while iron(III) chloride refers to FeCl3, where iron has an oxidation number of +3.",
+  "pidgin_answer": "When element fit form ion wey get more than one possible oxidation number, IUPAC nomenclature go include di oxidation number for Roman numeral inside bracket after di element name, e go help avoid confusion. Iron fit form Fe2+ or Fe3+ ion, so iron(II) chloride dey refer specifically to FeCl2, where iron get oxidation number of plus 2, while iron(III) chloride dey refer to FeCl3, where iron get oxidation number of plus 3.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Oxidation and Reduction topic"
+},
+{
+  "id": "chem_216",
+  "subject": "Chemistry",
+  "topic": "Electrolysis",
+  "question": "What is the difference between an electrolyte and a non-electrolyte?",
+  "plain_answer": "An electrolyte is a substance that, when molten or dissolved in water, conducts electricity and undergoes chemical decomposition in the process, examples include molten sodium chloride and dilute sulfuric acid. A non-electrolyte does not conduct electricity in either state, and does not decompose, since it does not form free-moving ions, examples include sugar solution and pure distilled water.",
+  "pidgin_answer": "Electrolyte na substance wey, if e melt or dissolve for water, e go conduct electricity and e go undergo chemical decomposition for di process, examples na molten sodium chloride and dilute sulfuric acid. Non-electrolyte now no dey conduct electricity for any of di two state, e no dey decompose either, since e no dey form free-moving ion, examples na sugar solution and pure distilled water.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Electrolysis topic"
+},
+{
+  "id": "chem_217",
+  "subject": "Chemistry",
+  "topic": "Electrolysis",
+  "question": "How do you calculate the mass of a metal deposited during electrolysis using Faraday's laws, if you know the current and time?",
+  "plain_answer": "First calculate the total charge passed using Q = It, where I is current in amperes and t is time in seconds. Then convert this charge into moles of electrons by dividing by the Faraday constant (approximately 96,500 coulombs per mole). Finally, use the mole ratio from the electrode half-equation to find moles of metal deposited, and multiply by its molar mass to get the actual mass deposited.",
+  "pidgin_answer": "First, you go calculate di total charge wey pass using Q equals I times t, where I na current for ampere and t na time for second. Then you go convert dis charge enter mole of electron by dividing am by di Faraday constant, wey be approximately 96,500 coulomb per mole. Finally, you go use di mole ratio from di electrode half-equation to find mole of metal wey deposit, then multiply am by im molar mass to get di actual mass wey deposit.",
+  "difficulty": "hard",
+  "source": "JAMB Chemistry syllabus, Electrolysis topic"
+},
+{
+  "id": "chem_218",
+  "subject": "Chemistry",
+  "topic": "Electrolysis",
+  "question": "What is the electrochemical (reactivity) series, and how is its order (K, Ca, Na, Mg, Al, Zn, Fe, Sn, Pb, H, Cu, Hg, Ag, Au) practically useful?",
+  "plain_answer": "The electrochemical series arranges metals (and hydrogen) in order of decreasing reactivity, from potassium as the most reactive down to gold as the least reactive. This order is practically useful for predicting displacement reactions, a metal higher in the series will displace a metal lower in the series from its salt solution, for determining which metals react with acids (those above hydrogen do, those below do not), and for predicting which ion gets discharged first during electrolysis when multiple ions compete.",
+  "pidgin_answer": "Electrochemical series dey arrange metal, and hydrogen sef, in order of decreasing reactivity, from potassium wey reactive pass, come down reach gold wey no too reactive. Dis order dey practically useful for predicting displacement reaction, metal wey dey higher for di series go displace metal wey dey lower from im salt solution, e dey useful too for determining which metal go react with acid, di ones wey dey above hydrogen go react, di ones wey dey below no go react, and e dey useful for predicting which ion go discharge first during electrolysis when plenty ion dey compete.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Electrolysis topic"
+},
+{
+  "id": "chem_219",
+  "subject": "Chemistry",
+  "topic": "Electrolysis",
+  "question": "What is cathodic protection, and how does a sacrificial anode prevent iron from rusting?",
+  "plain_answer": "Cathodic protection prevents corrosion by connecting the metal to be protected, such as an iron pipe, to a more reactive metal, like zinc or magnesium, called a sacrificial anode. Since the more reactive metal loses electrons more readily, it corrodes preferentially instead of the iron, effectively 'sacrificing' itself, the iron is protected as long as the sacrificial anode remains, and it simply needs replacing periodically.",
+  "pidgin_answer": "Cathodic protection dey prevent corrosion by connecting di metal wey you wan protect, like iron pipe, to more reactive metal, like zinc or magnesium, wey dem dey call sacrificial anode. Since di more reactive metal go release electron more easily, e go corrode instead of di iron, e go 'sacrifice' imself, di iron go dey protected as long as di sacrificial anode still dey, and you just go need replace am periodically.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Electrolysis topic"
+},
+{
+  "id": "chem_220",
+  "subject": "Chemistry",
+  "topic": "Electrolysis",
+  "question": "What are three simple physical methods, besides cathodic protection, used to prevent iron from corroding?",
+  "plain_answer": "Painting creates a physical barrier that keeps oxygen and moisture from reaching the iron surface, but only works as long as the paint layer stays intact. Electroplating coats the iron with a thin layer of a less reactive, corrosion-resistant metal like chromium or tin, physically protecting the surface underneath. Greasing or oiling also forms a barrier against oxygen and moisture, commonly used on moving metal parts like tools or machinery where paint would wear off quickly.",
+  "pidgin_answer": "Painting dey create physical barrier wey go keep oxygen and moisture from reaching di iron surface, but e go only work as long as di paint layer still intact. Electroplating dey coat di iron with thin layer of less reactive, corrosion-resistant metal like chromium or tin, e go physically protect di surface wey dey underneath. Greasing or oiling now dey also form barrier against oxygen and moisture, dem dey commonly use am for moving metal part like tool or machinery where paint for wear off quickly.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Electrolysis topic"
+},
+{
+  "id": "chem_221",
+  "subject": "Chemistry",
+  "topic": "Energy Changes",
+  "question": "Are dissolving sodium hydroxide (NaOH) and dissolving ammonium chloride (NH4Cl) in water exothermic or endothermic?",
+  "plain_answer": "Dissolving sodium hydroxide in water is exothermic, the solution becomes noticeably hot, since strong attraction between the ions and water molecules releases more energy than is needed to break apart the solid's ionic lattice. Dissolving ammonium chloride in water is endothermic, the solution becomes noticeably cold, since more energy is absorbed to break apart the ionic lattice than is released when the ions become surrounded by water molecules.",
+  "pidgin_answer": "If you dissolve sodium hydroxide inside water, na exothermic reaction, di solution go become hot well well, because di strong attraction between di ions and water molecule go release more energy pass wetin dem need to break di solid ionic lattice. If you dissolve ammonium chloride inside water now, na endothermic reaction, di solution go become cold well well, because more energy go absorb to break di ionic lattice pass wetin go release when di ions come surrounded by water molecule.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Energy Changes topic"
+},
+{
+  "id": "chem_222",
+  "subject": "Chemistry",
+  "topic": "Energy Changes",
+  "question": "What is entropy, and how does it relate to order and disorder in a system?",
+  "plain_answer": "Entropy is a measure of the disorder or randomness in a system, a highly ordered system, like a neatly arranged solid crystal, has low entropy, while a highly disordered system, like a gas with particles moving randomly in all directions, has high entropy. Mixing two different gases together increases entropy, since the particles become more randomly distributed than when each gas was separate, and dissolving a solid salt in water also generally increases entropy, since the rigid, ordered ionic lattice breaks apart into ions moving freely throughout the solution.",
+  "pidgin_answer": "Entropy na measure of di disorder or randomness wey dey inside system, system wey well organized, like crystal solid wey arrange neatly, get low entropy, while system wey disorganized well well, like gas wey im particle dey move randomly for every direction, get high entropy. If you mix two different gas together, entropy go increase, because di particles go become more randomly distributed pass when each gas dey separate, and if you dissolve solid salt inside water, entropy go generally increase too, because di rigid, organized ionic lattice go break apart enter ions wey dey move freely throughout di solution.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Energy Changes topic"
+},
+{
+  "id": "chem_223",
+  "subject": "Chemistry",
+  "topic": "Energy Changes",
+  "question": "How do enthalpy, entropy, and Gibbs free energy together determine whether a reaction is spontaneous?",
+  "plain_answer": "Gibbs free energy change is calculated using the equation delta G equals delta H minus T times delta S, where delta H is the enthalpy change, T is the temperature in Kelvin, and delta S is the entropy change. If delta G is less than zero, the reaction is spontaneous, it will occur on its own. If delta G is greater than zero, the reaction is non-spontaneous, it will not occur without outside energy input. If delta G equals exactly zero, the system is at equilibrium, with no overall driving force in either direction.",
+  "pidgin_answer": "Gibbs free energy change dem dey calculate am using di equation, delta G equals delta H minus T times delta S, where delta H na di enthalpy change, T na di temperature for Kelvin, and delta S na di entropy change. If delta G dey less than zero, di reaction na spontaneous, e go happen on im own. If delta G dey greater than zero, di reaction na non-spontaneous, e no go happen without outside energy input. If delta G equal exactly zero, di system dey for equilibrium, no overall driving force dey for any direction.",
+  "difficulty": "hard",
+  "source": "JAMB Chemistry syllabus, Energy Changes topic"
+},
+{
+  "id": "chem_224",
+  "subject": "Chemistry",
+  "topic": "Rate of Reaction",
+  "question": "How does increasing the concentration of a reactant affect the rate of reaction, using hydrochloric acid and sodium thiosulfate as an example?",
+  "plain_answer": "Increasing the concentration of a reactant increases the rate of reaction because there are more reactant particles packed into the same volume, making collisions between particles more frequent. In the classic experiment between hydrochloric acid and sodium thiosulfate, increasing the acid's concentration means an insoluble sulfur precipitate forms and clouds the solution noticeably faster, timed by how quickly a mark placed under the reaction beaker disappears from view.",
+  "pidgin_answer": "If you increase di concentration of reactant, di rate of reaction go increase, because more reactant particle go dey packed inside di same volume, e go make collision between di particles happen more often. For di classic experiment between hydrochloric acid and sodium thiosulfate, if you increase di acid concentration, insoluble sulfur precipitate go form and cloud di solution noticeably faster, wey you go time by how quick one mark wey dey under di reaction beaker go disappear comot from view.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Rate of Reaction topic"
+},
+{
+  "id": "chem_225",
+  "subject": "Chemistry",
+  "topic": "Rate of Reaction",
+  "question": "How does light affect the rate of some chemical reactions, using the halogenation of alkanes as an example?",
+  "plain_answer": "Some reactions, called photochemical reactions, require light energy to proceed at a meaningful rate, since the light provides the energy needed to break a bond and start the reaction. The halogenation of alkanes, such as methane reacting with chlorine, is a classic example, in the dark the reaction barely proceeds at all, but in the presence of ultraviolet or sunlight, the light energy splits chlorine molecules into highly reactive free radicals, which then rapidly react with the alkane in a chain reaction.",
+  "pidgin_answer": "Some reaction, wey dem dey call photochemical reaction, go need light energy to proceed for meaningful rate, since di light go provide di energy wey dem need to break bond and start di reaction. Halogenation of alkane, like methane wey dey react with chlorine, na classic example, for darkness, di reaction go barely proceed at all, but if ultraviolet or sunlight dey present, di light energy go split chlorine molecule enter highly reactive free radical, wey go quickly react with di alkane for chain reaction.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Rate of Reaction topic"
+},
+{
+  "id": "chem_226",
+  "subject": "Chemistry",
+  "topic": "Chemical Equilibrium",
+  "question": "How does the reaction between steam and iron demonstrate a reversible reaction?",
+  "plain_answer": "When steam is passed over heated iron, it forms iron(II, III) oxide and hydrogen gas: 3Fe + 4H2O gives Fe3O4 + 4H2. This reaction is reversible, if hydrogen gas is instead passed over heated iron(II, III) oxide, the reverse reaction occurs, reducing it back to iron and producing steam, showing that the direction of the reaction depends on the conditions and which substances are present in excess.",
+  "pidgin_answer": "If dem pass steam over heated iron, e go form iron(II, III) oxide and hydrogen gas: 3Fe plus 4H2O go give Fe3O4 plus 4H2. Dis reaction na reversible one, if dem instead pass hydrogen gas over heated iron(II, III) oxide, di reverse reaction go happen, e go reduce am back to iron and e go produce steam, e go show say di direction of di reaction dey depend on di condition and which substance dey present for excess.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Chemical Equilibrium topic"
+},
+{
+  "id": "chem_227",
+  "subject": "Chemistry",
+  "topic": "Chemical Equilibrium",
+  "question": "How does temperature affect the equilibrium position of N2O4 (colorless) reversibly forming 2NO2 (brown)?",
+  "plain_answer": "The forward reaction, N2O4 breaking down into 2NO2, is endothermic, absorbing heat. According to Le Chatelier's Principle, increasing temperature shifts the equilibrium toward the side that absorbs the added heat, favoring more NO2 formation, visibly turning the gas mixture a darker brown. Decreasing temperature shifts the equilibrium back toward N2O4, and the mixture becomes noticeably paler, this color change makes it a commonly used, visually clear demonstration of Le Chatelier's Principle in action.",
+  "pidgin_answer": "Di forward reaction, wey be N2O4 breaking down enter 2NO2, na endothermic, e dey absorb heat. Following Le Chatelier's Principle, if you increase temperature, di equilibrium go shift go di side wey go absorb di extra heat, e go favor more NO2 formation, e go visibly turn di gas mixture darker brown. If temperature reduce now, di equilibrium go shift back go N2O4, and di mixture go become noticeably paler, dis color change na why dem dey commonly use am as visual demonstration of Le Chatelier's Principle in action.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Chemical Equilibrium topic"
+},
+{
+  "id": "chem_228",
+  "subject": "Chemistry",
+  "topic": "Non-metals",
+  "question": "How is hydrogen produced commercially from water gas and by cracking petroleum fractions?",
+  "plain_answer": "Water gas is produced by passing steam over red-hot coke, forming a mixture of carbon monoxide and hydrogen (C + H2O gives CO + H2), which is then separated to obtain hydrogen. Hydrogen is also obtained as a byproduct of cracking petroleum fractions, where long-chain hydrocarbons are broken down at high temperature into shorter, more useful hydrocarbons, releasing hydrogen gas alongside alkenes.",
+  "pidgin_answer": "Water gas dem dey produce am by passing steam over red-hot coke, e go form mixture of carbon monoxide and hydrogen, C plus H2O go give CO plus H2, wey dem go later separate to get hydrogen. Hydrogen dem dey also get am as byproduct of cracking petroleum fraction, where long-chain hydrocarbon dey break down for high temperature enter shorter, more useful hydrocarbon, e go release hydrogen gas alongside alkene.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Non-metals topic"
+},
+{
+  "id": "chem_229",
+  "subject": "Chemistry",
+  "topic": "Non-metals",
+  "question": "How is hydrogen gas prepared in the laboratory, and what is the standard test for it?",
+  "plain_answer": "Hydrogen is prepared in the laboratory by reacting a reactive metal, such as zinc, with a dilute acid like hydrochloric acid, Zn + 2HCl gives ZnCl2 + H2. The gas is collected over water since it is not very soluble. The standard test for hydrogen is applying a lit splint to the mouth of the collection tube, hydrogen burns with a characteristic 'pop' sound.",
+  "pidgin_answer": "Dem dey prepare hydrogen for laboratory by reacting reactive metal, like zinc, with dilute acid like hydrochloric acid, Zn plus 2HCl go give ZnCl2 plus H2. Dem go collect di gas over water since e no too soluble. Di standard test for hydrogen na to apply lit splint for di mouth of di collection tube, hydrogen go burn with di special 'pop' sound.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Non-metals topic"
+},
+{
+  "id": "chem_230",
+  "subject": "Chemistry",
+  "topic": "Non-metals",
+  "question": "How is chlorine gas prepared, both in the laboratory and industrially, and what are its major uses?",
+  "plain_answer": "In the laboratory, chlorine is prepared by reacting concentrated hydrochloric acid with an oxidizing agent like manganese(IV) oxide, heated together. Industrially, chlorine is produced by the electrolysis of concentrated brine (sodium chloride solution). Its major uses include water sterilization to kill harmful bacteria, bleaching paper and textiles, manufacturing hydrochloric acid, and producing plastics like PVC and various insecticides.",
+  "pidgin_answer": "For laboratory, dem dey prepare chlorine by reacting concentrated hydrochloric acid with oxidizing agent like manganese(IV) oxide, dem go heat dem together. Industrially now, dem dey produce chlorine through electrolysis of concentrated brine, wey be sodium chloride solution. Im major use include water sterilization to kill harmful bacteria, bleaching paper and textile, manufacturing hydrochloric acid, and producing plastic like PVC and different insecticide.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Non-metals topic"
+},
+{
+  "id": "chem_231",
+  "subject": "Chemistry",
+  "topic": "Non-metals",
+  "question": "How is hydrogen chloride gas prepared, and what does the 'fountain experiment' demonstrate about its properties?",
+  "plain_answer": "Hydrogen chloride gas is prepared by heating concentrated sulfuric acid with sodium chloride (common salt), NaCl + H2SO4 gives NaHSO4 + HCl. The fountain experiment demonstrates its extreme solubility in water, a flask of the dry gas is inverted with its tube dipped in water, and once a small amount of water enters, it dissolves so rapidly and completely that it creates a vacuum, drawing the rest of the water up forcefully as a fountain.",
+  "pidgin_answer": "Dem dey prepare hydrogen chloride gas by heating concentrated sulfuric acid with sodium chloride, wey be common salt, NaCl plus H2SO4 go give NaHSO4 plus HCl. Di fountain experiment dey demonstrate im extreme solubility inside water, dem go invert flask of di dry gas with im tube dip inside water, and once small amount of water enter, e go dissolve so fast and complete reach say e go create vacuum, e go draw di rest of di water up forcefully like fountain.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Non-metals topic"
+},
+{
+  "id": "chem_232",
+  "subject": "Chemistry",
+  "topic": "Non-metals",
+  "question": "What is the difference between acidic, basic, amphoteric, and neutral oxides?",
+  "plain_answer": "Acidic oxides are formed by non-metals and react with bases to form salt and water, and often dissolve in water to form acids, like sulfur dioxide. Basic oxides are formed by metals and react with acids to form salt and water, like magnesium oxide. Amphoteric oxides can react with both acids and bases, behaving as either acidic or basic depending on what they react with, like aluminium oxide and zinc oxide. Neutral oxides do not react significantly with either acids or bases, like carbon monoxide and water.",
+  "pidgin_answer": "Acidic oxide dem dey formed by non-metal and e go react with base to form salt and water, e go often dissolve for water to form acid, like sulfur dioxide. Basic oxide now dem dey formed by metal, e go react with acid to form salt and water, like magnesium oxide. Amphoteric oxide fit react with both acid and base, e go behave as either acidic or basic depending on wetin e react with, like aluminium oxide and zinc oxide. Neutral oxide no dey react significantly with either acid or base, like carbon monoxide and water.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Non-metals topic"
+},
+{
+  "id": "chem_233",
+  "subject": "Chemistry",
+  "topic": "Non-metals",
+  "question": "What is ozone, and why is it important in the upper atmosphere?",
+  "plain_answer": "Ozone (O3) is an allotrope of oxygen, made of three oxygen atoms instead of the usual two, formed when oxygen molecules are exposed to strong ultraviolet radiation or electrical discharge. In the upper atmosphere, the ozone layer absorbs most of the sun's harmful ultraviolet radiation before it reaches Earth's surface, protecting living organisms from UV-related damage like skin cancer and harm to plant life.",
+  "pidgin_answer": "Ozone, O3, na allotrope of oxygen, e get three oxygen atom instead of di normal two, e dey form when oxygen molecule dey exposed to strong ultraviolet radiation or electrical discharge. For di upper atmosphere, di ozone layer dey absorb most of di sun harmful ultraviolet radiation before e reach Earth surface, e dey protect living organism from UV-related damage like skin cancer and harm to plant life.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Non-metals topic"
+},
+{
+  "id": "chem_234",
+  "subject": "Chemistry",
+  "topic": "Non-metals",
+  "question": "What are the allotropes of sulfur, and how is sulfur dioxide gas prepared?",
+  "plain_answer": "Sulfur has two common allotropes, rhombic sulfur (stable at room temperature) and monoclinic sulfur (stable above about 96 degrees Celsius), both made of the same S8 ring-shaped molecules arranged differently in the solid state. Sulfur dioxide gas is prepared by burning sulfur in air or oxygen, S + O2 gives SO2, or in the laboratory by reacting a sulfite salt with a dilute acid.",
+  "pidgin_answer": "Sulfur get two common allotrope, rhombic sulfur, wey stable for room temperature, and monoclinic sulfur, wey stable above around 96 degrees Celsius, both of dem made of di same S8 ring-shaped molecule wey arrange different way for di solid state. Sulfur dioxide gas dem dey prepare am by burning sulfur for air or oxygen, S plus O2 go give SO2, or for laboratory by reacting sulfite salt with dilute acid.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Non-metals topic"
+},
+{
+  "id": "chem_235",
+  "subject": "Chemistry",
+  "topic": "Non-metals",
+  "question": "What happens when sulfur dioxide reacts with an alkali, and what salt is formed?",
+  "plain_answer": "Sulfur dioxide is an acidic oxide, so it reacts with an alkali like sodium hydroxide to form a salt and water, SO2 + 2NaOH gives Na2SO3 + H2O. The salt formed is sodium trioxosulfate(IV), commonly called sodium sulfite, this same reaction is used industrially to remove sulfur dioxide pollution from factory exhaust gases before they are released into the air.",
+  "pidgin_answer": "Sulfur dioxide na acidic oxide, so e go react with alkali like sodium hydroxide to form salt and water, SO2 plus 2NaOH go give Na2SO3 plus H2O. Di salt wey form na sodium trioxosulfate(IV), wey dem dey commonly call sodium sulfite, dis same reaction na wetin dem dey use industrially remove sulfur dioxide pollution from factory exhaust gas before dem release am enter air.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Non-metals topic"
+},
+{
+  "id": "chem_236",
+  "subject": "Chemistry",
+  "topic": "Non-metals",
+  "question": "How does concentrated sulfuric acid act as an oxidizing agent and a dehydrating agent, and what is the test for a sulfate ion?",
+  "plain_answer": "As an oxidizing agent, hot concentrated sulfuric acid can oxidize metals and non-metals, such as reacting with copper to produce copper sulfate, sulfur dioxide, and water. As a dehydrating agent, it removes water, or the elements of water, from substances, famously turning sugar black by removing hydrogen and oxygen from it, leaving carbon behind. The test for a sulfate ion is adding dilute hydrochloric acid followed by barium chloride solution, a white precipitate of barium sulfate confirms its presence, and this precipitate does not dissolve even in excess acid.",
+  "pidgin_answer": "As oxidizing agent, hot concentrated sulfuric acid fit oxidize metal and non-metal, like reacting with copper to produce copper sulfate, sulfur dioxide, and water. As dehydrating agent now, e go remove water, or di elements of water, from substance, e dey famous for turning sugar black by removing hydrogen and oxygen from am, e go leave carbon behind. Di test for sulfate ion na to add dilute hydrochloric acid follow by barium chloride solution, white precipitate of barium sulfate go confirm say e dey present, and dis precipitate no go dissolve even for excess acid.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Non-metals topic"
+},
+{
+  "id": "chem_237",
+  "subject": "Chemistry",
+  "topic": "Non-metals",
+  "question": "How is hydrogen sulfide gas prepared, and what properties does it show as a weak acid and reducing agent?",
+  "plain_answer": "Hydrogen sulfide is prepared by reacting a metal sulfide, like iron(II) sulfide, with a dilute acid, FeS + 2HCl gives FeCl2 + H2S. As a weak acid, it partially dissociates in water to release H+ ions. As a reducing agent, it readily gives up electrons, for example, it turns acidified potassium permanganate solution from purple to colorless, and it can be identified by turning lead ethanoate paper black, forming lead sulfide.",
+  "pidgin_answer": "Dem dey prepare hydrogen sulfide by reacting metal sulfide, like iron(II) sulfide, with dilute acid, FeS plus 2HCl go give FeCl2 plus H2S. As weak acid, e go partially dissociate for water to release H+ ion. As reducing agent now, e go readily give up electron, for example, e go turn acidified potassium permanganate solution from purple come colorless, and you fit identify am by turning lead ethanoate paper black, e go form lead sulfide.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Non-metals topic"
+},
+{
+  "id": "chem_238",
+  "subject": "Chemistry",
+  "topic": "Non-metals",
+  "question": "How is nitrogen gas prepared in the laboratory and obtained industrially?",
+  "plain_answer": "In the laboratory, nitrogen can be prepared by heating a mixture of ammonium chloride and sodium nitrite, which decompose to release nitrogen gas. Industrially, nitrogen is obtained from the fractional distillation of liquid air, since nitrogen has a lower boiling point than oxygen, it boils off first and is collected separately.",
+  "pidgin_answer": "For laboratory, dem fit prepare nitrogen by heating mixture of ammonium chloride and sodium nitrite, wey go decompose release nitrogen gas. Industrially now, dem dey obtain nitrogen from fractional distillation of liquid air, since nitrogen get lower boiling point pass oxygen, e go boil off first, e go collect am separately.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Non-metals topic"
+},
+{
+  "id": "chem_239",
+  "subject": "Chemistry",
+  "topic": "Non-metals",
+  "question": "How is trioxonitrate(V) acid (nitric acid) prepared from ammonia, and what is the test for a nitrate ion?",
+  "plain_answer": "Nitric acid is prepared industrially by first oxidizing ammonia to nitrogen(IV) oxide over a platinum catalyst, which is then further oxidized and dissolved in water to form nitric acid. In the laboratory, it can be prepared by heating a nitrate salt with concentrated sulfuric acid. The test for a nitrate ion is the brown ring test, adding freshly prepared iron(II) sulfate solution then carefully pouring concentrated sulfuric acid down the side of the tube, a brown ring forms at the boundary between the two layers if nitrate is present.",
+  "pidgin_answer": "Dem dey prepare nitric acid industrially by first oxidizing ammonia to nitrogen(IV) oxide over platinum catalyst, wey dem go further oxidize and dissolve inside water to form nitric acid. For laboratory, dem fit prepare am by heating nitrate salt with concentrated sulfuric acid. Di test for nitrate ion na di brown ring test, you go add freshly prepared iron(II) sulfate solution then carefully pour concentrated sulfuric acid down di side of di tube, brown ring go form for di boundary between di two layer if nitrate dey present.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Non-metals topic"
+},
+{
+  "id": "chem_240",
+  "subject": "Chemistry",
+  "topic": "Non-metals",
+  "question": "What is the nitrogen cycle, and why is it important to the environment?",
+  "plain_answer": "The nitrogen cycle describes how nitrogen moves through the environment, atmospheric nitrogen gas is converted into usable forms like nitrates through nitrogen fixation by bacteria or lightning, plants absorb these nitrates to build proteins, animals obtain nitrogen by eating plants, and decomposers break down waste and dead organisms, releasing nitrogen back as ammonia, which other bacteria convert back into nitrates or back into atmospheric nitrogen gas. This cycle is essential because nitrogen is a critical building block for proteins and DNA in all living things, but atmospheric nitrogen gas itself is too unreactive for organisms to use directly.",
+  "pidgin_answer": "Nitrogen cycle dey describe how nitrogen dey move through di environment, atmospheric nitrogen gas go convert enter usable form like nitrate through nitrogen fixation by bacteria or lightning, plant go absorb dis nitrate to build protein, animal go obtain nitrogen by eating plant, and decomposer go break down waste and dead organism, e go release nitrogen back as ammonia, wey other bacteria go convert back enter nitrate or back enter atmospheric nitrogen gas. Dis cycle dey essential because nitrogen na critical building block for protein and DNA for all living thing, but atmospheric nitrogen gas itself too unreactive make organism use am direct.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Non-metals topic"
+},
+{
+  "id": "chem_241",
+  "subject": "Chemistry",
+  "topic": "Non-metals",
+  "question": "How is carbon monoxide produced, and why is it dangerous to human health?",
+  "plain_answer": "Carbon monoxide forms from the incomplete combustion of carbon-containing fuels when there is insufficient oxygen, common sources include charcoal fires, poorly ventilated stoves, and vehicle exhaust fumes. It is dangerous because it binds to hemoglobin in red blood cells far more strongly than oxygen does, forming carboxyhemoglobin, this blocks oxygen from being transported around the body, and since carbon monoxide is colorless and odorless, poisoning can happen without warning.",
+  "pidgin_answer": "Carbon monoxide dey form from incomplete combustion of carbon-containing fuel when oxygen no too dey available, common source na charcoal fire, stove wey no get good ventilation, and vehicle exhaust fume. E dangerous well well because e dey bind to hemoglobin wey dey inside red blood cell, e strong pass oxygen, e go form carboxyhemoglobin, dis one go block oxygen from being transported round di body, and since carbon monoxide no get color or smell, poisoning fit happen without any warning.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Non-metals topic"
+},
+{
+  "id": "chem_242",
+  "subject": "Chemistry",
+  "topic": "Non-metals",
+  "question": "What products come from the destructive distillation of coal, and what is coke used for?",
+  "plain_answer": "Destructive distillation of coal, heating it strongly in the absence of air, produces coal gas (a fuel mixture), coal tar (a source of many organic chemicals), ammoniacal liquor, and coke as a solid residue. Coke, being almost pure carbon, is mainly used as a reducing agent in the extraction of iron in blast furnaces, and also as a fuel due to its high carbon content and clean burning properties.",
+  "pidgin_answer": "Destructive distillation of coal, wey be heating am strongly without air, go produce coal gas, wey be fuel mixture, coal tar, wey be source of plenty organic chemical, ammoniacal liquor, and coke as solid residue. Coke, wey be almost pure carbon, dem dey mainly use am as reducing agent for extraction of iron for blast furnace, and dem dey also use am as fuel because of im high carbon content and clean burning property.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Non-metals topic"
+},
+{
+  "id": "chem_243",
+  "subject": "Chemistry",
+  "topic": "Metals",
+  "question": "How is sodium hydroxide produced industrially, and how is it used to precipitate metallic hydroxides like aluminium or zinc?",
+  "plain_answer": "Sodium hydroxide is produced industrially by the electrolysis of concentrated brine (sodium chloride solution), where hydrogen gas forms at the cathode, chlorine gas at the anode, and sodium hydroxide accumulates in solution. When added to a solution containing aluminium, zinc, or lead ions, sodium hydroxide reacts to form an insoluble metal hydroxide precipitate, though with excess sodium hydroxide, aluminium and zinc hydroxides dissolve again since they are amphoteric, while lead hydroxide behaves similarly, but iron(III) hydroxide does not redissolve.",
+  "pidgin_answer": "Dem dey produce sodium hydroxide industrially through electrolysis of concentrated brine, wey be sodium chloride solution, hydrogen gas go form for di cathode, chlorine gas for di anode, and sodium hydroxide go accumulate inside solution. If you add am to solution wey get aluminium, zinc, or lead ion, sodium hydroxide go react to form insoluble metal hydroxide precipitate, though if excess sodium hydroxide dey, aluminium and zinc hydroxide go dissolve again since dem amphoteric, lead hydroxide go behave similar way, but iron(III) hydroxide no go redissolve.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Metals topic"
+},
+{
+  "id": "chem_244",
+  "subject": "Chemistry",
+  "topic": "Metals",
+  "question": "How is sodium trioxocarbonate(IV) (sodium carbonate) produced by the Solvay process, and what is it used for?",
+  "plain_answer": "The Solvay process produces sodium carbonate from brine, ammonia, and carbon dioxide, ammonia dissolved in brine absorbs carbon dioxide to form sodium hydrogen carbonate, which precipitates out and is then heated to form sodium carbonate, releasing water and carbon dioxide (which is recycled). Sodium carbonate is used in manufacturing glass, where it lowers the melting point of sand (silica), and in softening hard water and manufacturing soap.",
+  "pidgin_answer": "Solvay process dey produce sodium carbonate from brine, ammonia, and carbon dioxide, ammonia wey dissolve inside brine go absorb carbon dioxide to form sodium hydrogen carbonate, wey go precipitate out and dem go heat am to form sodium carbonate, e go release water and carbon dioxide, wey dem go recycle. Sodium carbonate dem dey use am for manufacturing glass, where e go lower di melting point of sand, wey be silica, and for softening hard water and manufacturing soap.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Metals topic"
+},
+{
+  "id": "chem_245",
+  "subject": "Chemistry",
+  "topic": "Metals",
+  "question": "How is calcium oxide prepared from sea shells, and what is the chemical composition of cement?",
+  "plain_answer": "Calcium oxide (quicklime) is prepared by strongly heating calcium carbonate, found in sea shells or limestone, which decomposes to release carbon dioxide: CaCO3 gives CaO + CO2. Cement is primarily a mixture of calcium silicates and calcium aluminates, made by heating limestone with clay in a kiln, when mixed with water, these compounds react to form a hard, interlocking crystalline structure, which is how mortar sets and hardens.",
+  "pidgin_answer": "Calcium oxide, wey dem dey call quicklime, dem dey prepare am by heating calcium carbonate well well, wey you go find inside sea shell or limestone, e go decompose release carbon dioxide: CaCO3 go give CaO plus CO2. Cement na primarily mixture of calcium silicate and calcium aluminate, dem dey make am by heating limestone with clay inside kiln, if you mix am with water, dis compound go react form hard, interlocking crystalline structure, na so mortar dey set and harden.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Metals topic"
+},
+{
+  "id": "chem_246",
+  "subject": "Chemistry",
+  "topic": "Metals",
+  "question": "What is the test for calcium ions (Ca2+), and what are calcium hydroxide and calcium carbonate used for?",
+  "plain_answer": "Calcium ions are tested for using a flame test, giving a brick-red flame color, or by adding ammonium trioxocarbonate(IV) solution, which forms a white precipitate of calcium carbonate. Calcium hydroxide (slaked lime) is used in agriculture to neutralize acidic soil and in making mortar, while calcium carbonate is used directly as limestone in construction and as the raw material for producing cement and quicklime.",
+  "pidgin_answer": "Dem dey test for calcium ion using flame test, e go give brick-red flame color, or by adding ammonium trioxocarbonate(IV) solution, wey go form white precipitate of calcium carbonate. Calcium hydroxide, wey be slaked lime, dem dey use am for agriculture to neutralize acidic soil and for making mortar, while calcium carbonate dem dey use am direct as limestone for construction and as di raw material for producing cement and quicklime.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Metals topic"
+},
+{
+  "id": "chem_247",
+  "subject": "Chemistry",
+  "topic": "Metals",
+  "question": "How is bauxite purified before aluminium can be extracted from it?",
+  "plain_answer": "Bauxite ore contains aluminium oxide mixed with impurities like iron oxide and silica. It is purified using the Bayer process, the crushed ore is treated with hot concentrated sodium hydroxide solution, which dissolves the aluminium oxide (since it is amphoteric) while leaving insoluble impurities like iron oxide behind to be filtered off, the aluminium oxide is then precipitated back out and heated to obtain pure alumina, ready for electrolytic extraction.",
+  "pidgin_answer": "Bauxite ore get aluminium oxide wey mix with impurity like iron oxide and silica. Dem dey purify am using di Bayer process, dem go treat di crushed ore with hot concentrated sodium hydroxide solution, wey go dissolve di aluminium oxide, since e amphoteric, while e go leave insoluble impurity like iron oxide behind make dem filter am off, dem go later precipitate di aluminium oxide back out and heat am to get pure alumina, ready for electrolytic extraction.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Metals topic"
+},
+{
+  "id": "chem_248",
+  "subject": "Chemistry",
+  "topic": "Metals",
+  "question": "How is tin extracted from its ore, and what are its main uses?",
+  "plain_answer": "Tin is extracted from its main ore, cassiterite (tin(IV) oxide), by reduction with carbon in a furnace, SnO2 + C gives Sn + CO2, since tin is moderately reactive, carbon reduction is sufficient without needing electrolysis. Tin is mainly used to coat steel to prevent rusting (tin cans), and as a component in various alloys like solder and bronze.",
+  "pidgin_answer": "Dem dey extract tin from im main ore, wey be cassiterite, wey be tin(IV) oxide, through reduction with carbon inside furnace, SnO2 plus C go give Sn plus CO2, since tin no too reactive, carbon reduction dey enough, dem no go need electrolysis. Dem dey mainly use tin coat steel to prevent rusting, like tin can, and as component inside different alloy like solder and bronze.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Metals topic"
+},
+{
+  "id": "chem_249",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What is petroleum, and what major products are obtained from its fractional distillation?",
+  "plain_answer": "Petroleum (crude oil) is a complex mixture of hydrocarbons of varying chain lengths, formed from the remains of ancient marine organisms under heat and pressure. Fractional distillation separates it based on differing boiling points, lighter fractions with shorter chains rise higher in the column, producing (from lightest to heaviest) refinery gas, gasoline (petrol), kerosene, diesel, lubricating oil, and bitumen, each with distinct uses based on their properties.",
+  "pidgin_answer": "Petroleum, wey be crude oil, na complex mixture of hydrocarbon wey get different chain length, e dey form from di remains of ancient marine organism, under heat and pressure. Fractional distillation dey separate am based on di different boiling point, lighter fraction wey get shorter chain go climb higher for di column, e go produce, from lightest to heaviest, refinery gas, gasoline, wey be petrol, kerosene, diesel, lubricating oil, and bitumen, each one get im own distinct use based on im properties.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_250",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What is cracking in petroleum refining, and what does octane number measure?",
+  "plain_answer": "Cracking is the process of breaking down large, less useful hydrocarbon molecules into smaller, more valuable ones, such as breaking heavy fractions into more gasoline and alkenes for the petrochemical industry, using heat, pressure, and sometimes a catalyst. Octane number measures a petrol's resistance to knocking (premature, uneven combustion) in an engine, a higher octane number means the fuel can be compressed more before igniting, allowing for more efficient, higher-performance engines.",
+  "pidgin_answer": "Cracking na di process of breaking down big, less useful hydrocarbon molecule enter smaller, more valuable one, like breaking heavy fraction enter more gasoline and alkene for petrochemical industry, dem go use heat, pressure, and sometimes catalyst. Octane number now dey measure petrol resistance to knocking, wey be premature, uneven combustion, inside engine, higher octane number mean say dem fit compress di fuel more before e go ignite, e go allow more efficient, higher performance engine.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_251",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What is geometric (cis-trans) isomerism in alkenes, and why doesn't it occur in alkanes?",
+  "plain_answer": "Geometric isomerism occurs in alkenes because the carbon-carbon double bond cannot rotate freely, locking substituent groups in fixed positions, either on the same side (cis) or opposite sides (trans) of the double bond, giving two distinct molecules with the same formula but different arrangements and properties. Alkanes do not show this since their single carbon-carbon bonds can rotate freely, so there is no fixed arrangement to create distinct isomers this way.",
+  "pidgin_answer": "Geometric isomerism dey occur for alkene because di carbon-carbon double bond no fit rotate freely, e go lock di substituent group for fixed position, either for di same side, wey dem call cis, or opposite side, wey dem call trans, of di double bond, e go give two distinct molecule wey get di same formula but different arrangement and properties. Alkane no dey show dis one since dia single carbon-carbon bond fit rotate freely, so no fixed arrangement dey to create distinct isomer dis way.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_252",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "How is ethyne (acetylene) produced from calcium carbide, and what are its simple properties?",
+  "plain_answer": "Ethyne is produced by reacting calcium carbide with water, CaC2 + 2H2O gives Ca(OH)2 + C2H2. Ethyne is a colorless gas that burns with a very hot, bright flame, making it useful in oxy-acetylene welding torches, and like other alkynes, it readily undergoes addition reactions across its triple bond, decolorizing bromine water, similar to alkenes but able to add across the triple bond twice.",
+  "pidgin_answer": "Dem dey produce ethyne by reacting calcium carbide with water, CaC2 plus 2H2O go give Ca(OH)2 plus C2H2. Ethyne na colorless gas wey dey burn with very hot, bright flame, na why e useful for oxy-acetylene welding torch, and like other alkyne, e go readily undergo addition reaction across im triple bond, e go decolorize bromine water, similar to alkene but e fit add across di triple bond twice.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_253",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What is the difference between an alkanal (aldehyde) and an alkanone (ketone), and how can Fehling's solution distinguish between them?",
+  "plain_answer": "An alkanal has its carbonyl group (C=O) at the end of the carbon chain, always attached to at least one hydrogen atom, while an alkanone has its carbonyl group between two other carbon atoms, within the chain. Fehling's solution, a blue copper(II) solution, distinguishes them because aldehydes are easily oxidized and reduce Fehling's solution to form a brick-red precipitate of copper(I) oxide, while ketones cannot be oxidized this way and show no color change.",
+  "pidgin_answer": "Alkanal get im carbonyl group, C=O, for di end of di carbon chain, e go always attach to at least one hydrogen atom, while alkanone get im carbonyl group between two other carbon atom, inside di chain. Fehling's solution, wey be blue copper(II) solution, dey distinguish dem because aldehyde dey easy to oxidize, e go reduce Fehling's solution form brick-red precipitate of copper(I) oxide, while ketone no fit oxidize dis way, e no go show any color change.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_254",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What is the Lucas test, and how does it distinguish between primary, secondary, and tertiary alcohols?",
+  "plain_answer": "The Lucas test uses a mixture of concentrated hydrochloric acid and zinc chloride, which reacts with alcohols to form an insoluble alkyl chloride, seen as a cloudy layer. A tertiary alcohol reacts immediately, turning cloudy right away, a secondary alcohol reacts more slowly, turning cloudy within a few minutes, and a primary alcohol reacts very slowly or not at all at room temperature, remaining clear, this difference in reaction speed reflects how easily each type of alcohol forms a stable carbocation intermediate.",
+  "pidgin_answer": "Lucas test dey use mixture of concentrated hydrochloric acid and zinc chloride, wey go react with alcohol to form insoluble alkyl chloride, wey you go see as cloudy layer. Tertiary alcohol go react immediately, e go turn cloudy sharp sharp, secondary alcohol go react slower, e go turn cloudy within some minutes, and primary alcohol go react very slowly or e no go react at all for room temperature, e go remain clear, dis difference for reaction speed dey reflect how easy each type of alcohol dey form stable carbocation intermediate.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_255",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What makes ethanedioic (oxalic) acid a dicarboxylic acid, and what is benzenecarboxylic (benzoic) acid an example of?",
+  "plain_answer": "Ethanedioic acid, HOOC-COOH, is called a dicarboxylic acid because it contains two carboxylic acid (-COOH) groups within one molecule, rather than the single -COOH group found in simple alkanoic acids like ethanoic acid. Benzenecarboxylic acid, commonly called benzoic acid, is an example of an aromatic carboxylic acid, since its -COOH group is attached directly to a benzene ring rather than to a simple carbon chain, giving it somewhat different properties from purely aliphatic acids.",
+  "pidgin_answer": "Ethanedioic acid, HOOC-COOH, dem dey call am dicarboxylic acid because e get two carboxylic acid group, -COOH, inside one molecule, instead of di single -COOH group wey dey inside simple alkanoic acid like ethanoic acid. Benzenecarboxylic acid, wey dem commonly call benzoic acid, na example of aromatic carboxylic acid, since im -COOH group dey attach direct to benzene ring instead of simple carbon chain, e go give am small different properties from purely aliphatic acid.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_256",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What is saponification, and how does it produce soap from fats and oils?",
+  "plain_answer": "Saponification is the reaction of a fat or oil, which is an ester of glycerol and long-chain fatty acids, with a hot concentrated alkali like sodium hydroxide. This hydrolyzes the ester bonds, producing glycerol and the sodium salts of the fatty acids, which is soap. The reaction is essentially base-catalyzed ester hydrolysis, breaking down the large triglyceride molecule into its two component parts.",
+  "pidgin_answer": "Saponification na di reaction of fat or oil, wey be ester of glycerol and long-chain fatty acid, with hot concentrated alkali like sodium hydroxide. Dis one go hydrolyze di ester bond, e go produce glycerol and di sodium salt of di fatty acid, wey be soap. Di reaction na essentially base-catalyzed ester hydrolysis, e go break down di big triglyceride molecule enter im two component part.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_257",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What is the key difference between a soap and a synthetic detergent, especially in hard water?",
+  "plain_answer": "Both soaps and detergents work by having a water-loving head and a grease-loving tail that lifts away dirt and oil, but soap is made from natural fats and oils, while detergent is synthetically manufactured, often from petroleum products. The key practical difference is in hard water, soap reacts with the calcium and magnesium ions to form an insoluble scum that reduces lathering and leaves residue, while synthetic detergents are specifically designed not to react this way, so they lather effectively even in hard water.",
+  "pidgin_answer": "Both soap and detergent dey work by having water-loving head and grease-loving tail wey go lift dirt and oil comot, but soap dem dey make am from natural fat and oil, while detergent na synthetically manufactured, often from petroleum product. Di key practical difference dey for hard water, soap go react with di calcium and magnesium ion form insoluble scum wey go reduce lathering and leave residue, while synthetic detergent dem specifically design am make e no react dis way, so e go lather well even for hard water.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_258",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What is an amine (alkanamine), and what is the difference between a primary, secondary, and tertiary amine?",
+  "plain_answer": "An amine is an organic compound derived from ammonia (NH3), where one or more hydrogen atoms are replaced by an alkyl or aromatic group. A primary amine has one alkyl group attached to the nitrogen (R-NH2), a secondary amine has two alkyl groups attached (R2-NH), and a tertiary amine has three alkyl groups attached, with no hydrogen atoms remaining on the nitrogen (R3-N).",
+  "pidgin_answer": "Amine na organic compound wey dem derive from ammonia, NH3, where one or more hydrogen atom don replace with alkyl or aromatic group. Primary amine get one alkyl group wey attach to di nitrogen, R-NH2, secondary amine get two alkyl group wey attach, R2-NH, and tertiary amine get three alkyl group wey attach, no hydrogen atom go remain for di nitrogen again, R3-N.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_259",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What is the difference between monosaccharides, disaccharides, and polysaccharides?",
+  "plain_answer": "A monosaccharide is the simplest form of carbohydrate, a single sugar unit that cannot be broken down further by hydrolysis, like glucose or fructose. A disaccharide forms when two monosaccharide units join together with the loss of a water molecule, like sucrose (table sugar), formed from glucose and fructose. A polysaccharide is a large molecule made of many monosaccharide units joined together in a long chain, like starch and cellulose, both made entirely of glucose units, but linked differently.",
+  "pidgin_answer": "Monosaccharide na di simplest form of carbohydrate, one single sugar unit wey you no fit break down further through hydrolysis, like glucose or fructose. Disaccharide dey form when two monosaccharide unit join together with di loss of water molecule, like sucrose, wey be table sugar, e form from glucose and fructose. Polysaccharide na big molecule wey get plenty monosaccharide unit wey join together for long chain, like starch and cellulose, both of dem made entirely of glucose unit, but dem link am different way.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_260",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What is Benedict's test used for, and what result indicates the presence of a reducing sugar like glucose?",
+  "plain_answer": "Benedict's test is used to detect reducing sugars, such as glucose and fructose. A blue Benedict's solution is added to the sample and heated, if a reducing sugar is present, it reduces the copper(II) ions in the solution to copper(I) oxide, producing a color change from blue through green and yellow to a final brick-red precipitate, depending on how much reducing sugar is present, no color change means no reducing sugar is present.",
+  "pidgin_answer": "Benedict's test dem dey use am detect reducing sugar, like glucose and fructose. Dem go add blue Benedict's solution to di sample and heat am, if reducing sugar dey present, e go reduce di copper(II) ion wey dey inside di solution to copper(I) oxide, e go produce color change from blue through green and yellow reach final brick-red precipitate, e go depend on how much reducing sugar dey present, if no color change, e mean say no reducing sugar dey present.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_261",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "How does concentrated sulfuric acid react with sugar, and what does this reaction demonstrate?",
+  "plain_answer": "When concentrated sulfuric acid is added to sugar (a carbohydrate), it acts as a powerful dehydrating agent, removing the elements of water (hydrogen and oxygen) from the sugar molecule, leaving behind a black, porous mass of carbon, along with steam and a strong smell from sulfur dioxide gas produced as a side reaction. This dramatic reaction demonstrates both the dehydrating power of concentrated sulfuric acid and the fact that carbohydrates contain hydrogen and oxygen in the same 2 to 1 ratio as water.",
+  "pidgin_answer": "If you add concentrated sulfuric acid to sugar, wey be carbohydrate, e go act as powerful dehydrating agent, e go remove di elements of water, wey be hydrogen and oxygen, from di sugar molecule, e go leave behind black, porous mass of carbon, alongside steam and strong smell from sulfur dioxide gas wey dey produce as side reaction. Dis dramatic reaction dey demonstrate both di dehydrating power of concentrated sulfuric acid and di fact say carbohydrate get hydrogen and oxygen for di same 2 to 1 ratio as water.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_262",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "How is starch from cassava or cellulose from cotton hydrolyzed into simple sugars?",
+  "plain_answer": "Starch and cellulose are both polysaccharides made of glucose units, but linked differently, which affects how easily they hydrolyze. Starch can be hydrolyzed by boiling with dilute acid, or by enzymes like amylase, breaking it down step by step into shorter chains and eventually into individual glucose units. Cellulose has a different, more tightly linked structure that resists most enzymes, so it requires stronger acid hydrolysis conditions to break down fully into glucose, this is why humans can digest starch easily but cannot digest cellulose, lacking the right enzymes.",
+  "pidgin_answer": "Starch and cellulose both na polysaccharide wey made of glucose unit, but dem link am different way, wey go affect how easy dem go hydrolyze. Starch fit hydrolyze through boiling with dilute acid, or through enzyme like amylase, e go break am down step by step enter shorter chain and eventually enter individual glucose unit. Cellulose now get different, more tightly linked structure wey go resist most enzyme, so e go need stronger acid hydrolysis condition to fully break down enter glucose, na why human fit digest starch easily but we no fit digest cellulose, since we no get di correct enzyme.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_263",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What is the primary structure of a protein, and what does hydrolyzing a protein produce?",
+  "plain_answer": "The primary structure of a protein is the specific, ordered sequence of amino acids joined together by peptide bonds in a long chain. Hydrolyzing a protein, using acid, alkali, or enzymes, breaks these peptide bonds, releasing the individual amino acids that made up the original protein chain, this is essentially the same process that happens during digestion.",
+  "pidgin_answer": "Di primary structure of protein na di specific, ordered sequence of amino acid wey join together by peptide bond for long chain. If you hydrolyze protein, using acid, alkali, or enzyme, e go break dis peptide bond, e go release di individual amino acid wey make up di original protein chain, dis one na essentially di same process wey dey happen during digestion.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_264",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What do the Biuret test and the Ninhydrin test each detect in proteins?",
+  "plain_answer": "The Biuret test detects the presence of peptide bonds themselves, adding Biuret reagent (or sodium hydroxide followed by dilute copper sulfate) to a protein sample produces a violet or purple color, the more peptide bonds present, the more intense the color. The Ninhydrin test detects free amino acids or the ends of protein chains, producing a blue or purple color when Ninhydrin reacts with the amino group of an amino acid, commonly used to detect amino acids on surfaces like fingerprints.",
+  "pidgin_answer": "Biuret test dey detect di presence of peptide bond demselves, if you add Biuret reagent, or sodium hydroxide follow by dilute copper sulfate, to protein sample, e go produce violet or purple color, di more peptide bond dey present, di more intense di color go be. Ninhydrin test now dey detect free amino acid or di ends of protein chain, e go produce blue or purple color when Ninhydrin react with di amino group of amino acid, dem dey commonly use am detect amino acid for surface like fingerprint.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_265",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What do the Millon's test and the xanthoproteic test each detect in proteins?",
+  "plain_answer": "Millon's test detects the presence of the amino acid tyrosine, adding Millon's reagent and heating produces a white precipitate that turns brick-red, indicating tyrosine-containing proteins are present. The xanthoproteic test detects amino acids containing a benzene ring (aromatic amino acids like tyrosine and tryptophan), adding concentrated nitric acid and heating turns the protein yellow, which turns orange when made alkaline, this is the same reaction responsible for skin turning yellow if concentrated nitric acid touches it.",
+  "pidgin_answer": "Millon's test dey detect di presence of di amino acid tyrosine, if you add Millon's reagent and heat am, e go produce white precipitate wey go turn brick-red, e go show say tyrosine-containing protein dey present. Xanthoproteic test now dey detect amino acid wey get benzene ring, wey be aromatic amino acid like tyrosine and tryptophan, if you add concentrated nitric acid and heat am, di protein go turn yellow, wey go turn orange if you make am alkaline, dis na di same reaction wey dey make skin turn yellow if concentrated nitric acid touch am.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_266",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What is the difference between addition polymerization and condensation polymerization?",
+  "plain_answer": "Addition polymerization occurs when monomers containing a double bond join together repeatedly without losing any atoms, the double bond opens up and links directly to the next monomer, forming polymers like polythene from ethene. Condensation polymerization occurs when monomers join together with the loss of a small molecule, usually water, at each linkage, this typically requires monomers with two reactive functional groups, forming polymers like nylon and proteins.",
+  "pidgin_answer": "Addition polymerization dey occur when monomer wey get double bond join together repeatedly without losing any atom, di double bond go open up and link direct to di next monomer, e go form polymer like polythene from ethene. Condensation polymerization now dey occur when monomer join together with di loss of small molecule, usually water, for each linkage, dis one go normally need monomer wey get two reactive functional group, e go form polymer like nylon and protein.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_267",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "What is the difference between thermoplastic and thermosetting plastics?",
+  "plain_answer": "Thermoplastic polymers soften and can be remolded repeatedly when heated, since their polymer chains are held together only by weak forces without permanent cross-links, examples include polythene and PVC. Thermosetting plastics form permanent, rigid cross-links between polymer chains during initial heating and molding, once set, they cannot be melted and reshaped again, heating further will simply char or decompose them, examples include bakelite and melamine.",
+  "pidgin_answer": "Thermoplastic polymer go soften and dem fit remold am repeatedly if you heat am, since dia polymer chain dey held together only by weak force without any permanent cross-link, examples na polythene and PVC. Thermosetting plastic now go form permanent, rigid cross-link between polymer chain during di initial heating and molding, once e set, you no fit melt am and reshape am again, if you heat am further, e go just char or decompose, examples na bakelite and melamine.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+}, 
+{
+  "id": "chem_268",
+  "subject": "Chemistry",
+  "topic": "Industrial Chemistry",
+  "question": "What is the difference between heavy chemicals and fine chemicals in industrial chemistry?",
+  "plain_answer": "Heavy chemicals are produced in very large quantities at relatively low cost, using simple, well-established processes, examples include sulfuric acid, ammonia, and sodium carbonate, mainly used as raw materials for other industries. Fine chemicals are produced in smaller quantities but at much higher purity and cost, often through more complex, multi-step processes, examples include pharmaceuticals, dyes, and perfumes, valued for their specific, specialized properties rather than bulk quantity.",
+  "pidgin_answer": "Heavy chemical dem dey produce am for very large quantity, at relatively low cost, using simple, well-established process, examples na sulfuric acid, ammonia, and sodium carbonate, dem dey mainly use am as raw material for other industry. Fine chemical now dem dey produce am for smaller quantity but at much higher purity and cost, often through more complex, multi-step process, examples na pharmaceutical, dye, and perfume, dem dey value am for dia specific, specialized properties instead of bulk quantity.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Chemistry and Industry topic"
+},
+{
+  "id": "chem_269",
+  "subject": "Chemistry",
+  "topic": "Industrial Chemistry",
+  "question": "What is biotechnology, and how does it relate to industrial chemical processes?",
+  "plain_answer": "Biotechnology is the use of living organisms, or substances derived from them, such as enzymes or microorganisms, to carry out useful industrial processes. Examples relevant to chemical industry include using yeast for fermentation in producing ethanol and alcoholic beverages, using bacteria to produce enzymes for detergents and food processing, and using microorganisms in wastewater treatment to break down pollutants, biotechnology often provides a more energy-efficient and environmentally friendly alternative to traditional chemical synthesis for certain products.",
+  "pidgin_answer": "Biotechnology na di use of living organism, or substance wey dem derive from dem, like enzyme or microorganism, to carry out useful industrial process. Examples wey relevant to chemical industry na using yeast for fermentation to produce ethanol and alcoholic beverage, using bacteria to produce enzyme for detergent and food processing, and using microorganism for wastewater treatment to break down pollutant, biotechnology often dey provide more energy-efficient and environmentally friendly alternative to traditional chemical synthesis for certain product.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Chemistry and Industry topic"
+},
+{
+  "id": "chem_270",
+  "subject": "Chemistry",
+  "topic": "Acids, Bases and Salts",
+  "question": "How do you read and interpret a titration curve, using the titration of a strong acid with a strong base as an example?",
+  "plain_answer": "A titration curve plots pH on the vertical axis against volume of base added on the horizontal axis. For a strong acid and strong base, the curve starts low (acidic), rises gradually, then shows a very steep, near-vertical jump through pH 7 at the equivalence point, where moles of acid exactly equal moles of base added, before leveling off at a high pH. The midpoint of that steep vertical section marks the exact volume needed to fully neutralize the acid, and the correct indicator is chosen so its color change happens within this steep region.",
+  "pidgin_answer": "Titration curve dey plot pH for di vertical axis against volume of base wey you add for di horizontal axis. For strong acid and strong base, di curve go start low, wey be acidic, e go rise gradually, then e go show very steep, almost vertical jump through pH 7 for di equivalence point, where mole of acid go exactly equal mole of base wey you add, before e go level off for high pH. Di midpoint of dat steep vertical section dey mark di exact volume wey you need to fully neutralize di acid, and dem go choose di correct indicator so dat im color change go happen inside dis steep region.",
+  "difficulty": "hard",
+  "source": "JAMB Chemistry syllabus, Acids, Bases and Salts topic"
+},
+{
+  "id": "chem_271",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Basics",
+  "question": "How do you apply IUPAC rules to name a simple branched alkane, using 2-methylbutane as an example?",
+  "plain_answer": "First, identify the longest continuous carbon chain, here it is 4 carbons, giving the base name 'butane'. Next, number the chain from whichever end gives the lowest possible number to the branch, the methyl branch sits on the second carbon. Finally, combine the branch position, its name, and the base chain name: 2-methylbutane, meaning a methyl group attached to carbon 2 of a 4-carbon butane chain.",
+  "pidgin_answer": "First, you go identify di longest continuous carbon chain, here na 4 carbon, e go give di base name 'butane'. Next, you go number di chain from whichever end go give di lowest possible number to di branch, di methyl branch dey sit for di second carbon. Finally, you go combine di branch position, im name, and di base chain name: 2-methylbutane, e mean say methyl group dey attach to carbon 2 of one 4-carbon butane chain.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_272",
+  "subject": "Chemistry",
+  "topic": "Laws of Chemical Combination",
+  "question": "How do you calculate the empirical formula of a compound from percentage composition data, using a compound that is 40% carbon, 6.7% hydrogen, and 53.3% oxygen as an example?",
+  "plain_answer": "First, assume 100g of the compound, so the percentages become masses directly: 40g carbon, 6.7g hydrogen, 53.3g oxygen. Divide each mass by its relative atomic mass to get moles: carbon 40/12 equals 3.33, hydrogen 6.7/1 equals 6.7, oxygen 53.3/16 equals 3.33. Divide all three by the smallest value (3.33) to get the simplest whole-number ratio: carbon 1, hydrogen 2.01 (approximately 2), oxygen 1, giving the empirical formula CH2O.",
+  "pidgin_answer": "First, you go assume 100g of di compound, so di percentage go become mass direct: 40g carbon, 6.7g hydrogen, 53.3g oxygen. You go divide each mass by im relative atomic mass to get mole: carbon 40 divide by 12 go give 3.33, hydrogen 6.7 divide by 1 go give 6.7, oxygen 53.3 divide by 16 go give 3.33. You go divide all three by di smallest value, wey be 3.33, to get di simplest whole-number ratio: carbon 1, hydrogen 2.01, wey be approximately 2, oxygen 1, e go give empirical formula CH2O.",
+  "difficulty": "hard",
+  "source": "JAMB Chemistry syllabus, Chemical Combination topic"
+},
+{
+  "id": "chem_273",
+  "subject": "Chemistry",
+  "topic": "Chemical Bonding",
+  "question": "How do you name a coordination complex like [Cu(NH3)4]SO4 using IUPAC rules?",
+  "plain_answer": "In naming coordination complexes, ligands are named first in alphabetical order, followed by the central metal with its oxidation state in Roman numerals, then the counter-ion. Ammonia ligands are named 'ammine' with a prefix showing how many are present, so [Cu(NH3)4]SO4 is named tetraamminecopper(II) sulfate, tetraammine for the four ammonia ligands, copper(II) since copper has an oxidation state of +2 here, and sulfate as the counter-ion balancing the charge.",
+  "pidgin_answer": "For naming coordination complex, dem go name di ligand first for alphabetical order, follow by di central metal with im oxidation state for Roman numeral, then di counter-ion. Ammonia ligand dem dey name am 'ammine' with prefix wey go show how many dey present, so [Cu(NH3)4]SO4 na tetraamminecopper(II) sulfate, tetraammine na for di four ammonia ligand, copper(II) since copper get oxidation state of plus 2 here, and sulfate na di counter-ion wey dey balance di charge.",
+  "difficulty": "hard",
+  "source": "JAMB Chemistry syllabus, Chemical Bonding topic"
+},
+{
+  "id": "chem_274",
+  "subject": "Chemistry",
+  "topic": "Rate of Reaction",
+  "question": "How do you deduce activation energy from a reaction rate curve or energy profile diagram?",
+  "plain_answer": "An energy profile diagram plots energy on the vertical axis against the progress of a reaction on the horizontal axis. Activation energy is read as the vertical distance between the energy level of the reactants and the highest point of the curve, the peak representing the unstable transition state the reaction must pass through. A larger vertical gap means higher activation energy and generally a slower reaction, while a smaller gap means lower activation energy and a faster reaction, this same diagram also shows whether a reaction is exothermic or endothermic, based on whether the products end up lower or higher than the reactants.",
+  "pidgin_answer": "Energy profile diagram dey plot energy for di vertical axis against di progress of reaction for di horizontal axis. Activation energy na wetin you go read as di vertical distance between di energy level of di reactant and di highest point of di curve, di peak wey dey represent di unstable transition state wey di reaction must pass through. If di vertical gap big, e mean higher activation energy and generally slower reaction, while smaller gap mean lower activation energy and faster reaction, dis same diagram go still show whether reaction na exothermic or endothermic, based on whether di product end up lower or higher pass di reactant.",
+  "difficulty": "hard",
+  "source": "JAMB Chemistry syllabus, Rate of Reaction topic"
+},
+{
+    "id": "chem_275",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "What is the periodic table, and how are elements arranged within it?",
+    "plain_answer": "The periodic table is a systematic arrangement of all known chemical elements, organized by increasing atomic number. Elements are arranged in horizontal rows called periods, and elements in the same vertical column, called a group, share similar chemical properties because they have the same number of electrons in their outermost shell.",
+    "pidgin_answer": "Periodic table na systematic arrangement of all di known chemical element, dem arrange am by increasing atomic number. Elements dey arrange for horizontal row, wey dem call period, and element wey dey inside di same vertical column, wey dem call group, go share similar chemical properties because dem get di same number of electron for dia outermost shell.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Periodic Table topic"
+  },
+  {
+    "id": "chem_276",
+    "subject": "Chemistry",
+    "topic": "Metals",
+    "question": "What are the general physical properties of metals?",
+    "plain_answer": "Metals are generally malleable (can be hammered into sheets without breaking), ductile (can be drawn into wires), good conductors of heat and electricity, have high melting and boiling points, and have a characteristic shiny, lustrous surface. These properties come from metallic bonding, where a sea of delocalized electrons allows atoms to shift position without breaking bonds, and allows electrons to move freely to conduct charge.",
+    "pidgin_answer": "Metal dem dey generally malleable, wey mean you fit hammer am enter sheet without e breaking, ductile, wey mean you fit draw am enter wire, good conductor of heat and electricity, dem get high melting and boiling point, and dem get characteristic shiny, lustrous surface. Dis properties dey come from metallic bonding, where sea of delocalized electron go allow atom shift position without breaking bond, and e go allow electron move freely to conduct charge.",
+    "difficulty": "easy",
+    "source": "JAMB Chemistry syllabus, Metals topic"
+  }
 ]
