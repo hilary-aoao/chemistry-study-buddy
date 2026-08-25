@@ -1508,5 +1508,155 @@
   "pidgin_answer": "Hydrocarbon na any organic compound wey get only hydrogen and carbon inside am, nothing else. Di main types na alkane, wey get only single bond, dem call am saturated. Alkene, wey get at least one double bond. And alkyne, wey get at least one triple bond. You fit also group dem as aliphatic, wey be chain-like, or aromatic, wey be ring-based like benzene.",
   "difficulty": "easy",
   "source": "JAMB Chemistry syllabus, Organic Chemistry topic"
+},
+{
+  "id": "chem_152",
+  "subject": "Chemistry",
+  "topic": "Air",
+  "question": "What is the approximate composition of clean, dry air?",
+  "plain_answer": "Clean, dry air is approximately 78% nitrogen, 21% oxygen, and about 1% other gases, mainly argon, with small amounts of carbon dioxide, water vapor, and trace noble gases.",
+  "pidgin_answer": "Clean dry air na roughly 78 percent nitrogen, 21 percent oxygen, and around 1 percent other gases, mostly argon, with small small carbon dioxide, water vapor, and trace noble gases.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Air topic"
+},
+{
+  "id": "chem_153",
+  "subject": "Chemistry",
+  "topic": "Air",
+  "question": "How is oxygen and nitrogen obtained industrially from air?",
+  "plain_answer": "Air is first cooled and compressed until it liquefies. The liquid air is then fractionally distilled, since nitrogen and oxygen have different boiling points, nitrogen boils off first (at a lower temperature), leaving liquid oxygen behind, allowing both to be collected separately.",
+  "pidgin_answer": "Dem go first cool and compress di air until e turn liquid. Den dem go fractionally distill di liquid air, since nitrogen and oxygen get different boiling point, nitrogen go boil off first, since im boiling point lower, e go leave liquid oxygen behind, so dem fit collect both of dem separately.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Air topic"
+},
+{
+  "id": "chem_154",
+  "subject": "Chemistry",
+  "topic": "Air",
+  "question": "What is the difference between complete and incomplete combustion in air?",
+  "plain_answer": "Complete combustion happens when there is enough oxygen, producing carbon dioxide and water, with a clean blue flame. Incomplete combustion happens when oxygen is limited, producing carbon monoxide (a toxic, colorless gas) and soot (carbon), often with a yellow, smoky flame.",
+  "pidgin_answer": "Complete combustion dey happen when enough oxygen dey available, e go produce carbon dioxide and water, with clean blue flame. Incomplete combustion dey happen when oxygen no too much, e go produce carbon monoxide, wey be toxic colorless gas, and soot, wey be carbon, and di flame go dey yellow and smoky.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Air topic"
+},
+{
+  "id": "chem_155",
+  "subject": "Chemistry",
+  "topic": "Air",
+  "question": "Why does rusting of iron require both oxygen and moisture from the air?",
+  "plain_answer": "Rusting is a chemical reaction where iron reacts with oxygen in the presence of water to form hydrated iron(III) oxide. Water acts as an electrolyte that allows the oxidation process to occur, and oxygen from the air is the actual substance iron reacts with, without both present together, rusting does not occur.",
+  "pidgin_answer": "Rusting na chemical reaction where iron dey react with oxygen, but water must dey present too. Water dey work as electrolyte wey go allow di oxidation process happen, and oxygen from air na di real substance wey iron dey react with. If any one of di two, oxygen or water, no dey there, rusting no go happen at all.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Air topic"
+},
+{
+  "id": "chem_156",
+  "subject": "Chemistry",
+  "topic": "Air",
+  "question": "What are the major pollutant gases found in air, and what produces them?",
+  "plain_answer": "Major air pollutants include carbon monoxide (from incomplete combustion of fuels), sulfur dioxide (from burning fossil fuels containing sulfur impurities), oxides of nitrogen (from vehicle engines and industrial processes), and excess carbon dioxide (from combustion and deforestation), which contribute to problems like acid rain and the greenhouse effect.",
+  "pidgin_answer": "Major air pollutants na carbon monoxide, wey dey come from incomplete combustion of fuel, sulfur dioxide, wey dey come from burning fossil fuel wey get sulfur impurity, oxides of nitrogen, wey dey come from vehicle engine and industrial process, and excess carbon dioxide, wey dey come from combustion and deforestation. Dis ones dey contribute to problem like acid rain and greenhouse effect.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Air topic"
+},
+{
+  "id": "chem_157",
+  "subject": "Chemistry",
+  "topic": "Kinetic Theory of Matter",
+  "question": "What does the kinetic theory of matter state about the particles that make up all substances?",
+  "plain_answer": "The kinetic theory states that all matter is made up of tiny particles (atoms, molecules, or ions) that are in constant motion, and the amount of energy these particles have, and how freely they can move, determines whether a substance is a solid, liquid, or gas.",
+  "pidgin_answer": "Kinetic theory dey talk say all matter dey made up of small small particles, whether atom, molecule, or ion, and dem dey always dey move, dem no dey rest. Di amount of energy wey di particles get, and how free dem fit move, na im dey decide whether one substance na solid, liquid, or gas.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Kinetic Theory of Matter topic"
+},
+{
+  "id": "chem_158",
+  "subject": "Chemistry",
+  "topic": "Kinetic Theory of Matter",
+  "question": "How does the kinetic theory explain the differences between solids, liquids, and gases?",
+  "plain_answer": "In solids, particles are tightly packed and only vibrate in fixed positions, giving them a definite shape and volume. In liquids, particles are close together but can move past each other, giving a definite volume but no fixed shape. In gases, particles are far apart and move freely and rapidly in all directions, so gases have neither a fixed shape nor a fixed volume.",
+  "pidgin_answer": "For solid, di particles dey pack tight together, dem just dey vibrate for one fixed position, na why solid get fixed shape and fixed volume. For liquid, di particles dey close but dem fit move pass each other, so e get fixed volume but e no get fixed shape. For gas, di particles dey far apart, dem dey move freely and fast for every direction, na why gas no get fixed shape or fixed volume at all.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Kinetic Theory of Matter topic"
+},
+{
+  "id": "chem_159",
+  "subject": "Chemistry",
+  "topic": "Kinetic Theory of Matter",
+  "question": "What happens to particles during melting and boiling, according to kinetic theory?",
+  "plain_answer": "During melting, particles gain enough energy to overcome the fixed forces holding them in place, allowing them to move past one another, changing from a solid to a liquid. During boiling, particles gain enough energy to completely overcome the forces holding them together, escaping into the gas phase entirely.",
+  "pidgin_answer": "During melting, di particles go gain enough energy to overcome di fixed force wey dey hold dem for position, e go allow dem move pass each other, e go change from solid go liquid. During boiling now, di particles go gain even more energy, enough make dem fully overcome di force wey dey hold dem together, e go escape completely enter gas phase.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Kinetic Theory of Matter topic"
+},
+{
+  "id": "chem_160",
+  "subject": "Chemistry",
+  "topic": "Kinetic Theory of Matter",
+  "question": "What is Brownian motion, and how does it provide evidence for the kinetic theory of matter?",
+  "plain_answer": "Brownian motion is the random, erratic movement of small particles (like pollen grains) suspended in a fluid, observed under a microscope. This movement happens because the particles are being constantly and unevenly bombarded by fast-moving, invisible molecules of the surrounding fluid, providing direct visible evidence that matter is made of constantly moving particles, even when we cannot see those particles directly.",
+  "pidgin_answer": "Brownian motion na di random, jagajaga movement of small particles, like pollen grain, wey dey float inside fluid, wey you fit see under microscope. Dis movement dey happen because di particles dey constantly and unevenly knack by fast invisible molecules wey dey inside di fluid around dem. E dey give us direct proof wey we fit see with eye say matter dey made of particles wey dey always move, even though we no fit see di particles demselves directly.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Kinetic Theory of Matter topic"
+},
+{
+  "id": "chem_161",
+  "subject": "Chemistry",
+  "topic": "Kinetic Theory of Matter",
+  "question": "How does increasing temperature affect the particles of a substance, according to kinetic theory?",
+  "plain_answer": "Increasing temperature increases the average kinetic energy of the particles, causing them to move faster and collide more frequently and forcefully. This is why heating a solid can eventually cause it to melt, and heating a liquid can eventually cause it to boil, the particles simply gain enough energy to break free of the forces holding them in a more ordered state.",
+  "pidgin_answer": "If temperature increase, di average kinetic energy of di particles go increase too, e go make dem move faster and clash more often, with more force. Na why if you heat solid well well, e go eventually melt, and if you heat liquid well well, e go eventually boil, di particles just dey gain enough energy to break free from di force wey dey hold dem for dia more organized state.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Kinetic Theory of Matter topic"
+}, 
+{
+  "id": "chem_162",
+  "subject": "Chemistry",
+  "topic": "Nuclear Chemistry",
+  "question": "What is the difference between beta decay and gamma radiation?",
+  "plain_answer": "In beta decay, a neutron in the nucleus converts into a proton and an electron, and that high-energy electron (called a beta particle) is emitted, increasing the atomic number by 1 while the mass number stays the same. Gamma radiation is different, it is simply high-energy electromagnetic radiation released from an unstable nucleus, with no mass and no charge, so it does not change the atomic number or mass number at all, it usually just accompanies alpha or beta decay to release excess energy.",
+  "pidgin_answer": "For beta decay, one neutron for di nucleus go convert to proton and electron, and dat high energy electron, wey dem call beta particle, go release comot, e go increase di atomic number by 1 while di mass number remain di same. Gamma radiation different, na just high energy electromagnetic radiation wey dey release from unstable nucleus, e no get mass, e no get charge, so e no dey change atomic number or mass number at all, e just dey follow alpha or beta decay to release extra energy.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Nuclear Chemistry topic"
+},
+{
+  "id": "chem_163",
+  "subject": "Chemistry",
+  "topic": "Nuclear Chemistry",
+  "question": "What is the difference between nuclear fission and nuclear fusion?",
+  "plain_answer": "Nuclear fission is the splitting of a large, heavy nucleus (like uranium) into two smaller nuclei, releasing a large amount of energy, this is the process used in nuclear power plants. Nuclear fusion is the opposite, combining two small, light nuclei (like hydrogen isotopes) into a single larger nucleus, releasing even more energy, this is the process that powers the sun and stars.",
+  "pidgin_answer": "Nuclear fission na when one big heavy nucleus, like uranium, split enter two smaller nucleus, e go release plenty energy, and na dis process dem dey use for nuclear power plant. Nuclear fusion na di opposite, e dey combine two small light nucleus, like hydrogen isotope, come form one bigger nucleus, e go release even more energy, and na dis process dey power di sun and stars.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Nuclear Chemistry topic"
+},
+{
+  "id": "chem_164",
+  "subject": "Chemistry",
+  "topic": "Nuclear Chemistry",
+  "question": "What are some peaceful, everyday uses of radioisotopes besides medicine?",
+  "plain_answer": "Radioisotopes are used in carbon dating to determine the age of ancient organic materials and fossils, in agriculture to track how fertilizers and nutrients move through plants, in industry to detect leaks or flaws in pipes and metal structures without cutting them open, and in food preservation, where radiation is used to kill bacteria and extend shelf life.",
+  "pidgin_answer": "Radioisotope dey useful for carbon dating, e go help find out how old ancient organic material and fossil be. For agriculture, dem dey use am track how fertilizer and nutrient dey move inside plant. For industry, dem dey use am detect leak or fault for pipe and metal structure without cutting am open. Dem still dey use am for food preservation, di radiation go kill bacteria and make food last longer.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Nuclear Chemistry topic"
+},
+{
+  "id": "chem_165",
+  "subject": "Chemistry",
+  "topic": "Nuclear Chemistry",
+  "question": "How does a Geiger counter detect radioactivity, and why is radiation safety important?",
+  "plain_answer": "A Geiger counter detects radiation because radioactive particles ionize gas inside the device's tube as they pass through, creating a brief electrical pulse that gets counted and often converted into an audible click. Radiation safety matters because exposure to radioactive materials can damage living cells and DNA, so handlers use shielding, limit exposure time, and keep a safe distance to minimize risk.",
+  "pidgin_answer": "Geiger counter dey detect radiation because di radioactive particle go ionize di gas wey dey inside di device tube as e dey pass through, e go create small electrical pulse wey dem go count, and e go often turn to di click sound wey you dey hear. Radiation safety matter well well because exposure to radioactive material fit damage living cell and DNA, so anybody wey dey handle am go use shield, limit di time wey dem dey expose to am, and keep safe distance to reduce di risk.",
+  "difficulty": "medium",
+  "source": "JAMB Chemistry syllabus, Nuclear Chemistry topic"
+},
+{
+  "id": "chem_166",
+  "subject": "Chemistry",
+  "topic": "Nuclear Chemistry",
+  "question": "What is background radiation, and where does it come from?",
+  "plain_answer": "Background radiation is the low level of radiation that exists naturally in our environment at all times, even without any nuclear activity nearby. It comes from natural sources like cosmic rays from space, radioactive elements in rocks and soil (such as radon gas), and even small amounts of radioactive material naturally present in food and the human body.",
+  "pidgin_answer": "Background radiation na di small level of radiation wey dey naturally dey our environment all di time, even without any nuclear activity near us. E dey come from natural source like cosmic ray from space, radioactive element wey dey inside rock and soil, like radon gas, and even small small radioactive material wey dey naturally inside food and inside human body sef.",
+  "difficulty": "easy",
+  "source": "JAMB Chemistry syllabus, Nuclear Chemistry topic"
 }
 ]

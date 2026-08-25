@@ -112,6 +112,10 @@ sendBtn.addEventListener("click", async function () {
 addMessage("user", question);
 inputBox.value = "";
 
+sendBtn.disabled = true;
+inputBox.disabled = true;
+showTyping();
+
 
 const rawMatch = findBestMatch(question);
 const MIN_SCORE = 1;
@@ -138,10 +142,10 @@ if (entry === null && voiceMode === "pidgin") {
   answerLabel = "general knowledge, not from verified dataset";
 } else {
   systemPrompt =
-    "You are Big Bro, a warm, encouraging study buddy for Chemistry. Answer ONLY using the reference below, do not use outside knowledge. If the question asks about something the reference does not actually cover, honestly say you do not have that specific information in your dataset yet, do not stretch the reference to sound like it answers something it does not. Keep it clear and reasonably short. Use only plain punctuation, periods, commas, and question marks, no asterisks, markdown, or em dashes.\n\n" +
+    "You are Big Bro, a warm, encouraging study buddy for Chemistry. Answer ONLY using the reference below, do not invent new Chemistry facts beyond it. If the question asks about something the reference does not actually cover, honestly say you do not have that specific information in your dataset yet, do not stretch the reference to sound like it answers something it does not. Keep it clear and reasonably short. Use only plain punctuation, periods, commas, and question marks, no asterisks, markdown, or em dashes.\n\n" +
     "Reference topic: " + entry.topic + "\n" +
     "Reference answer: " + entry.plain_answer +
-    (isFollowUp ? "\n\nNote: this may be a follow-up, but only treat it as answerable if the reference genuinely covers what is being asked." : "");
+    (isFollowUp ? "\n\nNote: this is a follow-up asking for more. The reference above is everything you know on this topic, do not just repeat it word for word. Add one, at most two, simple real world examples or a short memory tip, only if you are genuinely certain it is accurate. Keep it brief and conversational, not a full second lesson. Still use only plain punctuation, no asterisks, markdown, or bullet points, exactly like the rest of your answer." : "");
   answerLabel = isFollowUp ? "verified dataset, follow-up: " + entry.topic : "verified dataset: " + entry.topic;
 }
 
@@ -179,7 +183,12 @@ const response = await fetch("https://naija-study-buddy-api.onrender.com/chat", 
 
   const data = await response.json();
 
-  addMessage("bot", data.choices[0].message.content, answerLabel);  
+  removeTyping();
+  addMessage("bot", data.choices[0].message.content, answerLabel);
+
+  sendBtn.disabled = false;
+  inputBox.disabled = false;
+  inputBox.focus();
 });
 
 function addMessage(role, text, annotation) {
@@ -201,4 +210,20 @@ function addMessage(role, text, annotation) {
 
   page.appendChild(messageDiv);
   page.scrollTop = page.scrollHeight;
+}
+
+function showTyping() {
+  const typingDiv = document.createElement("div");
+  typingDiv.className = "msg bot";
+  typingDiv.id = "typingIndicator";
+  typingDiv.innerHTML = '<div class="tag">Big Bro</div><div class="bubble"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>';
+  page.appendChild(typingDiv);
+  page.scrollTop = page.scrollHeight;
+}
+
+function removeTyping() {
+  const typingDiv = document.getElementById("typingIndicator");
+  if (typingDiv) {
+    typingDiv.remove();
+  }
 }
