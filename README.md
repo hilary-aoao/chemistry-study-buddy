@@ -80,3 +80,9 @@ This was tuned through real testing, including catching and fixing a case where 
 - Continue expanding the dataset topic by topic, following the structured Chemistry syllabus
 - Explore upgrading retrieval to real sentence embeddings for better handling of rephrased questions
 - Add a printable or shareable summary of a study session
+  
+## License
+
+© 2026 Hilary Orefo. All rights reserved.
+
+This project is shared publicly as a portfolio piece demonstrating full-stack development, retrieval system design, and applied prompt engineering. The code, dataset, and content are not licensed for reuse, redistribution, or commercial use without explicit permission from the author.
